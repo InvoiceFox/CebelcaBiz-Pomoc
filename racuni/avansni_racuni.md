@@ -31,12 +31,22 @@ Ta korak ni obvezen.
 
 ### 2. Korak: Avansni račun
 
-Stranka je plačala in ustvarili boste avansni račun. Račun lahko ustvarite na več načinov.
+Stranka vam je plačala in izdati morate avansni račun. Ker so potrebe tu zelo različne vam Čebelca to omogoča storiti na 3 različne načine:
 
-#### Avans kot procent predračuna
+#### Ročno kreiranje avansa (brez ali z predračunom)
 
-#### Avans na osnovi predračuna a zneskovno
+Na strani **Izdani računi** kliknete **Dodaj avans**, izberete stranko in datume ter nadaljujete. Pri postavki sami vpišete npr. "Predplačilo za rezervacijo sobe", vnesete neto znesek plačila glede na DDV stopnjo, količino, davčno stopnjo in dodate vrstico.
 
-#### Avans brez predhodnega predračuna
+Znesek je neto znesek predplačila. Če ste pred tem izdali predračun je dobro da se v nazivu sklicujete tudi nanj, po zakonu pa morate dodati tudi na katere storitve oz. izdelke se avans nanaša ter njihovo količino.
 
+#### Avans kot določen procent predračuna
+
+Na strani **Izdani računi** kliknete **Dodaj avans**, izberete stranko in datume ter nadaljujete. Namesto dodajanja postavk kliknete modro **predplačilo**. Vnosna vrstica se bo spremenila in izbrali boste lahko predračun na katerega se sklicujete in **procentualno** koliko predračuna je bilo plačanega. Program bo sam ustvaril besedilo postavke, dodal pa bo tudi nazive postavk in količine ker tako zahteva zakon.
+
+#### Avans iz predračuna a zneskovno
+
+Če ste že ustvarili predračun in je stranka plačala določen znesek predplačila, ter ga ne želite pretvarjati v procente imate še eno opcijo. Na strani **Predračuni** odprite predračun. Spodaj boste videli modro **Avansni računi**, ki jo kliknete. Tam dodate datume Avansnega računa in Bruto znesek plačila.
+Program bo ustvaril avansni račun, sam izračunal procent plačila, se skliceval na predračun in dodal nazive storitev in količine.
+
+### 3. Korak: Končni račun
 
