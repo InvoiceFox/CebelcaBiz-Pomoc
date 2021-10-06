@@ -50,3 +50,12 @@ Program bo ustvaril avansni račun, sam izračunal procent plačila, se skliceva
 
 ### 3. Korak: Končni račun
 
+Ko je storitev opravljena izdate končni račun. Ta vsebuje spet vse storitve, količine in cene, ter njihov seštevek ter DDV. Potem pa od tega odšteje vse avansne račune in prikaže končni znesek za plačilo. Ta je lahko tudi 0. Kljub temu morate končni račun izdati.
+
+#### Končni račun iz predračuna
+
+Če ste na začetku ustvarili predračun, imate tam že naštete vse storitve, cene, davčne stopnje, ter tudi povezavo do vseh avansov. Odprite željeni predračun in kliknite **Ustvari končni račun**.
+
+#### Končni račun brez predračuna
+
+Ker niste kreirali predračuna, še nimate seznama postavk, ki jih zaračunavate. Torej kliknete *Dodaj končni račun*, izberete partnerja, datume in nadaljujete. Potem pa kliknete **Pridobi avanse**. Pokazal se vam bo seznam avasnih računov temu partnerju, izberete lahko enega ali več le teh in dodali se vam bodo na končni račun.
