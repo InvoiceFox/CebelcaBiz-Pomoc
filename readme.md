@@ -10,9 +10,9 @@ gotovinske račune. Čebelca MOBI je mobilna davčna blagajna in je prilagojena 
 
 ### Spletni program Računi
 
-* Nastavitev pred prvo uporabo
-* [Splošna navodila](racuni/splosna_navodila.md)
-* Nastavitev davčne blagajne
+* **Pred prvo uporabo**
+* [**Splošna navodila**](racuni/splosna_navodila.md)
+* **Nastavitev davčne blagajne**
 * Povezava s spletno trgovino
 * [Avansni računi](racuni/avansni_racuni.md)
 * Izdajanje računov v tujino
@@ -21,16 +21,16 @@ gotovinske račune. Čebelca MOBI je mobilna davčna blagajna in je prilagojena 
 
 ### Mobilna davčna blagajna Čebelca MOBI
 
-* Nastavitve pred prvo uporabo
-* Splošna navodila
+* **Nastavitve pred prvo uporabo**
+* **Splošna navodila**
 * Poročila in izvoz podatkov
 
 ### Spletni program Skladišče
 
-* Splošna navodila
+* **Splošna navodila**
 * Poročila in inventura
 * Konsignacijska prodaja
 
 ### Spletni program Potni nalogi
 
-* Splošna navodila
+* **Splošna navodila**
