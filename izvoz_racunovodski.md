@@ -8,25 +8,25 @@ nastaviti željene konte.
 
 ## Kazalo
 
-### Nastavitve pred izvozom
+### Nastavitve in vnos podatkov
 
 * Kontni načrt
 * Konti za ne-računovodje
 * Šifre partnerjev
+* Trg: domači, EU, tuji
 
 ### VOD in SAOP XML
 
 * Postopek izvoza
 * Primeri knjižb
 * Avansni in končni račun
-* Računi v tujino
 
 ### Ostale možnosti izvoza
 
 * Seznam ali poročilo v Excel-u
 * E-slog (e-račun)
 
-## Nastavitve pred izvozom
+## Nastavitve in vnos podatkov
 
 ### Kontni načrt
 
@@ -56,6 +56,42 @@ na strani **Kontni načrt** spodaj. Če partner ne bo imel vnešene davčne šte
 
 ### Trg, domači, EU, tuji
 
-Da bo program vedel v kateri trg naj dodeli določen račun morate pri partnerju pravilno vnesti ID za ddv in/ali Državo. Če je partner podjetje v EU, potem vnesite
-njihod ID za DDV skupaj s predpono. Npr. v Sloveniji je ta SI, v Italiji IT, itd. Če kupec nima ID za DDV (je fizična oseba), potem pravilno vnesite državo.
+Da bo program vedel v kateri trg naj dodeli določen račun morate pri partnerju pravilno vnesti ID za ddv in Državo. 
+* Če je partner podjetje v EU, potem vnesite njihod ID za DDV skupaj s predpono. Npr. v Sloveniji je ta SI, v Italiji IT, itd. 
+* Če kupec nima ID za DDV (je fizična oseba), potem pravilno vnesite državo. Če je ta v EU v polje država dodajte "**, EU**"
+* Če je kupec iz Slovenije je lahko polje država prazno, ID za ddv ali davčno številko pa vneste glede na to ali do ali niso davčni zavezanci
 
+## VOD in SAOP XML
+
+### Postopek izvoza
+
+Za izvoz obiščite stran **Podatki** zgoraj desno. XML izvoz najdete v prvi rubriki **Uvoz v računovdski program**. Za Vasco in Datalab izberite prvo opcijo VOD XML. Opal ima svojo opcijo VOD XML. SAOP pa še nižje svoj XML zapis. Vnesite obdobje preko "Od" in "Do" datumov, ter pritisnite **Prenesi**. S kljukico lahko določite ali naj se za izbiro obdobja upošteva datum izdaje računa ali datum opravljene storitve. 
+
+VOD XML opcije omogočajo tudi **vizualen predogled** izvoženih podatkov v tabelarični obliki. Izberite opcijo **oblikovani VOD XML**. Če ste v Firefox ali Chrome 
+brskalniku se vam bo prikazala tabela v obliki glavne knjige z podakti, kot se bodo izvozili. Tu lahko preverite konte, šifre, trg in zneske oz. to pokažete računvodstvu.
+
+### Primer knjižb
+
+Običajen račun z dvema stopnjama DDV se bo izvozil takole (slika prikazuje oblikovani VOD XML):
+
+### Avansni in končni račun
+
+Avansni račun se ne šteje pod prihodke, ti se upoštevajo šele ob izdaji končnega računa. Več o samih avansnih računih na [tej strani](racuni/avansni_racuni.md).
+
+Primer knjižb avansnega računa za 100 EUR:
+
+Primer knjižb končnega računa za 300 EUR, delno poravnanega z avansom v vrednosti 100 EUR.
+
+## Ostale možnosti izvoza
+
+### Oblikovano poročilo prodaje (Excel)
+
+Če želite dnevno poročilo, mesečno poročilo ali poročilo za poljubno obdobje uporabite ta izvoz. Podatki se izvozijo sešteti za obdobje, a ločeni po davčnih stopnjah in načinih plačila. 
+
+### Oblikovan seznam računov (Excel)
+
+Ustvari se seznam vseh računov za izbrano obdobje, zneske prikaže za vsak račun posebej glede na davčno stopnjo in način plačila.
+
+### E-slog (e-račun) XML
+
+E-slog 2.0 je standard za slovenske elektronske račune. Uporablja se predvsem pri poslovanju s proračunskimi uporabniki, nekateri računovodski programi pa omogočajo uvoz računov preko tega zapisa.
