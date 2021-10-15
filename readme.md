@@ -17,7 +17,7 @@ gotovinske račune. Čebelca MOBI je mobilna davčna blagajna in je prilagojena 
 * [Avansni računi](racuni/avansni_racuni.md)
 * Izdajanje računov v tujino
 * E-računi proračunskim uporanikom
-* Izvoz podatkov za računovodstvo
+* [Izvoz podatkov za računovodstvo](izvoz_racunovodski.md)
 * [Povezava s spletno trgovino](https://github.com/InvoiceFox/CebelcaBIZ-WooCommerce)
 
 ### Mobilna davčna blagajna Čebelca MOBI
