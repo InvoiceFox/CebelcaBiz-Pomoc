@@ -74,13 +74,20 @@ brskalniku se vam bo prikazala tabela v obliki glavne knjige z podakti, kot se b
 
 Običajen račun z dvema stopnjama DDV se bo izvozil takole (slika prikazuje oblikovani VOD XML):
 
+
+![](./racuni/export_xml_vod_racun.png)
+
 ### Avansni in končni račun
 
 Avansni račun se ne šteje pod prihodke, ti se upoštevajo šele ob izdaji končnega računa. Več o samih avansnih računih na [tej strani](racuni/avansni_racuni.md).
 
 Primer knjižb avansnega računa za 100 EUR:
 
+![](./racuni/export_xml_vod_avans.png)
+
 Primer knjižb končnega računa za 300 EUR, delno poravnanega z avansom v vrednosti 100 EUR.
+
+![](./racuni/export_xml_vod_koncni.png)
 
 ## Ostale možnosti izvoza
 
