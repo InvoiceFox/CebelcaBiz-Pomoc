@@ -10,21 +10,22 @@ nastaviti željene konte.
 
 ### Nastavitve in vnos podatkov
 
-* Kontni načrt
-* Konti za ne-računovodje
-* Šifre partnerjev
-* Trg: domači, EU, tuji
+* [Kontni načrt](#kontni-načrt)
+* [Konti za ne-računovodje](#konti-za-ne-računovodje)
+* [Šifre partnerjev](#šifre-partnerjev)
+* [Trg: domači, EU, tuji](#trg-domači-eu-tuji)
 
 ### VOD in SAOP XML
 
-* Postopek izvoza
-* Primeri knjižb
-* Avansni in končni račun
+* [Postopek izvoza](#postopek-izvoza)
+* [Primeri knjižb](#primeri-knjižb)
+* [Avansni in končni račun](#avansni-in-končni-račun)
 
 ### Ostale možnosti izvoza
 
-* Seznam ali poročilo v Excel-u
-* E-slog (e-račun)
+* [Oblikovano poročilo prodaje (Excel)](#oblikovano-poročilo-prodaje-excel)
+* [Oblikovan seznam računov (Excel)](#oblikovan-seznam-računov-excel)
+* [E-slog (e-račun) XML](#e-slog-e-račun-xml)
 
 ## Nastavitve in vnos podatkov
 
@@ -70,7 +71,7 @@ Za izvoz obiščite stran **Podatki** zgoraj desno. XML izvoz najdete v prvi rub
 VOD XML opcije omogočajo tudi **vizualen predogled** izvoženih podatkov v tabelarični obliki. Izberite opcijo **oblikovani VOD XML**. Če ste v Firefox ali Chrome 
 brskalniku se vam bo prikazala tabela v obliki glavne knjige z podakti, kot se bodo izvozili. Tu lahko preverite konte, šifre, trg in zneske oz. to pokažete računvodstvu.
 
-### Primer knjižb
+### Primeri knjižb
 
 Običajen račun z dvema stopnjama DDV se bo izvozil takole (slika prikazuje oblikovani VOD XML):
 
