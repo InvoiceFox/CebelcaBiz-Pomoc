@@ -1,2 +1,2 @@
-# Kreiranje in pošiljanje E-računov
+# Kreiranje in pošiljanje e-računov
 
