@@ -4,6 +4,14 @@ Lepo da ste pričeli, ali razmišljate, da bi pričeli z uporabo programov Čebe
 in nudi enostavno in fleksibilno izdajanje računov, beleženje plačil, pregled nam strankami in statistiko. Plus verzija pa nudi tudi predračune, ponudbe,
 prejete račune ter avansne račune.
 
+  * [Kako postanete uporabnik/ica](#kako-postanete-uporabnikica)
+  * [Prva prijava v program](#prva-prijava-v-program)
+  * [Nastavitve](#nastavitve)
+    * [Podatki o podjetju](#podatki-o-podjetju)
+    * [Besedila](#besedila)
+    * [Davčne blagajne](#davčne-blagajne)
+  * [Vnost partnerjev in storitev](#kako-postanete-uporabnik-ica)
+
 ## Kako postanete uporabnik/ica
 
 Da *se registirate* obiščete našo spletno stran https://www.cebelca.biz ter blizu vrha poiščete tipko **Preglejte pakete in postanite uporabnik**. Klik vas
