@@ -17,6 +17,7 @@ nastaviti željene konte.
   * [Postopek izvoza](#postopek-izvoza)
   * [Primeri knjižb](#primeri-knjižb)
   * [Avansni in končni račun](#avansni-in-končni-račun)
+  * [Turistične takse](#turistične-takse)
 * [Ostale možnosti izvoza](#ostale-možnosti-izvoza)
   * [Oblikovano poročilo prodaje (Excel)](#oblikovano-poročilo-prodaje-excel)
   * [Oblikovan seznam računov (Excel)](#oblikovan-seznam-računov-excel)
@@ -84,6 +85,13 @@ Primer knjižb avansnega računa za 100 EUR:
 Primer knjižb končnega računa za 300 EUR, delno poravnanega z avansom v vrednosti 100 EUR.
 
 ![](./export_xml_vod_koncni.png)
+
+### Turistične takse
+
+Turistične in druge takse se izvozijo pod svoj konto. Pri vnosu naj uporabnik v polju za DDV izbere 0% Ostali davki. Tako se bo taksa pravilno poročala 
+v sistemu davčnih blagajn, in tudi pri izvozu jo ne bo dodalo k prihodkom ampak pod svoj konto. Na primer 2661. Program uporašteva pod takse tudi postavke, ki imajo davek 0% in v besedilo besedo "taksa".
+
+![](./export_xml_vod_taksa.png)
 
 ## Ostale možnosti izvoza
 
