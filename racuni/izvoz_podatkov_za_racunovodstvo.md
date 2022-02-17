@@ -8,24 +8,19 @@ nastaviti željene konte.
 
 ## Kazalo
 
-### Nastavitve in vnos podatkov
-
-* [Kontni načrt](#kontni-načrt)
-* [Konti za ne-računovodje](#konti-za-ne-računovodje)
-* [Šifre partnerjev](#šifre-partnerjev)
-* [Trg: domači, EU, tuji](#trg-domači-eu-tuji)
-
-### VOD in SAOP XML
-
-* [Postopek izvoza](#postopek-izvoza)
-* [Primeri knjižb](#primeri-knjižb)
-* [Avansni in končni račun](#avansni-in-končni-račun)
-
-### Ostale možnosti izvoza
-
-* [Oblikovano poročilo prodaje (Excel)](#oblikovano-poročilo-prodaje-excel)
-* [Oblikovan seznam računov (Excel)](#oblikovan-seznam-računov-excel)
-* [E-slog (e-račun) XML](#e-slog-e-račun-xml)
+* [Nastavitve in vnos podatkov](#nastavitve-in-vnos-podatkov)
+  * [Kontni načrt](#kontni-načrt)
+  * [Konti za ne-računovodje](#konti-za-ne-računovodje)
+  * [Šifre partnerjev](#šifre-partnerjev)
+  * [Trg: domači, EU, tuji](#trg-domači-eu-tuji)
+* [VOD in SAOP XML](#vod-in-saop-xml)
+  * [Postopek izvoza](#postopek-izvoza)
+  * [Primeri knjižb](#primeri-knjižb)
+  * [Avansni in končni račun](#avansni-in-končni-račun)
+* [Ostale možnosti izvoza](#ostale-možnosti-izvoza)
+  * [Oblikovano poročilo prodaje (Excel)](#oblikovano-poročilo-prodaje-excel)
+  * [Oblikovan seznam računov (Excel)](#oblikovan-seznam-računov-excel)
+  * [E-slog (e-račun) XML](#e-slog-e-račun-xml)
 
 ## Nastavitve in vnos podatkov
 
