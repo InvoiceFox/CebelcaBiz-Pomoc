@@ -1,4 +1,4 @@
-# Izvoz podatkov v računovodske programe
+# Izvoz podatkov za računovodstvo
 
 ## Uvod
 
