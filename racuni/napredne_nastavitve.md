@@ -18,3 +18,5 @@ Lep dan še naprej,
  Podjetje d.o.o.
  ```
  
+Ko spremenite nastavitev se trenutno odjavite in ponovno prijavite (kasneje to ne bo potrebno).
+ 
