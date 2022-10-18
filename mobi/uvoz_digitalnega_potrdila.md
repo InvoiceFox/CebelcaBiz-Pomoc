@@ -24,17 +24,20 @@ vaš(a) računovodja, saj preko eDavkov oddaja poročila za vaše podjetje.
 
 Na e-davkih je potrebno oddati obrazec DPR_PrevzemDP. V kratkem času prejmete odgovor s povezavo, referenčno številko in geslom za prevzem.
 
+[Kako sam zahtevam namensko digitalno potrdilo na e-davkih?](./faq.md#Kako sam zahtevam namensko digitalno potrdilo na e-davkih)
+
 ### Kaj storim, ko dobim referenčno številko in geslo od računovodje?
 
 Od računovoja lahko prejmete že samo p12 daoteko. V tem primeru jo samo prenesite na svoj računalnik.
 
 Če tega ne prejmete pa dobite PDF dokument s podatki za prevzem digitalnega potrdila. Prevzem nujno opravite na **klasičnem računalniku**, ne 
-na Android tablici ali telefonu, saj potem do prenešene datoteke ne boste mogli. 
+na Android tablici ali telefonu, saj potem do prenešene datoteke ne boste mogli.
 
-V PDF dokumentu prejmete referenčno št., geslo in povezavo do strani za prevzem. Kliknite povezavo in vpišite ostala
+V PDF dokumentu prejmete referenčno št., geslo in povezavo do strani za prevzem.Kliknite povezavo in vpišite ostala
 dva podatka. S tem sprožite prenos .p12 datoteke na računalnik. Če se povezave ne da klikniti v google vpišite "taxca prevzem".
 
-Če vas vaš brskalnik opozori, da povezava ni varna, najdite *Dodatne možnosti* oz. *Napredno* in kliknite *Vseeno nadaljuj na ...*
+[Brskalnik mi javi, da povezava ni varna](./faq.md#Brskalnik mi javi, da povezava ni varna)
+[Stran mi javi mi, da je potrdilo že prevzeto](./faq.md#Stran mi javi mi, da je potrdilo že prevzeto)
 
 ## Uvoz preko spletne strani Čebelca.biz
 
@@ -43,17 +46,20 @@ dva podatka. S tem sprožite prenos .p12 datoteke na računalnik. Če se povezav
 Na prvi strani aplikacije kliknete 3 pike zgoraj desno za meni. Tam izberete **Poveži dostop**. Na obrazcu, ki se prikaže vnesete vaš email
 in geslo iz spletne strani Čebelca BIZ ter kliknete *Poveži dostop*.
 
-Če dostopa še nimate, obiščite spletno stran [Čebelca MOBI](https://www.cebelca.biz/mobi) in se tam registrirajte preko rdeče tipke. 
-Pri registraciji si določite email in geslo, kot ga boste imeli za prijavo na Čebelco in tudi za povezavo dostopa pri Mobi.
-
 Dostop je potrebno povezati le enkrat. Ta povezava pa služi tudi drugim namenom, npr. izvozu / uvozu podatkov.
 
+[Dostopa še nimam, kako ga ustvarim?](./faq.md#Dostopa še nimam, kako ga ustvarim)
+v
 ### Naložite potrdilo v okno na spletni strani Mobi
 
 Na računalniku z miško primete .p12 datoteko in jo spustite v okno desno na strani Mobi. Če vam to ne gre lahko v modro okno dvo-kliknete in odprlo se
 vam bo okno za izbiro datoteke iz vašega računalnika.
 
-### Uvozite potrdilo v Čebelco MOBI
+[Ne najdem sekcije Mobi v spletnem programu](./faq.md#Ne najdem sekcije Mobi v spletnem programu)
+
+### Uvozite potrdilo v mobilni program
 
 V Mobilnem programu kliknete 3 pike ter Nastavitve programa. Potem greste na zavihek program in tam kliknete "Uvozi iz Čebelca BIZ". Če ste geslo
 postavili v moder okvirček, vas bo vprašalo za geslo dig. potrdila. Vpišete geslo, ki ste ga poleg referenčne številke prejeli od e-davkov.
+
+[Javi mi da geslo potrdila ni pravilno](./faq.md#Javi mi da geslo potrdila ni pravilno)
