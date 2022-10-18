@@ -13,17 +13,22 @@ Pojdite na prijavno stran Čebelce MOBI. Oglejte si primerjavo med paketoma. V o
 
 Prejšnje korake lahko opravite na telefonu, tablici ali klasičnem računalniku. Za namestitev, pa je najbolje da se v Čebelco prijavite kar s telefonom ali tablico, na katerega želite namestiti program. Ko boste prijavljeni, boste na osnovni strani MOBI paketa videli dve tipki. Prva omogoča prenos testne verzije programa, druga pa prave verzije.
 Testni način delovanja
-Čemu je namenjen testni način
+
+### Čemu je namenjen testni način
 
 Prava verzija sedaj vključuje testni način delovanja. Testni način vam omogoča, da se seznanite z uporabo, preizkusite tiskalnik ob pravih artiklih in podatkih o podjetju. Oz. tudi kasneje koga naučite uporabe programa ali rešite tehnično težavo (npr. nov tiskalnik) še preden ste pred stranko in morate izdati pravi račun.
-Kako aktiviram in deaktiviram testni način
-Kako deluje testni način
+
+## Kako aktiviram in deaktiviram testni način
+
+### Kako deluje testni način
 
 Vsi podatki ostanejo kot so. Le računi se označijo kot testni, se ne upoštevajo med pravimi računi in nanje se 2x na veliko izpiše da račun ni pravi. Poleg tega se računi v tesnem načinu s testnim potrdilom pošljejo na tesni FURS-ov strežnik. Prav tako poslovni porstori. Ko preklopite iz testnega načina testnih računov ne bo, poslovne prostore pa je treba potrditi potem v netestnem načinu, pred pravo uporabo.
 
 Program namestite tako da kliknete na prej omenjeno tipko. Ker gre za aplikacijo vas bo android opozoril, da je datoteka lahko nevarna. Po prenosu se vam ponudi v namestitev. Možno je da morate izrecno dovoliti namestitev iz tretjih virov.
-Nastavite program
-Podatki podjetja
+
+## Nastavite program
+
+### Podatki podjetja
 
 Ob prvem zagonu vas pozdravi vstopno okno. Na njem vidite naziv podjetja, poslovnega prostora in blagajne ter izbiro prodajalca.
 
@@ -47,13 +52,15 @@ Vzorce internih aktov najdete na strani FURS, pozorni bodite, da se pri naših p
 
     Vzorec internega akta - primer 4: Več poslovnih prostorov, zaporedne številke računov si sledijo v zaporedju po centralni elektronski \ napravi (strežniku) v poslovnem prostoru zavezanca
 
-Prvi poskusni račun
-Dodajte izdelke
+## Prvi poskusni račun
+
+### Dodajte izdelke
 
 S pritiskom na izdelke jih dodate na račun. En kos je en pritisk. Če želite dodati decimalno količino (npr 1.5 kg) ali večjo količino uporabite dolgi pritisk. Ta vam odpre okence za številski vnos količine ter prav tako popusta.
 
 Če je artiklov manj vam priporočamo "ploščat" prikaz, kjer kategorije ločijo barve. Če pa imate artiklov več pa si v Upravljanje » Nastavitve izberete gnezdene kategorije.
-Preglejte račun
+
+### Preglejte račun
 
 Na naslednjem zavihku lahko vidite stvari na računu in jih z dolgim pritiskom iz račun odstranite.
 Vnesite plačilo in zaključite račun
@@ -62,17 +69,20 @@ Na tretjem zavihku izberete način plačila in natisnete ter zaključite račun.
 
 Dolgi pritisk vam omogoča vnos plačanega zneska in program potem prikaže znesek vračila. Račun je lahko plačan z več načini hkrati. Načine plačila se ureja v Upravljanju.
 Bluetooth tiskalnik
-Nekaj o tiskalnikih
+
+### Nekaj o tiskalnikih
 
 Čebelca MOBI tiska na brezžične (Bluetooth) POS (blagajniške) tiskalnike. Ti tiskalniki so običajno prenosni ter se polnijo, kot mobilni telefoni. Lahko pa so tudi stacionarni.
 
 Pri nakupu tiskalnika bodite pozorni da ta podpira QR kode ter šumnike. Šumnike podpira, če omogoča "codepage" cp1250 ali wcp1250.
-Prvič povežite tiskalnik
+
+### Prvič povežite tiskalnik
 
 Pritisnite opcijsko tipko. Na sliki 3 pike desno zgoraj, lahko pa je to tudi prava tipka na telefonu ali tablici, odvisno od naprave. Pokaže se vam "menu" kjer pritisnete Poveži tiskalnik.
 
 Vklopite tiskalnik in v programu spodaj pritisnete Išči tiskalnike. V nekaj sekundah bi se vam moralo pokazati okno za povezavo z novim tiskalnikom. Pri tem vnesete kodo 1234.
-Nadaljna povezovanja
+
+### Nadaljna povezovanja
 
 Ko tiskalnik prvič povežete z programom, ga naslednjič le še izberete iz seznama. Kliknete Poveži tiskalnik in potem kliknete na tiskalnik
 Izbira pravega tiskalnika
@@ -80,8 +90,8 @@ Izbira pravega tiskalnika
 Program je ob pričetku nastavljen na tiskalnik OCOM, ki je najbolj razširjen. Če uporabljate druge vrste tiskalnik, ga morate izbrati na Upravljanje > Možnosti > Vrsta tiskalnika. Poleg izbirnega polja imate tipko preizkusi. Če ste pred tem tiskalnik povezali, lahko ob izbiri preizkusite, če je izbrani pravi tiskalnik. V tem primeru se bodo natisnili šumniki (čšžČŠŽ) in majhna QR koda.
 
 Če ne veste, kateri tiskalnik sploh imate, ali vašega ni na seznamu, lahko greste po celem seznamu in pri vsakemu pritisnete tipko preizkusi.
-Upravljanje
 
+### Upravljanje
 
 Do vmesnika za upravljanje blagajne pridete s klikom na opcijsko zipko oz "menu" kjer kliknete Upravljanje. Vmesnik za uporavljanje vam nudi več zavihkov.
 Računi
@@ -96,18 +106,21 @@ Nastavitve
 
 Pri nastavitvah si lahko nastavite besedilo v nogi računov. Prikaz kategorij ploščato ali gnezdeno (gnezdeno je primerno pri večjem številu artiklov) ter ali želite račune voditi po Mizah, kar je seveda primerno predvsem za lokale ali restavracije.
 
-Poročila / izvozi podatkov
-Mesečno poročilo
+## Poročila / izvozi podatkov
+
+### Mesečno poročilo
 
 Mesečno poročilo je dokument, ki kaže povzetek prodaje za določeni mesec in se natisne na termični tiskalnik. Če želite to potem povežite tiskalnik in pojdite na Davčna blagajna > ... > Upravljanje > ... > Mesečno poročilo.
 
 Natisnilo vam bo poročilo za trenutni mesec. Oz. za mesec katerega dan je izbran na dnu strani Upravljanje > Računi. Kako natisnete poročilo za pretekle mesece najdete malo nižje.
-Izvoz podatkov o prodaji
+
+### Izvoz podatkov o prodaji
 
 Ukaz izvozi mesečne račune vam nudi bolj podroben pregled nad prodajo. Najdete ga pri Upravljanje > ... > Uvoz / izvoz podatkov. In sicer se v vašo Dropbox mapo (Apps/CebelcaMOBI/) izvozi 6 .csv datotek. Ena datoteka prikazuje prodajo po dnevih, druga vse račune, tretja vse vsebine računov, prodajo po artiklih, skupinah artiklov in prodajalcih.
 
 CSV datoteke so preproste excel datoteke. Za odpiranje močno priporočamo brezplačen Open Office (ali Libre Office) Calc. Kar je brezplačna odprtokodna alternativa Excel-u in ima izvrstna orodja za odpiranje teh datotek. Tudi Excel odpira .csv datoteke, vendar so včasih težave s šumniki, ali pretvarjanjem določenih števil v datume (npr. 9.5 v 9.maj), odvisno od verzije, jezikovnih nastavitev in načina odpiranja.
-Poročila in izvoz za prejšnje mesece
+
+### Poročila in izvoz za prejšnje mesece
 
 ukazi Dnevno poročilo, Mesečno poročilo in Izvozi mesečne račune so vezana na izbrani datum na dnu strani Računi. Če izberete katerikoli datum v prejšnjem mesecu, vam bo program ustvari poročila za tisti mesec.
 
