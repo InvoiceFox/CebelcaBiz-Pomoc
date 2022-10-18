@@ -24,7 +24,7 @@ vaš(a) računovodja, saj preko eDavkov oddaja poročila za vaše podjetje.
 
 Na e-davkih je potrebno oddati obrazec DPR_PrevzemDP. V kratkem času prejmete odgovor s povezavo, referenčno številko in geslom za prevzem.
 
-[Kako sam zahtevam namensko digitalno potrdilo na e-davkih?](./faq.md#Kako_sam_zahtevam_namensko_digitalno_potrdilo_na_e-davkih)
+* [Kako sam zahtevam namensko digitalno potrdilo na e-davkih?](./faq.md#Kako_sam_zahtevam_namensko_digitalno_potrdilo_na_e-davkih)
 
 ### Kaj storim, ko dobim referenčno številko in geslo od računovodje?
 
@@ -36,8 +36,8 @@ na Android tablici ali telefonu, saj potem do prenešene datoteke ne boste mogli
 V PDF dokumentu prejmete referenčno št., geslo in povezavo do strani za prevzem.Kliknite povezavo in vpišite ostala
 dva podatka. S tem sprožite prenos .p12 datoteke na računalnik. Če se povezave ne da klikniti v google vpišite "taxca prevzem".
 
-[Brskalnik mi javi, da povezava ni varna](./faq.md#)
-[Stran mi javi mi, da je potrdilo že prevzeto](./faq.md#)
+* [Brskalnik mi javi, da povezava ni varna](./faq.md#)
+* [Stran mi javi mi, da je potrdilo že prevzeto](./faq.md#)
 
 ## Uvoz preko spletne strani Čebelca.biz
 
@@ -48,18 +48,19 @@ in geslo iz spletne strani Čebelca BIZ ter kliknete *Poveži dostop*.
 
 Dostop je potrebno povezati le enkrat. Ta povezava pa služi tudi drugim namenom, npr. izvozu / uvozu podatkov.
 
-[Dostopa še nimam, kako ga ustvarim?](./faq.md#Dostopa_še_nimam,_kako_ga_ustvarim)
-v
+* [Dostopa še nimam, kako ga ustvarim?](./faq.md#Dostopa_še_nimam,_kako_ga_ustvarim)
+
 ### Naložite potrdilo v okno na spletni strani Mobi
 
 Na računalniku z miško primete .p12 datoteko in jo spustite v okno desno na strani Mobi. Če vam to ne gre lahko v modro okno dvo-kliknete in odprlo se
 vam bo okno za izbiro datoteke iz vašega računalnika.
 
-[Ne najdem sekcije Mobi v spletnem programu](./faq.md#Ne_najdem_sekcije_Mobi_v_spletnem_programu)
+* [Ne najdem sekcije Mobi v spletnem programu](./faq.md#Ne_najdem_sekcije_Mobi_v_spletnem_programu)
 
 ### Uvozite potrdilo v mobilni program
 
 V Mobilnem programu kliknete 3 pike ter Nastavitve programa. Potem greste na zavihek program in tam kliknete "Uvozi iz Čebelca BIZ". Če ste geslo
 postavili v moder okvirček, vas bo vprašalo za geslo dig. potrdila. Vpišete geslo, ki ste ga poleg referenčne številke prejeli od e-davkov.
 
-[Javi mi da geslo potrdila ni pravilno](./faq.md#Javi_mi_da_geslo_potrdila_ni_pravilno)
+* [Javi mi da geslo potrdila ni pravilno](./faq.md#Javi_mi_da_geslo_potrdila_ni_pravilno)
+
