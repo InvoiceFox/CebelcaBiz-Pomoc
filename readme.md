@@ -23,11 +23,11 @@ gotovinske račune. Čebelca MOBI je mobilna davčna blagajna in je prilagojena 
 
 ### Mobilna davčna blagajna Čebelca MOBI
 
-* **Pred prvo uporabo**
+* **[Pred prvo uporabo](mobi/pred_prvo_uporabo.md)**
+* **Spoznajte program**
 * **[Uvoz digitalnega potrdila](mobi/uvoz_digitalnega_potrdila.md)** *
-* **Splošna navodila**
+* **Prodaja s programom**
 * [Izvoz podatkov za računovodstvo](mobi/izvoz_podatkov_za_racunovodstvo.md) *
-* Poročila in izvoz podatkov
 
 ### Spletni program Skladišče
 
