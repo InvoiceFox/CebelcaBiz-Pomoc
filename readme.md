@@ -1,4 +1,4 @@
-# Navodila za uporabo programov Čebelca BIZ
+# Uporaba programov Čebelca BIZ
 
 ## Uvod
 
@@ -6,7 +6,7 @@
 potem Skladišče, Potni nalogi in tako naprej. Spletni modul Računi je bolj splošen program za račune. Omogoča tako A4 račune, kot davčno blagajno za
 gotovinske račune. Čebelca MOBI je mobilna davčna blagajna in je prilagojena za hitro izdajanje računov na termični trak predvsem v Živo.
 
-## Kazalo
+## Navodila
 
 ### Spletni program Računi
 
@@ -38,3 +38,12 @@ gotovinske račune. Čebelca MOBI je mobilna davčna blagajna in je prilagojena 
 ### Spletni program Potni nalogi
 
 * **Splošna navodila**
+
+## Aktualna vprašanja
+
+### Spletni program Računu
+
+* **[Kako posodobimo namensko digitalno potrdilo?](racuni/faq/posodobitev_namenskega_potdila.md)** *
+* **[Kako kreiramo avansni račun ali končni račun?](racuni/faq/posodobitev_namenskega_potdila.md)** *
+* **[e-Računi, e-slog?](racuni/faq/eracuni_eslog.md)** *
+
