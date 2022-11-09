@@ -1,4 +1,4 @@
-##
+## Posodobitev namenskega digitalnega potrdila
 
 Če uporabljate davčno blagajno, ste morali pred pričetkom uporabe pridobiti namensko digitalno potrdilo. Za pridobitev ste lahko zaprosili vaše računovodstvo ali pa vlogo našli in oddali na vaših e-davkih.
 
@@ -6,7 +6,7 @@ Po 5 letih takšno potrdilo poteče. Kar se tistim med vami, ki ste davčne blag
 
 Govorimo o namenskem digitalnem potrdilu za davčno potrjevanje računov, kar ni sigenca, ki je vaše splošno digitalno potrdilo.
 
-Prevzem novega digitalnega potrdila
+### Prevzem novega digitalnega potrdila
 
 Računovodki servis vam običajno pošlje PDF dokument s podatki in navodili za prevzem. PDF dokument odprete in v njem najdete referenčno številko, geslo za prevzem in namestitev potrdila ter povezavo do strani za prevzem.
 
@@ -28,7 +28,8 @@ Pri polju namensko digitalno potrdilo kliknete odstrani digitalno potrdilo.
  
 Spet se pokažeta polji za vnos datoteke digitalnega potrdila in gesla. Pri prvem prebrskate za zgoraj omenjano datoteko iz vašega računalnika, v polje z geslom pa vpišete prav tako zgoraj omenjeno geslo za prevzem in namestitev.
 
-Namestitev v primeru uporabe Čebelca MOBI
+### Namestitev v primeru uporabe Čebelca MOBI
+
 Če uporabljate Čebelco MOBI, potem se prav tako prijavite v spletni program na račualniku, na katerega ste prenesli namensko digitalno potrdilo.
  
 Potrdila ne prevzemajte na Android napravi, saj ga le-ta uvozi v sistem in do same datoteke ne boste mogli več priti.
