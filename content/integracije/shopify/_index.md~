@@ -1,0 +1,12 @@
+# Povezava s Shopify
+
+Shopify se lahko poveže s Čebelco BIZ tako, da ko je naročilo izpolnjeno "fullfilled", Shopify pokliče Čebelco in javi podatke naročila. Na podlagi teh podatkov Čebelca BIZ kreira račun.
+
+## Kako nastaviti povezavo
+
+Obiščite svoj Shopify dostop. Levo spodaj boste našli "**Settings**", potem obiščite "Notifications" in na dnu strani boste našli ___.
+
+Tam aktivirate *Webhooks*, za vrsto izberete *Order fulfillment* in za URL vnesete https://www.cebelca.biz/....=sdada
+
+
+

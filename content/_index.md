@@ -39,6 +39,14 @@ gotovinske račune. Čebelca MOBI je mobilna davčna blagajna in je prilagojena 
 
 * **Splošna navodila**
 
+## Integracije
+
+### Spletne trgovine
+
+* **[Dodatek za Woocommerce](integracije/woocommerce/)**
+* **[Dodatek za Opencart](integracije/opencart/)**
+* **[Povezava s Shopify](integracije/shopify/)**
+
 ## Aktualna vprašanja
 
 ### Spletni program Računu

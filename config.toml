@@ -1,3 +1,4 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
+baseURL = 'https://www.cebelca.biz/navodila/'
+languageCode = 'sl-SI'
 title = 'Navodila Čebelca BIZ'
+theme = 'hugo-book'
