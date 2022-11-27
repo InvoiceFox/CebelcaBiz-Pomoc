@@ -43,9 +43,9 @@ gotovinske račune. Čebelca MOBI je mobilna davčna blagajna in je prilagojena 
 
 ### Spletne trgovine
 
-* **[Dodatek za Woocommerce](integracije/woocommerce/)** 
-* **[Dodatek za Opencart](integracije/opencart/)**
+* **[Dodatek za Woocommerce](integracije/woocommerce/)** *
 * **[Povezava s Shopify](integracije/shopify/)** *
+* **[Dodatek za Opencart](integracije/opencart/)**
 
 ## Aktualna vprašanja
 
@@ -54,4 +54,5 @@ gotovinske račune. Čebelca MOBI je mobilna davčna blagajna in je prilagojena 
 * [Kako posodobimo namensko digitalno potrdilo?](racuni/faq/posodobitev_namenskega_potrdila/) *
 * [Kako kreiramo avansni račun ali končni račun?](racuni/faq/posodobitev_namenskega_potdila/)
 * [e-Računi je bil zavrnjen na banki ali pri UJP](racuni/faq/eracun_zavrnjen_pri_banki/)
+* [Kreiranje XML za direktne obremenitve oz. trajnike](racuni/faq/direktne_obremenitve_trajniki/) *
 
