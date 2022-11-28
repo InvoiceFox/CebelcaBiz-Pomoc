@@ -54,5 +54,5 @@ gotovinske račune. Čebelca MOBI je mobilna davčna blagajna in je prilagojena 
 * [Kako posodobimo namensko digitalno potrdilo?](racuni/faq/posodobitev_namenskega_potrdila/) *
 * [Kako kreiramo avansni račun ali končni račun?](racuni/faq/posodobitev_namenskega_potdila/)
 * [e-Računi je bil zavrnjen na banki ali pri UJP](racuni/faq/eracun_zavrnjen_pri_banki/)
-* [Kreiranje XML za direktne obremenitve oz. trajnike](racuni/faq/direktne_obremenitve_trajniki/) *
+* [Kreiranje XML za direktne obremenitve oz. trajnike](racuni/faq/direktne_bremenitve_trajniki/) *
 
