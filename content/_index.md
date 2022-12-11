@@ -6,6 +6,8 @@
 potem Skladišče, Potni nalogi in tako naprej. Spletni modul Računi je bolj splošen program za račune. Omogoča tako A4 račune, kot davčno blagajno za
 gotovinske račune. Čebelca MOBI je mobilna davčna blagajna in je prilagojena za hitro izdajanje računov na termični trak predvsem v Živo.
 
+***~To so nova navodila, ki so trenutno še v delu, obstoječa najdete na [povezavi](/pomoc.html)~***
+
 ## Navodila
 
 ### Spletni program Računi
@@ -17,37 +19,36 @@ gotovinske račune. Čebelca MOBI je mobilna davčna blagajna in je prilagojena 
 * [Avansni računi](racuni/avansni_racuni/) *
 * [Izdajanje računov v tujino](racuni/izdajanje_racunov_v_tujino/)
 * [E-računi proračunskim uporabnikom](racuni/izdajanje_racunov_v_tujino/)
-* [Izvoz podatkov za računovodstvo](racuni/izvoz_podatkov_za_racunovodstvo/) *
+* [Izvoz podatkov za računovodstvo](racuni/izvoz_podatkov_za_racunovodstvo/) **
 * [Povezava s spletno trgovino](https://github.com/InvoiceFox/CebelcaBIZ-WooCommerce#readme) *
 * [Napredne nastavitve](racuni/napredne_nastavitve/) *
 
 ### Mobilna davčna blagajna Čebelca MOBI
 
 * **[Pred prvo uporabo](mobi/pred_prvo_uporabo/)**
-* **Spoznajte program**
+* **[Spoznajte program]()**
 * **[Uvoz digitalnega potrdila](mobi/uvoz_digitalnega_potrdila/)** *
-* **Prodaja s programom**
+* **[Prodaja s programom]()**
 * [Izvoz podatkov za računovodstvo](mobi/izvoz_podatkov_za_racunovodstvo/) *
 
 ### Spletni program Skladišče
 
-* **Splošna navodila**
-* Poročila in inventura
-* Konsignacijska prodaja
+* **[Splošna navodila]()**
+* [Poročila in inventura]()
+* [Konsignacijska prodaja]()
 
 ### Spletni program Potni nalogi
 
-* **Splošna navodila**
+* **[Splošna navodila]()**
 
 ## Integracije
 
 ### Spletne trgovine
 
-* **[Dodatek za Woocommerce](integracije/woocommerce/)** *
-* **[Povezava s Shopify](integracije/shopify/)** *
-* **[Dodatek za Opencart](integracije/opencart/)**
+* **[Dodatek za Woocommerce](integracije/woocommerce/)** **
+* **[Povezava s Shopify](integracije/shopify/)** **
 
-## Aktualna vprašanja
+## Specifična vprašanja
 
 ### Spletni program Računu
 

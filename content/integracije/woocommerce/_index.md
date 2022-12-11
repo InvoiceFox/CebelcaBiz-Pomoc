@@ -1,108 +1,85 @@
 # Dodatek za WooCommerce
 
+## Kaj je Čebelca BIZ dodatek za Woocommerce
+
+Čebelca BIZ WooCommerce dodatek je WordPress "vtičnik" za e-trgovino, ki omogoča avtomatsko dodajanje kupcev, ustvarjanje računov, dodajanje plačil in kreiranje dobavnic glede na status naročil v spletni trgovini.
+
+Dodatek je na voljo brezplačno na spletni strani Cebelca BIZ WooCommerce na Github-u in je odprtokodni projekt, uporabniki pa so vabljeni, da svoje izboljšave in popravke objavijo na Github-u.
+
+
 ## Kje dobite dodatek
 
-Dodatek Čebelca.biz za WooCommerce je odprtokodni projekt na Github-u. Vsak ga lahko brezplačno uporabi, prilagodi svojih zahtevam, 
-vabljeni pa ste tudi, da morebitne izboljšave objavite nazaj na githubu.
+Dodatek najdete na Github strani: [CebelcaBIZ-WooCommerce](https://github.com/InvoiceFox/CebelcaBIZ-WooCommerce)
 
-Dodatek najdete na tej spletni strani: [Cebelca BIZ Woocommerce](https://github.com/InvoiceFox/CebelcaBIZ-WooCommerce)
+Zip paket dodatka, ki ga lahko neposredno namestite na vaš woocommerce pridobite s klikom na tipko **Code** in potem **Download ZIP**.
 
-Repozitorij lahko prenesete preko orodja Git (če ste razvijalec) ali pa na desni kliknete zeleno tipko **Code** in potem **Download ZIP**.
-
-  Dodatek je prosto dostopen in je na voljo "kot je". Za namestitev in morebitno prilagoditev v vašo spletno trgovino morate poskrbeti sami. V večini primerov pa deluje brez posebnega prilagajanja.
+***Dodatek je prosto dostopen in je na voljo "kot je". Za namestitev in 
+morebitno prilagoditev v vašo spletno trgovino morate poskrbeti
+sami. V večini primerov pa deluje brez posebnega prilagajanja.***
 
 ## Namestitev
 
-Znotraj ZIP-a najdete mapo **woocommerce-invoicefox**, ki jo naložite na svoj strežnik, običajno v mapo **wp-content/plugins**. Potem greste
-v *WooCommerce Admin > Plugins* in tam pri tem pluginu WooCommerce InvoiceFox kliknete **Install**.
+V vašem Wordpres upravljanju obiščete stran **Vtičniki** > **Dodaj nov**. Ter levo zgoraj kliknete **Naloži vtičnik**. Iz svojega računalnika izberete zgoraj preneseno ZIP datoteko in **naloži**.
+
+![](woo_1.png)
+
+Potem ga poiščete na **Vtičniki** > **Nameščeni vtičniki** in pri dodatku **Čebelca BIZ** kliknete v **omogoči**. Dodatek je tako namešen.
 
 ## Nastavitve dodatka
 
-V menuju pojdite na WooCommerce > Settings > Integrations > InvoiceFox.
+V menuju na levi pojdite na **WooCommerce** > **Nastavitve** > **Integracija** > **Čebelca BIZ**. 
 
+Prva stvar, ki jo vnesete je **API Ključ**. API ključ dobite na strani Čebelca > Nastavitve > Dostop. Na dnu strani aktivirate API dostop in pokaže se vam API ključ.
 
-<dl>
-  
-<dt>API Key</dt>
-  <dd>API Ključ. Dobite ga v Čebelci na Nastavitve > Nastavitve dostopa</dd>
+Naslednjo rubriko nastavitev **Detajli delovanja** lahko zaenkrat spustite.
 
-<dt>API domain</dt>
-   <dd>www.cebelca.biz</dd>
+![](woo_2.png)
 
-<dt>Application name</dt>
-   <dd>Cebelca BIZ</dd>
+Pojdite nižje, do rubrike **Kreiranje računov**. Računi se ustvarijo avtomatsko, ko naročilo dobi določen status. To, ob katerem statusu se račun ustvari in kaj točno se zgodi nastavljate 
+na tem delu.
 
-<dt>Document numbers</dt>
-   <dd>Ali naj uporabi ID-je naročil za št. računov. Ne priporočamo.</dd>
+Na voljo imate 3 statuse:
 
-<dt>Item description</dt>
-    <dd>Ali naj v opis postavke doda celoten opis artikla. Ne priporočamo, običajno predolgo besedilo.</dd>
-<dt>Validity of proforma invoices</dt>
-    <dd>Če se kreirajo predračuni, koliko dni naj bodo veljavni.</dd>
-<dt>Payment period for customer</dt>
-    <dd>Koliko dni naj imajo vnešene avtomatsko dodane stranke za rok plačila.</dd>
+* Zadržano
+* V obdelavi
+* Zaključeno
 
-<dt>Order number label</dt>
-    <dd>Besedilo nad tabelo, ki opiše na katero naročilo je vezan račun.</dd>
+Ustvari se lahko samo osnutek, račun se lahko tudi izda (dobi številko), računu se lahko označi način plačila, ustvari se lahko dobavnica v skladišču, in pri statusu zaključeno, se lahko kupcu
+pošlje PDF izdanega računa na e-pošto. Pošlje jo sam vaš WooCommerce, PDF pa potem ko je račun ustvaril in izdal prenese iz Čebelce BIZ.
 
-<dt>Partial SUM label</dt>
-    <dd>Besedilo ki označuje delni seštevek preden se doda še stroške dostave.</dd>
+**Za začetek** je dobra nastavitev, da pri spremembi na status **Zaključeno** izberete naj se ustvari osnutek računa. Osnutek lahko potem v Čebelci izdate, davčno potrdite ali pa pobrišete, če npr. še testirate.
 
-<dt>Round netprice to</dt>
-    <dd>Na koliko decimalk naj program preračuna neto ceno. Priporočljivo 4.</dd>
+![](woo_3.png)
 
-<dt>Round item taxrate to</dt>
-    <dd>Na koliko decimalk naj preračuna DDV stopnjo (ker jo mora preračunati iz cen). V Sloveniji 1 ali 0 (9.5 ali 22).</dd>
+Kasneje lahko nastavite, da se več ali vsi koraki zgodijo avtomatsko, a takrat bodite prepričani da imate dobro nastavljeno trgovino in dodatek. Preverite, da je davek v spletni trgovini pravilno nastavljen, 
+da so stroški dostave pravilno nastavljeni in da se račun pravilno prenese. Še posebej, če nastavite avtomatsko **davčno potrjevanje računov** (davčno blagajno) v Čebelci.
 
-<dt>Round shipping taxrate to</dt>
-    <dd>Na koliko decimalk naj preračuna DDV stopnjo (ker jo mora preračunati iz cen) pri stroških dostave.</dd>
+## Kako delujejo statusi
 
-<dt>Add SKU to documents</dt>
-    <dd>Ali naj se doda šifra artikla k računu. To je nujno če dodatek uproabljate v povezavi s skladiščem.</dd>
+Načeloma se da to nastavljati, a v osnovi je tako, da če je način plačila **Po povzetju** naročilo samo pridobi status **V obdelavi**. 
 
-<dt>Warehouse ID</dt>
-    <dd>ID številka skladišča iz katerga gre materjal. To je nujno če dodatek uproabljate v povezavi s skladiščem.</dd>
+Če je način plačila **bančno nakazilo**, kar se včasih smatra kot *plačilo po predračunu* pa naročilo samo pridobi status **Zadržano**. Dodatek omogoča, da lahko v tem primeru npr. Čebelca sama naredi predračun. 
 
-<dt>Order actions menu</dt>
-    <dd>Ali želite da se pri naročilih prikaže tudi Order actions v zvezi s Čebelco.</dd>
+Večina uproabnikov si dodatek nastavi tako, da se račun ustvari, kasneje pa tudi izda in pošlje na e-pošto, ob statusu **Zaključeno**.
 
-<dt>On status change to "Processing"</dt>
-    <dd>Tu nastavite akcije, za katere si želite da se zgodijo ko naročilo dobi status "Processing"</dd>
+## Davčna blagajna
 
-<dt>On status changet to "Completed"</dt>
-    <dd>Tu nastavite akcije, za katere si želite da se zgodijo ko naročilo dobi status "Completed"</dd>
+Vse račune, **ki niso plačani z direktnim nakazilom na vaš bančni račun ali s PayPal** je potrebno davčno potrditi. To vam omogoča Čebelca. Če WooCoomerce dodatek kreira le osnutke, lahko potem ko račun pregledate,
+v čebelci izdate in, če imate stvari tako nastavljeno, tudi davčno potrdite v sami Čebelci.
 
-<dt>Fiscalisation for Slovenia</dt>
-    <dd>Aktiviraj davčno potrjevanje računov.</dd>
+Lahko pa nastavite tudi avtomatsko davčno potrjevanje računov iz samega dodatka. V tem primeru morate izpolniti rubriko **Davčna blagajna**.
 
-<dt>Fiscalisation test mode</dt>
-    <dd>Pustite NUJNO na NE, razen če ste razvijalci. V naslednji verziji bo odstranjeno.</dd>
-
-<dt>Fiscalisation ID of location</dt>
-    <dd>Interna ID številka prostora, ki ste ga defenirali pri davčnem potrjevanju</dd>
-
-<dt>Fiscalisation operator's tax ID</dt>
-    <dd>Osebna dačna številka osebe, ki izdaja račune</dd>
-
-<dt>Fiscalisation operator's name</dt>
-    <dd>Interni naziv osebe, ki izdaja račune. Npr. le ime ali ime in prva črka priimka.</dd>
-</dl>
-
-## Tipične nastavitve ob pričetku
-
-Ko začnete uporabljati plugin morate najbrž nastaviti le postavke označene z (*). Torej API ključ, On status Completed, pa
-nastavite Create Invoice Draft.
+![](woo_4.png)
 
 ## Uporaba s skladiščem
 
-Če v Čebelci BIZ vodite tudi zalogo z modulom skladišče, potem boste želeli, da račun, ki se kreira preko WooCommerce lahko tudi odpiše
+Če v Čebelci BIZ vodite tudi zalogo z modulom skladišče, boste želeli, da račun, ki se kreira preko WooCommerce, lahko tudi odpiše
 zalogo. V tem primeru bodite pozorni na naslednje stvari.
 
-    V WooCommerce artiklom vpišite SKU. Ta mora biti enak, kot je polje Artikel v Čebelci BIZ.
-    Pri nastavitvah plugina dajte Add SKU to documents na Da
+* Izdelki v WooCommerce morajo imeti vnešen SKU
+* SKU mora biti enak kot je šifra artikla v Čebelca Skladišču
 
-V računu v Čebelci BIZ se bo tako pri postavki računa vpisal SKU, potem dvopičje in naziv izdelka in ko boste tak račun dali v skladiščni 
-dokument, da se ustvari dobanica in s tem odpiše zaloga bo del pred dvopičjem uporabljen, da se najde pravi artikel.
+To je potrebno zato, da Čebelca najde pravi artikel in ga odpiše.
 
-Skladiščni dokument (dobavnico) lahko ustvarite vi ročno s klikom na računu v Čebelca BIZ, lahko pa tudi nastavite plugin tako, da se to 
-zgodi avtomatsko ob spremembi statusa npr. na Completed (Zaključeno).
+Skladiščni dokument (dobavnico) lahko ustvarite sami ročno s klikom na računu v Čebelca BIZ, potem pa uproabite tipko **V sklad. dok.**. Takšen dokument potem zmanjša zalogo v izbranem skladišču. 
+Lahko pa tudi nastavite plugin tako, da se to zgodi avtomatsko ob spremembi statusa npr. na **Zaključeno**.
