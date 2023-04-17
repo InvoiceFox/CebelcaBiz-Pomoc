@@ -8,6 +8,12 @@ Najprej program pogleda predpono pri ID za DDV. Če tam najde predpono, ki pripa
 
 Ne, to je le slovenski standard. V EU velja standard EPC QR, ki ga bomo tudi implementirali in ga bodo tuje banke lahko podpirale, odvisno od banke.
 
+#### Ko se prijavim mi na strani piše nalagam
+
+Običajno to pomeni da je težava z določenim vtičnikom ali dodatkom v brskalniku, ki ga uporabljate. Lahko poskusite drugi brskalnik.
+
+Če v drugem deluje stran deluje, v težavnem odaktivirajte vse vtičnike (plugine) in dodatke (addone), če jih imate nameščene, ter poskusite znova. Lahko postopoma vklopite vtičnike, da ugotovite, kateri morda povzroča težavo. Prosimo, da nam javite, kateri vtičnik je problematičen, in mi bomo poskrbeli za  rešitev težave kljub dodatku, če bo to možno.
+
 ## Nedodelani
 
 #### Kako izdati račun? Sem novi uporabnik in se ne znajdem.
