@@ -1,3 +1,15 @@
+## Dodelani 1x
+
+#### Kako program določi kateri račun je izdan v EU?
+
+Najprej program pogleda predpono pri ID za DDV. Če tam najde predpono, ki pripada EU (npr. IT, AT, HR, DE), potem smatra račun izdan znotraj EU. Če ID za DDV ni vpisan pri partnerju se smatra da gre za fizično osebo in potem program preveri polje "Država", kjer gleda če obstaja zapis "EU". Torej pri fizični osebi pri državi vpišite npr. "Nemčija, EU".
+
+#### Ali QR koda Slikaj in plačaj deluje tudi v tujini?
+
+Ne, to je le slovenski standard. V EU velja standard EPC QR, ki ga bomo tudi implementirali in ga bodo tuje banke lahko podpirale, odvisno od banke.
+
+## Nedodelani
+
 #### Kako izdati račun? Sem novi uporabnik in se ne znajdem.
 
 1. Zg. desno v "Nastavitve" vnesete podatke o svojem podjetju ter besedila, kakršna želite na računih in izberete slog dokumenta. V nastavitvah preverite kako izgleda "Primer računa glede na trenutne nastavitve" (zg.desno).
