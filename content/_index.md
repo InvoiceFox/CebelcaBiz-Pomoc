@@ -3,8 +3,13 @@
 ## Uvod
 
 Čebelca BIZ je sestavljena iz spletnega in več mobilnih programov. Spletni program vsebuje več opcijskih modulov. Najbolj uporabljan je modul Računi, 
-potem Skladišče, Potni nalogi in tako naprej. Spletni modul Računi je bolj splošen program za račune. Omogoča tako A4 račune, kot davčno blagajno za
-gotovinske račune. Čebelca MOBI je mobilna davčna blagajna in je prilagojena za hitro izdajanje računov na termični trak predvsem v Živo.
+potem Skladišče, Potni nalogi in tako naprej. 
+
+Spletni modul Računi je splošen program za račune. Največ se uporablja v pisarnah, za izdajanje A4 računov podjetjem ali končnim kupcem, veliko tudi v povezavi
+s spletno trgovino. Program ustvari PDF računa, ki ga lahko natisnete ali pošljete po e-pošti, nudi tudi davčno potrjevanje za gotovinske račune. 
+
+Za izdajanje računov končnim kupcem v živo je bolj primeren Čebelca MOBI. Gre za mobilni program za Android telefone in tablice. Račune tiska na bluetooth 
+tiskalnike na termični trak.
 
 ***~To so nova navodila, ki so trenutno še v delu, obstoječa najdete na [povezavi](/pomoc.html)~***
 
@@ -13,33 +18,35 @@ gotovinske račune. Čebelca MOBI je mobilna davčna blagajna in je prilagojena 
 ### Spletni program Računi
 
 * **[Pred prvo uporabo](racuni/pred_prvo_uporabo/)** *
-* **[Izdelajte prvi račun](racuni/izdelajte_prvi_racun/)**
-* **[Davčne blagajne](racuni/davcne_blagajne/)**
-* **[Predračuni, ponudbe](racuni/predracuni_ponudbe/)**
+* **[Izdelajte prvi račun](racuni/izdelava_racuna/)** *
+* **[Davčne blagajne](racuni/davcne_blagajne/)** *
+* **[Predračuni, ponudbe](racuni/predracuni_ponudbe/)** *
 * [Avansni računi](racuni/avansni_racuni/) *
-* [Izdajanje računov v tujino](racuni/izdajanje_racunov_v_tujino/)
-* [E-računi proračunskim uporabnikom](racuni/izdajanje_racunov_v_tujino/)
+* [Izdajanje računov v tujino](racuni/izdajanje_v_tujino/) *
+* [E-računi proračunskim uporabnikom](racuni/eracuni_eslog/) *
 * [Izvoz podatkov za računovodstvo](racuni/izvoz_podatkov_za_racunovodstvo/) **
 * [Povezava s spletno trgovino](https://github.com/InvoiceFox/CebelcaBIZ-WooCommerce#readme) *
 * [Napredne nastavitve](racuni/napredne_nastavitve/) *
 
 ### Mobilna davčna blagajna Čebelca MOBI
 
-* **[Pred prvo uporabo](mobi/pred_prvo_uporabo/)**
-* **[Spoznajte program]()**
+* **[Pred prvo uporabo](mobi/pred_prvo_uporabo/)** *
+* **[Izdelajte prvi testni račun](mobi/prvi_testni_racun/)** *
+* **[Spoznajte program](mobi/spoznajte_program/)** *
 * **[Uvoz digitalnega potrdila](mobi/uvoz_digitalnega_potrdila/)** *
-* **[Prodaja s programom]()**
+* **[Prodaja s programom](mobi/prodaja_z_mobi/)** *
 * [Izvoz podatkov za računovodstvo](mobi/izvoz_podatkov_za_racunovodstvo/) *
 
 ### Spletni program Skladišče
 
-* **[Splošna navodila]()**
-* [Poročila in inventura]()
-* [Konsignacijska prodaja]()
+* **[Pred prvo uporabo](skladisce/pred_prvo_uporabo/)** *
+* **[Splošna navodila](skladisce/splosna_navodila/)** *
+* [Poročila in inventura](skladisce/porocila_in_inventura/) *
+* [Konsignacijska prodaja](skladisce/konsignacija/) *
 
 ### Spletni program Potni nalogi
 
-* **[Splošna navodila]()**
+* **[Splošna navodila](potni_nalogi/splosno/)** *
 
 ## Integracije
 
@@ -48,12 +55,16 @@ gotovinske račune. Čebelca MOBI je mobilna davčna blagajna in je prilagojena 
 * **[Dodatek za Woocommerce](integracije/woocommerce/)** **
 * **[Povezava s Shopify](integracije/shopify/)** **
 
-## Specifična vprašanja
+## Vprašanja in odgovori
 
-### Spletni program Računu
+### Splošno
 
-* [Kako posodobimo namensko digitalno potrdilo?](racuni/faq/posodobitev_namenskega_potrdila/) *
-* [Kako kreiramo avansni račun ali končni račun?](racuni/faq/posodobitev_namenskega_potdila/)
-* [e-Računi je bil zavrnjen na banki ali pri UJP](racuni/faq/eracun_zavrnjen_pri_banki/)
+* [Davčne blagajne](faq/davcne_blagajne/) *
+* [Dodatni dostopi](faq/dodatni_dostopi/) *
+
+### Spletni program Računi
+
+* [Kako pridobimo ali posodobimo namensko digitalno potrdilo?](faq/namensko_digitalno_potrdilo/) *
+* [e-Računi je bil zavrnjen na banki ali pri UJP](racuni/faq/eracun_zavrnjen/) *
 * [Kreiranje XML za direktne obremenitve oz. trajnike](racuni/faq/direktne_bremenitve_trajniki/) *
 
