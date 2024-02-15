@@ -93,10 +93,6 @@ Tukaj pa so navodila glede povezave z Woocommerce: https://www.cebelca.biz/pomoc
 
 Če bo kaj nejasno, prosim sporočite.
 
-#### Kje lahko vidim ID skladišča?
-
-Do ID št. skladišča pridete tako,da v Čebelca - Skladišče kliknete zavihek "Skladišča" in potem "zaloga". ID številka je številka izpisana na koncu spletnega naslova, npr. ID je 10, če je tako: https://www.cebelca.biz/manage/inventory.html?wh=10
-
 #### Ali se lahko spletni program Čebelca poveže s POS terminalom za kartično plačevanje?
 
 #### Kako pa naj nastavim sortiranje dokumentov, če imam davčno potrjevanje vseh računov, po datumu ali po številki dokumenta?
