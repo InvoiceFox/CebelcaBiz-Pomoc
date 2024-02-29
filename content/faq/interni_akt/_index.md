@@ -6,9 +6,7 @@ Tega ne storite v programu, a ne pozabite pripraviti internega akta, kjer našte
 pripravite npr. v Wordu. Interni akt morate imeti že narejen, ko vas obišče inšpektor, drugače lahko sledi kazen.
 
 Vzorce internih aktov najdete na strani FURS, pod Pogosta vprašanja in odgovori o davčnem potrjevanju računov in sicer v odgovoru 215. Najdete ga tudi 
-
-[na tem linku] 
-(https://www.racunovodja.com/clanki.asp?clanek=8962#_Toc433366090)
+[na tem linku](https://www.racunovodja.com/clanki.asp?clanek=8962#_Toc433366090)
 
 pozorni bodite, da se pri naših programih številčenje skozi leta nadaljuje:
 
