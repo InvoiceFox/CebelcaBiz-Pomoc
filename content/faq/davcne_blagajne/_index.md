@@ -11,7 +11,7 @@ davčnega potrjevanja računov tako v modulu PLUS kot tudi v MINI. Mobilni progr
 
 ### Katere račune moramo davčno potrjevati?
 
-Od 2.1.2016 je potrebno davčno potrditi vse gotovinske račune. FURS za gotovisnke račune smatra račune, ki so delno ali v celoti plačani z oz preko:
+Od 2.1.2016 je potrebno davčno potrditi vse gotovinske račune. FURS za gotovisnke račune smatra račune, ki so delno ali v celoti plačani z oz. preko:
 
 * Gotovino
 * Kreditnimi in debetnimi karticami
