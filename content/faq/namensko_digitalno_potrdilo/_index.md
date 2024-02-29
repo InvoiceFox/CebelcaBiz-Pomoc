@@ -48,6 +48,19 @@ Potrdilo lahko prevzamete samo enkrat. Na računalnuiku lahko pobrskate v mapi "
 
 [Podrobnejša navodila FURS-a o prevzemu namenskega digitalnega potrdila](https://www.datoteke.fu.gov.si/eDavki/PrevzemNamenskegaDigitalnegaPotrdila.pdf)
 
+# Uvoz potrdila v spletni program Čebelca - Računi
+
+Če kot davčno blagajno uporabljate spletni program, se prijavite vanj in obiščete stran "Nastavitve" zgoraj desno. Na strani kliknete modro povezavo "Davčne blagajne". Tam vnesete datoteko s potrdilom (.p12 dokument) in geslo.
+
+# Uvoz potrdila v mobilni program Čebelca - MOBI
+
+### Povezava programa z vašim dostopom na Čebelca.biz 
+
+Na prvi strani mobilne aplikacije kliknete 3 pike zgoraj desno za meni. Tam izberete "Poveži dostop". Na obrazcu, ki se prikaže, vnesete vaš email in geslo iz spletne strani Čebelca BIZ ter kliknete "Poveži dostop". (Dostop je potrebno povezati le enkrat. Ta povezava pa služi tudi drugim namenom, npr. izvozu / uvozu podatkov.)
+
+Če se še niste registrirali preko naše spletne strani in s tem ustvarili dostop, potem se najprej registrirajte preko rdeče tipke "Preglejte pakete in postanite uporabniki" [na naši strani](https://www.cebelca.biz/).
+
+
 
 # Posodobitev namenskega digitalnega potrdila
 
