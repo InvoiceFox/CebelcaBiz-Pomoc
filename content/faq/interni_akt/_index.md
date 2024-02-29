@@ -3,7 +3,7 @@
 ### Kako napisati interni akt
 
 Tega ne storite v programu, a ne pozabite pripraviti internega akta, kjer naštejete lokacije in blagajne. Interni akt je običajen tekstovni dokument, ki ga 
-pripravite npr. v Wordu. Interni akt morate imeti že narejen, ko vas obišče inšpektor, drugače lahko sledi kazen:
+pripravite npr. v Wordu. Interni akt morate imeti že narejen, ko vas obišče inšpektor, drugače lahko sledi kazen.
 
 Vzorce internih aktov najdete na strani FURS, pozorni bodite, da se pri naših programih številčenje skozi leta nadaljuje:
 
