@@ -42,7 +42,9 @@ V brskalniku (odvisno od brskalnika) kliknete "dodatno", "več možnosti" ali "a
 
 ### Stran mi javi mi, da je potrdilo že prevzeto
 
-FURS svetuje, da v takem primeru zaprosite novega.
+Potrdilo lahko prevzamete samo enkrat. Na računalnuiku lahko pobrskate v mapi "Prenosi" oz. "Downloads" ali vprašate računovodstvo, če so ga mogoče že oni prevzeli. Ko ga iščete, lahko vtipkate vašo davčno številko, ker je le-ta v imenu datoteke.
+
+Če ga ne najdete, lahko zaprosite za novega.
 
 
 # Posodobitev namenskega digitalnega potrdila
