@@ -40,7 +40,9 @@ Ko kliknete na povezavo na zgoraj omenjeni strani za prevzem potrdila, je velika
 
 V brskalniku (odvisno od brskalnika) kliknete "dodatno", "več možnosti" ali "advanced" in potem na "nadaljuj na stran".
 
+### Stran mi javi mi, da je potrdilo že prevzeto
 
+FURS svetuje, da v takem primeru zaprosite novega.
 
 
 # Posodobitev namenskega digitalnega potrdila
