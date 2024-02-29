@@ -1,7 +1,7 @@
 
 ## Dodatni dostopi
 
-Možnost več dostopov imate, da lahko vsaki osebi, ki izdaja račune v vašem podjetju, dodelite svoj dostop. Če imate davčno blagajno, si vsak od njih vpiše tudi svojo osebno davčno št.
+Možnost več dostopov imate, da lahko vsaki osebi, ki izdaja račune v vašem podjetju, dodelite svoj dostop. Če imate davčno blagajno, mora imeti vsak od njih vnešeno tudi svojo osebno davčno št.
 
 V ta namen greste na Nastavitve > Dostop > Dodatni dostopi. Tu v tabelo dodate osebe, ki jim želite omogočiti dostop. Oseba bo prejela e-mail sporočilo z povabilom in naključnim geslom.
 
