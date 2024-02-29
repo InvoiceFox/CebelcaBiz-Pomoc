@@ -46,6 +46,8 @@ Potrdilo lahko prevzamete samo enkrat. Na računalnuiku lahko pobrskate v mapi "
 
 Če ga ne najdete, lahko zaprosite za novega.
 
+[Podrobnejša navodila FURS-a o prevzemu namenskega digitalnega potrdila](https://www.datoteke.fu.gov.si/eDavki/PrevzemNamenskegaDigitalnegaPotrdila.pdf)
+
 
 # Posodobitev namenskega digitalnega potrdila
 
