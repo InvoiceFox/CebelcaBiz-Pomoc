@@ -6,7 +6,7 @@ Vsako podjetje, ki izdaja gotovinske račune (račune preko davčne blagajne), p
 
 ## Kaj sploh je digitalno potrdilo?
 
-Digitalno potrdilo je datoteka s .p12 končnico. V imenu datoteke je davčna številka vašega podjetja. Če datoteko kliknete in imate nameščen primeren program, vas bo vprašalo za geslo, saj je datoteka v osnovi zaklenjena.
+Digitalno potrdilo je datoteka s .p12 končnico. Če datoteko kliknete in imate nameščen primeren program, vas bo vprašalo za geslo, saj je datoteka v osnovi zaklenjena.
 
 ## Že imamo sigenco, ali je to to?
 
@@ -29,6 +29,10 @@ Od računovodje lahko prejmete že samo .p12 datoteko. V tem primeru jo samo pre
 Če tega ne prejmete, pa dobite PDF dokument s podatki za prevzem digitalnega potrdila. Prevzem nujno opravite na klasičnem računalniku, ne na Android tablici ali telefonu, ker potem do prenešene datoteke ne boste mogli.
 
 V PDF dokumentu prejmete referenčno št., geslo in povezavo do strani za prevzem. Kliknite povezavo in vpišite ostala dva podatka. S tem sprožite prenos .p12 datoteke na računalnik. Če se povezave ne da klikniti, v google vpišite “taxca prevzem” in boste našli omenjeno stran.
+
+Datoteke ne odpirajte. Če jo boste, se bo odprl čarovnik za uvoz potrdila v vas operacijski sistem, čemur to potrdilo ni namenjeno.
+
+Ime datoteke s potrdilom je enako vaši davčni številki, sledi pomišljaj, zaporedna številka potrdila in končnica .p12. Datoteko običajno najdete v vaši mapi s prenosi. Lahko pa si jo prenesete na namizje oz. na lokacijo, kjer jo boste potem našli.
 
 ### Brskalnik mi javi, da povezava ni varna
 
