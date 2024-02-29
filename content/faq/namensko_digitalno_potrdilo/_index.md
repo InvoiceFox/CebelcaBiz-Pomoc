@@ -1,5 +1,30 @@
 # Namensko digitalno potrdilo
 
+# Ali potrebujem namensko digitalno potrdilo?
+
+Vsako podjetje, ki izdaja gotovinske račune (račune preko davčne blagajne), potrebuje takšno potrdilo. Dovolj je eno potrdilo za celo podjetje tudi v primeru več prostorov ali blagajn, lahko pa jih imate tudi več.
+
+# Kaj sploh je digitalno potrdilo?
+
+Digitalno potrdilo je datoteka s .p12 končnico. V imenu datoteke je davčna številka vašega podjetja. Če datoteko kliknete in imate nameščen primeren program, vas bo vprašalo za geslo, saj je datoteka v osnovi zaklenjena.
+
+# Že imamo sigenco, ali je to to?
+
+Sigenca je vaše splošno digitalno potrdilo. Pri davčnih blagajnah pa potrebujete specifično, namensko digitalno potrdilo, ki je namenjeno le potrjevanju računov (in prostorov) na FURS.
+
+# Kje dobim namensko digitalno potrdilo?
+
+Digitalno potrdilo dobite brezplačno in v 15 minutah na strani eDavki. Če sami nimate dostopa do eDavkov, ima dostop in vaše pooblastilo vaš(a) računovodja, saj preko eDavkov oddaja poročila za vaše podjetje.
+
+Na eDavkih je potrebno oddati obrazec DPR_PrevzemDP. V kratkem času prejmete odgovor s povezavo, referenčno številko in geslom za prevzem.
+
+[Podrobnejša navodila FURS-a o pridobitvi namenskega digitalnega potrdila iz eDavkov](https://edavki.durs.si/EdavkiPortal/OpenPortal/CommonPages/Opdynp/PageD.aspx?category=zah_dig_potr_fod)
+
+
+Pridobitev namenskega digitalnega potrdila
+
+
+
 # Posodobitev namenskega digitalnega potrdila
 
 Če uporabljate davčno blagajno, ste morali pred pričetkom uporabe pridobiti namensko digitalno potrdilo. Za pridobitev ste lahko zaprosili vaše računovodstvo ali pa vlogo našli in oddali na vaših e-davkih.
