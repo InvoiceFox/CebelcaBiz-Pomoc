@@ -22,7 +22,19 @@ Na eDavkih je potrebno oddati obrazec DPR_PrevzemDP. V kratkem času prejmete od
 
 [Podrobnejša navodila FURS-a o pridobitvi namenskega digitalnega potrdila iz eDavkov](https://edavki.durs.si/EdavkiPortal/OpenPortal/CommonPages/Opdynp/PageD.aspx?category=zah_dig_potr_fod)
 
+## Kaj storim, ko dobim referenčno številko in geslo od računovodje?
 
+Od računovodje lahko prejmete že samo .p12 datoteko. V tem primeru jo samo prenesite na svoj računalnik.
+
+Če tega ne prejmete, pa dobite PDF dokument s podatki za prevzem digitalnega potrdila. Prevzem nujno opravite na klasičnem računalniku, ne na Android tablici ali telefonu, ker potem do prenešene datoteke ne boste mogli.
+
+V PDF dokumentu prejmete referenčno št., geslo in povezavo do strani za prevzem. Kliknite povezavo in vpišite ostala dva podatka. S tem sprožite prenos .p12 datoteke na računalnik. Če se povezave ne da klikniti, v google vpišite “taxca prevzem” in boste našli omenjeno stran.
+
+### Brskalnik mi javi, da povezava ni varna
+
+Ko kliknete na povezavo na zgoraj omenjeni strani za prevzem potrdila, je velika verjetnost, da vas bo brskalnik opozoril, da stran ni varna. To javlja večina strani slovenske države, saj uporabljajo nacionalne certifikate, katerim brskalniki brez dodatnih nastavitev ne zaupajo.
+
+V brskalniku (odvisno od brskalnika) kliknete "dodatno", "več možnosti" ali "advanced" in potem na "nadaljuj na stran".
 
 
 
