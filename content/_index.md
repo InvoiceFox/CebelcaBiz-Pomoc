@@ -6,7 +6,7 @@
 potem Skladišče, Potni nalogi in tako naprej. 
 
 Spletni modul Računi je splošen program za račune. Največ se uporablja v pisarnah, za izdajanje A4 računov podjetjem ali končnim kupcem, veliko tudi v povezavi
-s spletno trgovino. Program ustvari PDF računa, ki ga lahko natisnete ali pošljete po e-pošti, nudi tudi davčno potrjevanje za gotovinske račune. 
+s spletno trgovino ali za drugo avtomatizacijo preko API-ja. Program ustvari PDF računa, ki ga lahko natisnete ali pošljete po e-pošti, nudi tudi davčno potrjevanje za gotovinske račune. 
 
 Za izdajanje računov končnim kupcem v živo je bolj primeren Čebelca MOBI. Gre za mobilni program za Android telefone in tablice. Račune tiska na bluetooth 
 tiskalnike na termični trak.

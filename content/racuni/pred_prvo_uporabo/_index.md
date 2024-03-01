@@ -10,7 +10,7 @@ prejete račune ter avansne račune.
     * [Podatki o podjetju](#podatki-o-podjetju)
     * [Besedila](#besedila)
     * [Davčne blagajne](#davčne-blagajne)
-  * [Vnost partnerjev in storitev](#kako-postanete-uporabnik-ica)
+  * [Naprej](#naprej)
 
 ## Kako postanete uporabnik/ica
 
@@ -54,3 +54,6 @@ Preletite lahko še besedila. Večina je že vpisanih, lahko pa izpolnete svoje 
 Če izdajate **gotovinske račune** (kjer gotovina pomeni vse razen direktnih nakazil na bančni račun in PayPal), potem si morate še nastaviti davčno blagajno. 
 Več o tem najdete na strani: **[Davčne blagajne](racuni/davcne_blagajne.md)**
 
+## Naprej
+
+V naslednji rubriki bomo [izdelali prvi račun](/navodila/racuni/izdelava_racuna/).
