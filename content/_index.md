@@ -70,6 +70,10 @@ tiskalnike na termični trak.
 
 * [Pogosta vprašanja](mobi/faq-more/) *
 
+### Spletni program Skladišče
+
+* [Pogosta vprašanja](skladisce/faq-more/) *
+
 ## Integracije
 
 ### Spletne trgovine
