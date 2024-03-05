@@ -64,7 +64,11 @@ tiskalnike na termični trak.
 
 * [e-Računi je bil zavrnjen na banki ali pri UJP](racuni/faq/eracun_zavrnjen/) *
 * [Kreiranje XML za direktne obremenitve oz. trajnike](racuni/faq/direktne_bremenitve_trajniki/) *
-* [Dodatna vprašanja](racuni/faq-more/) *
+* [Pogosta vprašanja](racuni/faq-more/) *
+
+### Mobilna davčna blagajna
+
+* [Pogosta vprašanja](mobi/faq-more/) *
 
 ## Integracije
 
