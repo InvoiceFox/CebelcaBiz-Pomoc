@@ -14,7 +14,7 @@ Najprej kontaktirate svojo banko, da boste pošiljali eRačune, kajti pri nekate
 
 eRačun v Čebelci naredite normalno kot vsak drug račun. Potem pri računu (na seznamu) kliknite na tipko PDF in nato kliknite: Prenesi XML ali prenesi ZIP odvisno od tega pri kateri banki ste (glejte eno vprašanje nižje). Program vas bo zatem gotovo opomnil na nekaj stvari, ki jih je potrebno najprej še urediti v Čebelci in sicer verjetno v nastavitvah podatke vašega podjetja in pod zavihkom "Partnerji" podatke partnerja (kot npr. pravilen vnos BIC kode, TRR-ja ipd), mogoče pa tudi pri računu (npr. predolg opis artikla oz. storitve). Za eRačun je namreč točno določeno, kakšen mora biti, da gre lahko naprej. Te popravke bo potrebno urejati predvsem, ko boste prvič pošiljali eRačun, potem boste pa imeli že vse prav vnešeno.
 
-Zatem greste v spletno banko vašega podjetja in tam uvozite XML, ki ste ga prenesli iz Čebelce in ga iz spletne banke odpošljete.
+Zatem greste v spletno banko vašega podjetja in tam uvozite XML oz. ZIP, ki ste ga prenesli iz Čebelce in ga iz spletne banke odpošljete.
 
 [Več navodil](https://www.cebelca.biz/pomoc-eracuni.html)
 
