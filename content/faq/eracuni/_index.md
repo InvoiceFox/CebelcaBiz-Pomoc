@@ -30,7 +30,7 @@ BIC koda je koda banke, razen če izdajate eRačun proračunskemu uporabniku, po
 
 BIC kodo vaše banke pa dobite, če na spletu pobrskate za: "BIC koda" in "ime vaše banke". V primeru pošiljanja eRačunov pa je potrebno dodati še toliko X-ov, da bo številka 11-mestna.
 
-## Pri izdaji eRačuna za vrtec, se pojavi težava. ne morem ga izdati. Napiše, dokument ne ustreza predpisani shemi dovoljeni dokumenti.
+## Pri izdaji eRačuna se pojavi težava. Napiše, dokument ne ustreza predpisani shemi dovoljeni dokumenti.
 
 Preverite, če ste pri tem partnerju vnesli poštno številko in 11 - mestno BIC številko, ki je za proračunske uporabnike vedno UJPLSI2DICL. Če ni to, nam lahko pošljete XML eRačuna, ali zip in bom dali skozi preverjanje na UJP portalu, ki javi, kaj je narobe.
 
