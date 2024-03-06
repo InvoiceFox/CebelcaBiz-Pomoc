@@ -2,7 +2,6 @@
 
 Računi, ki se pošiljajo strankam na mail so običajni računi. Takoimenovani eRačuni pa so računi, ki so zahtevani v primeru, da je stranka proračunski uporabnik (šole, javni zavodi in ustanove... ). Ti računi so v .xml formatu.
 
-
 ## Ali Čebelca omogoča pošiljanje eRačunov?
 
 Pošiljanje eRačunov iz Čebelce neposredno vašim strankam žal ni možno. Lahko pa se jih iz Čebelce pošilja preko vaše spletne banke. To pomeni, da ga v Čebelci naredite kot vsak drug račun, potem pa ga iz Čebelce izvozite v eRačun obliki ter ga uvozite v spletno banko in od tam pošljete stranki.
@@ -13,7 +12,7 @@ Pošiljanje eRačunov iz Čebelce neposredno vašim strankam žal ni možno. Lah
 
 Najprej kontaktirate svojo banko, da boste pošiljali eRačune, kajti pri nekaterih bankah je tako, da vam morajo to možnost v spletni banki še aktivirati oz. omogočiti.
 
-eRačun v Čebelci naredite normalno kot vsak drug račun. Potem pri računu (na seznamu) kliknite na tipko PDF in nato kliknite: Prenesi XML ali prenesi ZIP odvisno od tega pri kateri banki ste. Program vas bo zatem gotovo opomnil na nekaj stvari, ki jih je potrebno najprej še urediti v Čebelci in sicer verjetno v nastavitvah podatke vašega podjetja in pod zavihkom "Partnerji" podatke partnerja (kot npr. pravilen vnos BIC kode, TRR-ja ipd), mogoče pa tudi pri računu (npr. predolg opis artikla oz. storitve). Za eRačun je namreč točno določeno, kakšen mora biti, da gre lahko naprej. Te popravke bo potrebno urejati predvsem, ko boste prvič pošiljali eRačun, potem boste pa imeli že vse prav vnešeno.
+eRačun v Čebelci naredite normalno kot vsak drug račun. Potem pri računu (na seznamu) kliknite na tipko PDF in nato kliknite: Prenesi XML ali prenesi ZIP odvisno od tega pri kateri banki ste (glejte eno vprašanje nižje). Program vas bo zatem gotovo opomnil na nekaj stvari, ki jih je potrebno najprej še urediti v Čebelci in sicer verjetno v nastavitvah podatke vašega podjetja in pod zavihkom "Partnerji" podatke partnerja (kot npr. pravilen vnos BIC kode, TRR-ja ipd), mogoče pa tudi pri računu (npr. predolg opis artikla oz. storitve). Za eRačun je namreč točno določeno, kakšen mora biti, da gre lahko naprej. Te popravke bo potrebno urejati predvsem, ko boste prvič pošiljali eRačun, potem boste pa imeli že vse prav vnešeno.
 
 Zatem greste v spletno banko vašega podjetja in tam uvozite XML, ki ste ga prenesli iz Čebelce in ga iz spletne banke odpošljete.
 
