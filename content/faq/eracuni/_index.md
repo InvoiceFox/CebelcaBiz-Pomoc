@@ -5,7 +5,7 @@ Računi, ki se pošiljajo strankam na mail so običajni računi. Takoimenovani e
 
 ## Ali Čebelca omogoča pošiljanje eRačunov?
 
-Pošiljanje eRačunov iz Čebelce neposredno vašim strankam žal ni možno. Lahko pa se jih pošilja preko spletne banke. To pomeni, da ga v Čebelci naredite kot vsak drug račun, potem pa ga iz Čebelce izvozite v eRačun obliki ter ga uvozite v spletno banko in od tam pošljete stranki.
+Pošiljanje eRačunov iz Čebelce neposredno vašim strankam žal ni možno. Lahko pa se jih iz Čebelce pošilja preko vaše spletne banke. To pomeni, da ga v Čebelci naredite kot vsak drug račun, potem pa ga iz Čebelce izvozite v eRačun obliki ter ga uvozite v spletno banko in od tam pošljete stranki.
 
 Če le redkokdaj pošljete kakšen eRačun in če imate digitalno potrdilo, kot je npr. Sigenca, je smiselno da ga pošljete kar preko strani https://eracuni.ujp.gov.si/, kjer je podatke sicer potrebno ročno vnesti. 
 
