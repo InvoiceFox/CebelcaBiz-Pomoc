@@ -24,7 +24,7 @@ Prenesi ZIP: Spletne eBanke: Deželna Banka Slovenije, NKBM, Intesa Sanpaolo ban
 
 Prenesi XML: Pošta Slovenije, NLB, SKB banka, Abanka, Factor banka, Raiffeisen Krekova banka, Hypo Alpe-Adria-Bank, Probanka (če uporabljate program, ki je nameščen na vaš Windows sistem, ne spletne banke). Nekatere banke nudijo spletno eBanko in Hal E-bank, tako da je odvisno od tega kaj uporabljate.
 
-## V nastavitvah računa sem zasledila da je potrebno nastaviti za izdajo eRačunov tudi BIC kodo. Kje jo pridobim?
+## V nastavitvah računa sem zasledila, da je potrebno nastaviti za izdajo eRačunov tudi BIC kodo. Kje jo pridobim?
 
 BIC koda je koda banke, razen če izdajate eRačun proračunskemu uporabniku, potem morate pri partnerju vnesti BIC kodo UJP-a. Da jo dobite, desno od polja za kodo kliknete "proračunski uporabnik".
 
