@@ -35,11 +35,11 @@ V Nastavitvah vnesite v polje Matična številka osem ničel.
 
 ## Kako k eRačunu pripnem dodatni dokument?
 
-Da boste lahko k eRačunu pripeli še kak drug dokument, si inštalirajte Čebelca podpis https://www.cebelca.biz/podpis/. Notri prenesete zip računa in dodate priponko, kot lahko vidite v animaciji na navedeni spletni strani ali si preberete v navodilih.
+Da boste lahko k eRačunu pripeli še kak drug dokument, si inštalirajte [Čebelca Podpis](https://www.cebelca.biz/podpis/). Notri prenesete zip računa in dodate priponko, kot lahko vidite v animaciji na navedeni spletni strani ali si preberete v navodilih.
 
 ## Moja banka zahteva, da je ZIP digitalno podpisan. Kako lahko to uredim?
 
-Lahko uporabite naš brezplačen programček [Čebelca Podpis[(https://www.cebelca.biz/podpis/) 
+Lahko uporabite naš brezplačen programček [Čebelca Podpis](https://www.cebelca.biz/podpis/) 
 
 ## Čemu pa je namenjena tipka UJP pri prenosu eRačuna?
 
