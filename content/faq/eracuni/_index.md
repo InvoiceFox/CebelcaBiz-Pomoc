@@ -25,6 +25,16 @@ Prenesi ZIP: Spletne eBanke: Deželna Banka Slovenije, NKBM, Intesa Sanpaolo ban
 
 Prenesi XML: Pošta Slovenije, NLB, SKB banka, Abanka, Factor banka, Raiffeisen Krekova banka, Hypo Alpe-Adria-Bank, Probanka (če uporabljate program, ki je nameščen na vaš Windows sistem, ne spletne banke). Nekatere banke nudijo spletno eBanko in Hal E-bank, tako da je odvisno od tega kaj uporabljate.
 
+## V nastavitvah računa sem zasledila da je potrebno nastaviti za izdajo eRačunov tudi BIC kodo. Kje jo pridobim?
+
+BIC koda je koda banke, razen če izdajate e-račun proračunskemu uporabniku, potem morate pri partnerju vnesti BIC kodo UJP-a. Da jo dobite, desno od polja za kodo kliknete "proračunski uporabnik".
+
+BIC kodo vaše banke pa dobite, če na spletu pobrskate za: "BIC koda" in "ime vaše banke". V primeru pošiljanja eRačunov pa je potrebno dodati še toliko X-ov, da bo številka 11-mestna.
+
+## Pri izdaji eRačuna za vrtec, se pojavi težava. ne morem ga izdati. Napiše, dokument ne ustreza predpisani shemi dovoljeni dokumenti.
+
+Preverite, če ste pri tem partnerju vnesli poštno številko in 11 - mestno BIC številko, ki je za proračunske uporabnike vedno UJPLSI2DICL. Če ni to, nam lahko pošljete XML eRačuna, ali zip in bom dali skozi preverjanje na UJP portalu, ki javi, kaj je narobe.
+
 ## Čeprav smo vnesli BIC kodo v nastavitve, me še vedno opozarja, da jo je potrebno vnesti ...
 
 Če nekaj spremenite v nastavitvah po tem, ko je račun že narejen, ga je potrebno še ponastaviti, da prevzame nove nastavitve. V ta namen pri računu v vrstici kliknete "Odpri", nato na levi "Uredi" in nazadnje še spodaj "Spremeni".
