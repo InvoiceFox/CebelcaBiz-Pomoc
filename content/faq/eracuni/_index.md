@@ -43,7 +43,7 @@ Da boste lahko k eRačunu pripeli še kak drug dokument, si inštalirajte [Čebe
 
 Lahko uporabite naš brezplačen programček [Čebelca Podpis](https://www.cebelca.biz/podpis/) 
 
-## Čemu pa je namenjena tipka UJP pri prenosu eRačuna?
+## Čemu pa je namenjena tipka "ujp" pri prenosu eRačuna?
 
 Tipka "ujp" je namenjena tistim, ki lahko uvažajo zip-e eRačunov v UJP. To so samo proračunski uproabniki, ne pa običajna podjetja. Npr. če ste vi proračunski uporabnik, vam UJP to omogoča in ker mora biti zip malo drugačen, je v tem primeru ta opcija ločeno.
 
