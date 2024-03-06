@@ -17,6 +17,8 @@ eRačun v Čebelci naredite normalno kot vsak drug račun. Potem pri računu (na
 
 Zatem greste v spletno banko vašega podjetja in tam uvozite XML, ki ste ga prenesli iz Čebelce in ga iz spletne banke odpošljete.
 
+[Več navodil](https://www.cebelca.biz/pomoc-eracuni.html)
+
 ## V primeru katerih bank se izvozi ZIP in pri katerih XML?
 
 Prenesi ZIP: Spletne eBanke: Deželna Banka Slovenije, NKBM, Intesa Sanpaolo bank, Delavska Hranilnica, Sberbank, Lon, ...
