@@ -26,7 +26,7 @@ Prenesi XML: Pošta Slovenije, NLB, SKB banka, Abanka, Factor banka, Raiffeisen 
 
 ## V nastavitvah računa sem zasledila da je potrebno nastaviti za izdajo eRačunov tudi BIC kodo. Kje jo pridobim?
 
-BIC koda je koda banke, razen če izdajate e-račun proračunskemu uporabniku, potem morate pri partnerju vnesti BIC kodo UJP-a. Da jo dobite, desno od polja za kodo kliknete "proračunski uporabnik".
+BIC koda je koda banke, razen če izdajate eRačun proračunskemu uporabniku, potem morate pri partnerju vnesti BIC kodo UJP-a. Da jo dobite, desno od polja za kodo kliknete "proračunski uporabnik".
 
 BIC kodo vaše banke pa dobite, če na spletu pobrskate za: "BIC koda" in "ime vaše banke". V primeru pošiljanja eRačunov pa je potrebno dodati še toliko X-ov, da bo številka 11-mestna.
 
