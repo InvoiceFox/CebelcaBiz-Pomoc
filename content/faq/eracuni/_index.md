@@ -38,8 +38,6 @@ Preverite, če ste pri tem partnerju vnesli poštno številko in 11 - mestno BIC
 
 Če nekaj spremenite v nastavitvah po tem, ko je račun že narejen, ga je potrebno še ponastaviti, da prevzame nove nastavitve. V ta namen pri računu v vrstici kliknete "Odpri", nato na levi "Uredi" in nazadnje še spodaj "Spremeni".
 
-Ko boste uredili vse, kar vas bo program opomnil v roza oknu in tudi ponastavili (osvežili) račun, še enkrat kliknite Prenesi XML.
-
 ## Pri pošiljanju eRačuna imamo težavo, ker program zahteva, da imamo vnešeno matično številko. Mi kot kmetija pa nimamo matične številke. Kaj naj storimo?
 
 V Nastavitvah vnesite v polje Matična številka osem ničel.
