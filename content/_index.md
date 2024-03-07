@@ -62,6 +62,7 @@ tiskalnike na termični trak.
   
 ### Spletni program Računi
 
+* [Izdajanje e-računov proračunskim uporabnikom](faq/eracuni/) *
 * [e-Računi je bil zavrnjen na banki ali pri UJP](racuni/faq/eracun_zavrnjen/) *
 * [Kreiranje XML za direktne obremenitve oz. trajnike](racuni/faq/direktne_bremenitve_trajniki/) *
 * [Pogosta vprašanja](racuni/faq-more/) *
