@@ -52,17 +52,17 @@ tiskalnike na termični trak.
 
 ### Davčne blagajne Mobi in BIZ
 
-* [Davčne blagajne](faq/davcne_blagajne/) *
-* [Namensko digitalno potrdilo](faq/namensko_digitalno_potrdilo/) *
-* [Interni akt](faq/interni_akt/) *
+* [Davčne blagajne](faq/davcne_blagajne/) **
+* [Namensko digitalno potrdilo](faq/namensko_digitalno_potrdilo/) **
+* [Interni akt](faq/interni_akt/) **
 
 ### Spletni program 
 
-* [Dodatni dostopi](faq/dodatni_dostopi/) *
+* [Dodatni dostopi](faq/dodatni_dostopi/) **
   
 ### Spletni program Računi
 
-* [Izdajanje e-računov proračunskim uporabnikom](faq/eracuni/) *
+* [Izdajanje e-računov proračunskim uporabnikom](faq/eracuni/) **
 * [e-Računi je bil zavrnjen na banki ali pri UJP](racuni/faq/eracun_zavrnjen/) *
 * [Kreiranje XML za direktne obremenitve oz. trajnike](racuni/faq/direktne_bremenitve_trajniki/) *
 * [Pogosta vprašanja](racuni/faq-more/) *
