@@ -132,6 +132,10 @@ Za izvoz poročil na Dropbox v Čebelci MOBI kliknete Upravljanje > POROČILA > 
 
 Dropbox se uporabi kot shramba za svoje datoteke “v oblaku”. Datoteke lahko naložite na dropbox, potem da do njih dostopate iz različnih računalnikov, telefonov in podobno. Dropbox lahko namestite na svoj računalnik, a za lahkotno uporabo to ni nujno, saj lahko vedno obiščete njihovo spletno stran in tako pridete do datotek. Čebelca uporablja Dropbox, ker je do 2GB popolnoma brezplačen.
 
+### Preko vašega programa uporabljam davčno blagajno za izdajo računov in sem v menjavi mobitela. Kako prenesem program na novo napravo?
+
+Postopek je opisan [tu](https://www.cebelca.biz/pomoc-davcne-blagajne-mobi-backup.html#backup1).
+
 ### Odločila sem se, da zaprem s.p. in sedaj imamo drug s.p., pisan na očeta, preko katerega bova sedaj poslovala. Pa se sedaj obračam na vas, kako naj to izvedem, glede na obstoječ račun, ki je naložen na mojem telefonu?
 
 Za drug s.p. se lahko kar registrirate preko naše spletne strani in boste dobili potrditveni e-mail. Za vsak dostop potrebujete unikaten e-mail. Če bi mogoče želeli za novi s.p. uporabljati e-mail, ki ste ga uporabljali pri obstoječem dostopu, lahko pri tem dostopu zamenjate uporabniški e-mail, da bo tisti zopet na voljo za registracijo.
