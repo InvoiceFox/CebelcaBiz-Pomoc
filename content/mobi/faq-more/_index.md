@@ -92,6 +92,12 @@ Kontaktirajte FURS in verjetno vam bodo naročili, da račun zdaj čimprej potrd
 
 Preverite prosim, da v oznaki blagajne ali prostora ni kakšnih znakov kot npr. pomišljajev, ali šumnikov. Lahko so le male ali velike črke. Kot drugo preverite, če imate pravilno vnešeno davčno številko, da ima osem cifer in enako še za osebno davčno številko prodajalca.
 
+### Ali imamo lahko eno tablico za dve podjetji za izdajanje računov preko Čebelce MOBI?
+
+Android tablice ponavadi omogočajo več uporabnikov (System->Advanced->Multiple users), med katerimi lahko menjaš. Na ta način bi lahko Čebelco MOBI uporabljali na eni tablici za dve podjetji. Pomembno je, da da sta različni oznaki blagajn, da ne bi bilo kakšnih nejasnosti z računi.
+
+Registrirati preko naše spletne strani pa se je potrebno za vsako podjetje posebej, saj vsako podjetje potrebuje svoj dostop.
+
 ### Kako v Čebelci MOBI izdam račun na podjetje, torej, da bo to podjetje izpisano na računu?
 
 V Čebelci MOBI lahko vnesete podjetje - stranko tako, da greste na: Upravljanje > (zavihek) STRANKE. Potem pa, ko sestavljate račun, greste zg.desno na tri pike in potem na: Dodeli stranko.
@@ -103,6 +109,10 @@ Dobropis lahko v Čebelci MOBI ustvarite tako, da na "Upravljanje" na določenem
 To vam ustvari nov dokument NEIZDANO, ki ima vsebino enako kot račun s količinami v minus. Ta račun morate zaključiti in potrditi na FURS.
 
 To storite z dolgim pritiskom na NEIZDANO, v menuju, ki se pokaže pa izberete Zaključi in potrdi na FURS.
+
+### Pri izdaji računa mi javi to napako: "Napaka pri pošiljanju podatkov na FURS strežnik. Račun ni bil izdan niti davčno potrjen." 
+
+Verjetno vam je poteklo namensko digitalno potrdilo, če ga imate že 5 let. Objavili smo [blog](https://cebelca-biz.blogspot.com/2020/12/kako-nadgradite-svoje-namensko.html), kjer je opisano, kako se namesti novo nam.dig.potrdilo v spletni ali mobilni program Čebelca. Če slučajno ni to, nam sporočite.
 
 ### Imam Čebelco MOBI in me zanima, če imamo lahko tudi zalogo, ki se vpiše z dobavnico in se s prodajo odšteva?
 
