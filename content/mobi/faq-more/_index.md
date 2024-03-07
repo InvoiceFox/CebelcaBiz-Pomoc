@@ -31,7 +31,7 @@ Več navodil najdete [tukaj](https://www.cebelca.biz/pomoc-davcne-blagajne-mobi.
 
 ### Koliko stane Čebelca MOBI - PLUS?
 
-Cena programa Čebelca MOBI - PLUS je 9 eur + ddv. Pri plačevanju za več mesecev skupaj je popust. Lahko si sami preračunate [tukaj](https://www.cebelca.biz/subscription-si.html)
+Cena uporabe programa Čebelca MOBI - PLUS je 9 eur + ddv na mesec. Pri plačevanju za več mesecev skupaj je popust. Lahko si sami preračunate [tukaj](https://www.cebelca.biz/subscription-si.html)
 
 ### Kako naj vem, katero verzijo mobilnega programa izbrati (MINI, PLUS, MEGA)? Mobilni program bi uporabljali le na dogodkih, ko je sezona?
 
