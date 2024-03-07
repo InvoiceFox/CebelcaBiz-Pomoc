@@ -37,7 +37,7 @@ Cena programa Čebelca MOBI - PLUS je 9 eur + ddv. Pri plačevanju za več mesec
 
 Za tiskanje računov iz Čebelce MOBI potrebujete prenosni, termični , bluetooth, POS tiskalnik.
 
-V redu bo (skoraj) katerikoli takšen tiskalnik, saj se Čebelca povezuje v glavnem z vsemi. Imajo jih v trgovinah, kot je recimo Mimovrste ali pa npr. na [Pos-oprema.net](https://www.pos-oprema.net/prenosni-tiskalniki). V kombinaciji s Čebelco se najpogosteje uporabljajo tiskalniki znamke Ocom, ki se tržijo pod različnimi imeni (npr. OCPP-M05; ZIJIANG, ZJ-5802; ISSYZONE, IMP-006; VOXLINK, BTPD 0250; NETUM NT-5802j, so pa tudi drugi OK. 
+V redu bo (skoraj) katerikoli takšen tiskalnik, saj se Čebelca povezuje v glavnem z vsemi. Imajo jih v trgovinah, kot je recimo Mimovrste ali pa npr. na [Pos-oprema](https://www.pos-oprema.net/prenosni-tiskalniki). V kombinaciji s Čebelco se najpogosteje uporabljajo tiskalniki znamke Ocom, ki se tržijo pod različnimi imeni (npr. OCPP-M05; ZIJIANG, ZJ-5802; ISSYZONE, IMP-006; VOXLINK, BTPD 0250; NETUM NT-5802j, so pa tudi drugi OK. 
 
 (Trenutno edini, ki ni podprt, je Optipos Light, tako da tega ne priporočamo, ker ne podpira QR kod na ustrezen način.)
 
@@ -45,7 +45,7 @@ V redu bo (skoraj) katerikoli takšen tiskalnik, saj se Čebelca povezuje v glav
 
 Če še niste registrirani preko naše spletne strani, se registrirajte: potrebno je vnesti le e-mail naslov in geslo.
 
-Namensko digitalno potrdilo, ki ste ga prejeli iz strani e-davki, je potrebno prenesti v moder okvirček, ki ga boste videli, ko boste šli prijavljeni na https://www.cebelca.biz/manage/mobi.html.
+Namensko digitalno potrdilo, ki ste ga prejeli iz strani e-davki, je potrebno prenesti v moder okvirček, ki ga boste videli, ko boste šli prijavljeni na spletno stran [Čebelca MOBI](https://www.cebelca.biz/manage/mobi.html)
 
 Potem je potrebno v aplikaciji Čebelca MOBI, torej na vaši android napravi, povezati aplikacijo s Čebelca.biz strežnikom. V ta namen greste v aplikaciji Čebelca MOBI na: tri pike (zg.desno) > "Poveži dostop" > vnesete up.mail in geslo > "POVEŽI Z DOSTOPOM". (Program povežete le enkrat. Ta povezava pa služi tudi drugim namenom, npr. izvozu / uvozu podatkov.)
 
