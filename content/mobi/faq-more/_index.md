@@ -31,7 +31,7 @@ Več navodil najdete [tukaj](https://www.cebelca.biz/pomoc-davcne-blagajne-mobi.
 
 ### Koliko stane Čebelca MOBI?
 
-Cena programa Čebelca MOBI - PLUS je 9 eur + ddv. Pri plačevanju za več mesecev skupaj je popust. Lahko si sami preračunate tukaj: https://www.cebelca.biz/subscription-si.html
+Cena programa Čebelca MOBI - PLUS je 9 eur + ddv. Pri plačevanju za več mesecev skupaj je popust. Lahko si sami preračunate [tukaj](https://www.cebelca.biz/subscription-si.html)
 
 ### Na kaj naj bomo pozorni pri nakupu tiskalnika?
 
