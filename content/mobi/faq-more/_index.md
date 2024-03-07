@@ -29,9 +29,13 @@ V testnem načinu tudi povežete in preizkusite svoj tiskalnik: Davčna blagajna
 
 Več navodil najdete [tukaj](https://www.cebelca.biz/pomoc-davcne-blagajne-mobi.html)
 
-### Koliko stane Čebelca MOBI?
+### Koliko stane Čebelca MOBI - PLUS?
 
 Cena programa Čebelca MOBI - PLUS je 9 eur + ddv. Pri plačevanju za več mesecev skupaj je popust. Lahko si sami preračunate [tukaj](https://www.cebelca.biz/subscription-si.html)
+
+### Kako naj vem, katero verzijo mobilnega programa izbrati (MINI, PLUS, MEGA)? Mobilni program bi uporabljali le na dogodkih, ko je sezona?
+
+V mesecih, ko ne boste izdajali računov, ali ko bo le-teh 25 ali manj na mesec,imate lahko izbrano brezplačno verzijo Čebelca MOBI - MINI; kadar boste imeli nad 25 računov na mesec, pa PLUS.
 
 ### Na kaj naj bomo pozorni pri nakupu tiskalnika?
 
@@ -53,8 +57,47 @@ Nato greste v Čebelci MOBI na: tri pikice > "Nastavitve programa" > "PROGRAM" (
 
 Več navodil najdete [tukaj](https://www.cebelca.biz/navodila/faq/namensko_digitalno_potrdilo/#uvoz-potrdila-v-mobilni-program-%C4%8Debelca-mobi)
 
-###
+### Ko želim klikniti "uvozi iz cebelica.biz" mi napiše napaka: odgovor strežnika ni certifikat?
 
+Datoteko je potrebno dati v modro okno (na desni), ko ste prijavljeni na naši spletni strani od Čebelce MOBI, kot je opisano v zgornjem odgovoru.
 
-###
+### Šumniki ne delajo.
+
+Ali ste naredili preizkus tiskalnikov? Pri Upravljanje > Možnosti lahko izberete vrsto tiskalnika. Tam imate tipko "preizkusi", ki vam, če je izbran pravi tiskalnik, natisne šumnike in QR kodo.
+
+Potem pa pritisnite opcijsko tipko - 3 pike desno zgoraj, lahko pa je to tudi prava tipka na telefonu ali tablici, odvisno od naprave. Pokaže se vam “menu” kjer pritisnete: Poveži tiskalnik.
+
+Vklopite tiskalnik in v programu spodaj pritisnete Išči tiskalnike. V nekaj sekundah bi se vam moralo pokazati okno za povezavo z novim tiskalnikom. Pri tem vnesete kodo 1234.
+
+Če kateri tiskalnik namesto šumnikov tiska kitajske črke, je možno tudi, da je v chinese namesto v international / ascii načinu (mode). Običajno se med načini preklaplja s posebno kombinacijo tipk ob zagonu, kar piše v navodilih tiskalnika. Ponavadi gre tako, da ga ugasnete. Potem držite obe tipki (Power in Feed) in ko se barva lučke zamenja, spustite najprej levo (Feed).
+
+### Kje v Čebelci MOBI vklopim pravi način, da ne bodo več testni računi?
+
+Greste na: tri pikice (zg.desno) > Nastavitve programa > (zavihek) PROGRAM in tam izklopite testni način.
+
+### Kako spremeniti, da ne bo na mobilnem telefonu valuta $?
+To je potrebno spremeniti v nastavitvah samega telefona (settings). Najboljše, da si kot jezik izberete Slovenščino.
+
+### Imam davčno blagajno MOBI ČEBELCA in pri prvem računu mi na račun ni pripisalo kode EOR. Kako bi zadevo uredili?
+
+Kontaktirajte FURS in verjetno vam bodo naročili, da račun zdaj čimprej potrdite, če ga takrat niste. 
+
+### Na Čebelci MOBI ne morem davčno potrditi računov, napiše mi: “Napaka! sporočilo ni v skladu s shemo JSON.” 
+
+Preverite prosim, da v oznaki blagajne ali prostora ni kakšnih znakov kot npr. pomišljajev, ali šumnikov. Lahko so le male ali velike črke. Kot drugo preverite, če imate pravilno vnešeno davčno številko, da ima osem cifer in enako še za osebno davčno številko prodajalca.
+
+### Kako v Čebelci MOBI izdam račun na podjetje, torej, da bo to podjetje izpisano na računu?
+
+V Čebelci MOBI lahko vnesete podjetje - stranko tako, da greste na: Upravljanje > (zavihek) STRANKE. Potem pa, ko sestavljate račun, greste zg.desno na tri pike in potem na: Dodeli stranko.
+
+### Kako izvoziti podatke iz Čebelce MOBI?
+
+Čebelca MOBI omogoča več opcij glede poročanja računovodstvu.
+
+Nekateri se odločijo za “papirni način” s tem, da vsak dan na koncu dneva natisnejo dnevni zaključek, potem pa te občasno fizično dostavijo svojemu računovodstvu. Bolj priporočljiv je elektronski način, kjer 1x na mesec izvozite datoteke na svoj Dropbox dostop, ter te delite z računovodjem.
+
+Za izvoz poročil na Dropbox v Čebelci MOBI kliknete Upravljanje > POROČILA > MESECI (spodaj) > dolgi pritisk na izbrani mesec > izvoz poročil na Dropbox.
+
+Dropbox se uporabi kot shramba za svoje datoteke “v oblaku”. Datoteke lahko naložite na dropbox, potem da do njih dostopate iz različnih računalnikov, telefonov in podobno. Dropbox lahko namestite na svoj računalnik, a za lahkotno uporabo to ni nujno, saj lahko vedno obiščete njihovo spletno stran in tako pridete do datotek. Čebelca uporablja Dropbox, ker je do 2GB popolnoma brezplačen.
+
 
