@@ -13,7 +13,7 @@ Ne.
 Če dostopa še nimate, obiščite spletno stran [Čebelca MOBI](https://www.cebelca.biz/mobi) in se tam registrirajte preko rdeče tipke. 
 Pri registraciji si določite e-mail in geslo, kot ga boste imeli za prijavo v Čebelco in tudi za povezavo dostopa pri MOBI.
 
-### Želela uporabljati vašo mobilno blagajno. Kako naj začnem z uporabo?
+### Želim uporabljati vašo mobilno blagajno. Kako naj začnem z uporabo?
 
 Registrirate se lahko torej na naši spletni strani: [Čebelca MOBI](https://www.cebelca.biz/mobi)
 
