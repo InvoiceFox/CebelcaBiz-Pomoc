@@ -61,6 +61,12 @@ Več navodil najdete [tukaj](https://www.cebelca.biz/navodila/faq/namensko_digit
 
 Datoteko je potrebno dati v modro okno (na desni), ko ste prijavljeni na naši spletni strani od Čebelce MOBI, kot je opisano v zgornjem odgovoru.
 
+### Ko kliknem “Poveži tiskalnik” se nič ne zgodi?
+
+Če se pri "Poveži tiskalnik" ne zgodi nič, pojdite na Nastavitve (Setting) v Androidu, potem Aplikacije in poiščite Čebelca MOBI. Tam pojdite pod Dovoljenja in omogočite dovoljenja ki so onemogočene, običajno se imenuje "naprave v bližini", včasih pa je še enka (odvisno od verzije Androida).
+ 
+Do težave, ki jo imate, pride zato, ker program, ko greste v Davčno blagajno mora vprašati ali dovolite dostop do Bluetooth, če želi dobiti ta dovoljenja. In če 2x kliknete Ne, potem Android sistem programu ne dovoli več postaviti tega vprašanja in se smatra da ne. Zato pa potem ne more prikazati seznama Bluetooth naprav.
+
 ### Šumniki ne delajo.
 
 Ali ste naredili preizkus tiskalnikov? Pri Upravljanje > Možnosti lahko izberete vrsto tiskalnika. Tam imate tipko "preizkusi", ki vam, če je izbran pravi tiskalnik, natisne šumnike in QR kodo.
@@ -90,7 +96,33 @@ Preverite prosim, da v oznaki blagajne ali prostora ni kakšnih znakov kot npr. 
 
 V Čebelci MOBI lahko vnesete podjetje - stranko tako, da greste na: Upravljanje > (zavihek) STRANKE. Potem pa, ko sestavljate račun, greste zg.desno na tri pike in potem na: Dodeli stranko.
 
-### Kako izvoziti podatke iz Čebelce MOBI?
+### Kako naredim dobropis v Čebelci MOBI?
+
+Dobropis lahko v Čebelci MOBI ustvarite tako, da na "Upravljanje" na določenem računu izvedete dolgi pritisk. Pojavi se vam menu, kjer izberete V dobropis / storno
+
+To vam ustvari nov dokument NEIZDANO, ki ima vsebino enako kot račun s količinami v minus. Ta račun morate zaključiti in potrditi na FURS.
+
+To storite z dolgim pritiskom na NEIZDANO, v menuju, ki se pokaže pa izberete Zaključi in potrdi na FURS.
+
+### Imam Čebelco MOBI in me zanima, če imamo lahko tudi zalogo, ki se vpiše z dobavnico in se s prodajo odšteva?
+
+Ja, vsak dan, ko zaključite dan, kliknete "v skladiščni dok." pri MOBI in se naredi dobavnica, ki odšteje vse, kar je bilo tisti dan prodano. [Tukaj](https://www.cebelca.biz/pomoc-mobi-plus-skladisce.html) si lahko preberete, kako vnesti partnerja za vašo blagajno. Svojo mobilno blagajno je namreč potrebno vnesti v spletni program kot partnerja, da se bo preko tega lahko vodila zaloga.
+
+### Kako se natisne dnevno in mesečno poročilo na termični tiskalnik?
+
+Za dnevno in mesečno poročilo za natisniti greste na Upravljanje > POROČILA > MESECI (spodaj). Nadaljevanje pa je različno za dnevno oz. mesečno poročilo:
+
+Za dnevno poročilo kliknete na izbrani mesec in potem naredite dolgi pritisk na izbrani dan. Prve 4 opcije dnevnih poročil, ki se vam bodo ponudile so za natisniti.
+
+Za mesečno poročilo pa naredite dolgi pritisk na izbrani mesec in se vam zopet ponudijo opcije mesečnih poročil, od katerih so prve štiri za natisniti.
+
+Več o tem [tukaj](https://www.cebelca.biz/navodila/mobi/izvoz_podatkov_za_racunovodstvo/#tisk-dnevnih-zaklju%C4%8Dkov)
+
+### Kako izvozimo podatke iz Čebelce MOBI za računovodstvo? (krajša verzija)
+
+V Čebelci MOBI kliknete Upravljanje > POROČILA > MESECI (spodaj) > dolgi pritisk na izbrani mesec > izvoz poročil na Dropbox.
+
+### Kako izvoziti podatke iz Čebelce MOBI? (daljša verzija)
 
 Čebelca MOBI omogoča več opcij glede poročanja računovodstvu.
 
@@ -99,5 +131,13 @@ Nekateri se odločijo za “papirni način” s tem, da vsak dan na koncu dneva 
 Za izvoz poročil na Dropbox v Čebelci MOBI kliknete Upravljanje > POROČILA > MESECI (spodaj) > dolgi pritisk na izbrani mesec > izvoz poročil na Dropbox.
 
 Dropbox se uporabi kot shramba za svoje datoteke “v oblaku”. Datoteke lahko naložite na dropbox, potem da do njih dostopate iz različnih računalnikov, telefonov in podobno. Dropbox lahko namestite na svoj računalnik, a za lahkotno uporabo to ni nujno, saj lahko vedno obiščete njihovo spletno stran in tako pridete do datotek. Čebelca uporablja Dropbox, ker je do 2GB popolnoma brezplačen.
+
+### Odločila sem se, da zaprem s.p. in sedaj imamo drug s.p., pisan na očeta, preko katerega bova sedaj poslovala. Pa se sedaj obračam na vas, kako naj to izvedem, glede na obstoječ račun, ki je naložen na mojem telefonu?
+
+Za drug s.p. se lahko kar registrirate preko naše spletne strani in boste dobili potrditveni e-mail. Za vsak dostop potrebujete unikaten e-mail. Če bi mogoče želeli za novi s.p. uporabljati e-mail, ki ste ga uporabljali pri obstoječem dostopu, lahko pri tem dostopu zamenjate uporabniški e-mail, da bo tisti zopet na voljo za registracijo.
+
+Če boste imeli Čebelco MOBI na isti napravi kot prej, je možno, da le spremenite podatke podjetja v isti Čebelci MOBI, pri tem pa je potem najbolj pomembno, da ustvarite nov prostor, starega pa lahko tudi izbrišete, da se ne bi kdaj zmotili. Tako, da bodo šli računi spet od 1. 
+
+Za vzpostavitev davčne blagajne pa boste morali še pridobiti novo namensko digitalno potrdilo.
 
 
