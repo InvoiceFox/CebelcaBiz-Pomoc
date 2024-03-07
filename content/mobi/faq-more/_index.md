@@ -110,6 +110,10 @@ To vam ustvari nov dokument NEIZDANO, ki ima vsebino enako kot račun s količin
 
 To storite z dolgim pritiskom na NEIZDANO, v menuju, ki se pokaže pa izberete Zaključi in potrdi na FURS.
 
+### Kako uredim, da se bodo računi z novim letom številčili zopet od 1?
+
+V primeru davčne blagajne se številčenje računov skozi leta nadaljuje. Tako naj bo navedeno tudi v Internem aktu. V številki, ki je v tem primeru strogo predpisana, namreč ne more biti letnice, zato bi se v primeru številčenja vsako leto znova od 1 številke ponavljale. Več o tem smo napisali v tem [blogu](http://cebelca-biz.blogspot.com/2022/01/stevilcenje-ob-prehodu-v-leto-2022.html). 
+
 ### Pri izdaji računa mi javi to napako: "Napaka pri pošiljanju podatkov na FURS strežnik. Račun ni bil izdan niti davčno potrjen." 
 
 Verjetno vam je poteklo namensko digitalno potrdilo, če ga imate že 5 let. Objavili smo [blog](https://cebelca-biz.blogspot.com/2020/12/kako-nadgradite-svoje-namensko.html), kjer je opisano, kako se namesti novo nam.dig.potrdilo v spletni ali mobilni program Čebelca. Če slučajno ni to, nam sporočite.
