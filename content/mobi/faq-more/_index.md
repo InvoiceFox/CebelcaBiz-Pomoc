@@ -1,8 +1,8 @@
 # Pogosta vprašanja
 
-### Kaj je Čebelca MOBI?
+### Za kakšne primere se uporablja Čebelca MOBI?
 
-To je mobilna aplikacija za izdajanje računov, v kateri si aktivirate davčno blagajno za davčno potrjevanje računov. Deluje pa na Android telefonih ali tablicah in tiska račune preko prenosnega POS termičnega tiskalnika.
+Čebelca MOBI je mobilna aplikacija za izdajanje računov, v kateri si aktivirate davčno blagajno za davčno potrjevanje računov. Deluje na Android telefonih ali tablicah in tiska račune preko prenosnega POS termičnega tiskalnika. Namenjena je za hitro izdajanje računov, prodajo artiklov oz. zaračunavanje storitev strankam v živo in sicer na terenu ali v svojih prostorih.
 
 ### Ali obstaja Čebelca MOBI za iOS?
 
