@@ -92,6 +92,10 @@ Kontaktirajte FURS in verjetno vam bodo naročili, da račun zdaj čimprej potrd
 
 Preverite prosim, da v oznaki blagajne ali prostora ni kakšnih znakov kot npr. pomišljajev, ali šumnikov. Lahko so le male ali velike črke. Kot drugo preverite, če imate pravilno vnešeno davčno številko, da ima osem cifer in enako še za osebno davčno številko prodajalca.
 
+### Ali Čebelca MOBI omogoča plačevanje s kartico?
+
+Kartično plačevanje je možno v povezavi s SumUp ali s POS terminalom od banke. Prosim preberite si tukaj: https://cebelca-biz.blogspot.com/2019/12/cebelca-mobi-placilne-kartice-in-sumup.html
+
 ### Ali imamo lahko eno tablico za dve podjetji za izdajanje računov preko Čebelce MOBI?
 
 Android tablice ponavadi omogočajo več uporabnikov (System->Advanced->Multiple users), med katerimi lahko menjaš. Na ta način bi lahko Čebelco MOBI uporabljali na eni tablici za dve podjetji. Pomembno je, da da sta različni oznaki blagajn, da ne bi bilo kakšnih nejasnosti z računi.
