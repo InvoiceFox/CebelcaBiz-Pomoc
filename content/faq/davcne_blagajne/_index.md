@@ -41,9 +41,9 @@ Nič ni narobe, če potrdite tudi negotovinske račune, je pa narobe, če kakšn
 * **Brez davčnega potrjevanja računov:**
 Imejte izbrano to opcijo, če oz. dokler boste izdajali le negotovinske račune. V tem primeru vam ni treba naložiti digitalnega potrdila in gesla zanj.
 * **Z opcijskim davčnim potrjevanjem:**
-Če imate občasno gotovinske račune in se želite pred vsakim kreiranjem računa odločiti ali bo račun lahko gotovinski ali ne.
+Izberite, če imate občasno gotovinske račune in se želite pred vsakim kreiranjem računa odločiti, ali bo račun lahko gotovinski ali ne.
 * **S potrjevanjem vseh računov:**
-Če imate vse ali del gotovinskih računov in želite, da se vsi davčno potjujejo.
+Izberite, če imate vse ali del gotovinskih računov in želite, da se vsi davčno potjujejo.
 
 ### Kaj storim, če potrjevanje računa ne uspe?
 
