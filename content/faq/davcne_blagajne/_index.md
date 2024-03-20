@@ -48,3 +48,15 @@ Potrebno je:
 Tukaj je opisano, kako pridobite namensko digitalno potrdilo in kako ga namestite v spletni ali mobilni program:
 [Namensko digitalno potrdilo](https://github.com/InvoiceFox/CebelcaBiz-Pomoc/tree/main/content/faq/namensko_digitalno_potrdilo)
 
+### Kje najdem podatke o prostoru, ki jih je potrebno vnesti za davčno blagajno (oznaka prostora in blagajne, št. katastr. občine, stavbe in dela stavbe)?
+
+Oznako prostora in blagajne določite sami in ti dve oznaki bosta potem del številke računa. Npr. če daste prostoru oznako P1 in blagajni B1, bo prvi račun imel št. P1-B1-1.
+
+Ostale podatke najdete npr. v pogodbi o najemu ali nakupu ali na spletni strani GURS.
+
+### Kako napisati Interni akt?
+
+Vzorce internega akta najdete v Fursovih pogostih vprašanjih in odgovorih in sicer v odg.št.215. Če vtipkate v Google npr. "Furs pogosta vprašanja in odgovori o davčnem potrjevanju računov", boste našli. Primeri so različni glede na to ali imate enega ali več poslovnih prostorov in naprav. Pozorni pa bodite prosim na to, da v internem aktu ne bo pisalo, da se številčenje vsako leto začne od 1, kajti v Čebelci se začne od 1 potem pa se skozi leta nadaljuje. Piše naj, da se začne od 1 (ne pa vsako leto).
+
+[Več o internem aktu](https://github.com/InvoiceFox/CebelcaBiz-Pomoc/tree/main/content/faq/interni_akt)
+
