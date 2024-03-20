@@ -39,7 +39,7 @@ Ne-gotovinski računi, kjer davčno potrjevanje ni potrebno, so računi v celoti
 Nič ni narobe, če potrdite tudi negotovinske račune, je pa narobe, če kakšnega gotovinskega računa ne potrdite. Čebelca BIZ omogoča 3 načine delovanja:
 
 * **Brez davčnega potrjevanja računov:**
-Izberite to opcijo, če v tem letu ne boste imeli nobenega gotovinskega računa. V tem primeru vam ni treba naložiti digitalnega potrdila in gesla zanj.
+Imejte izbrano to opcijo, če oz. dokler boste izdajali le negotovinske račune. V tem primeru vam ni treba naložiti digitalnega potrdila in gesla zanj.
 * **Z opcijskim davčnim potrjevanjem:**
 Če imate občasno gotovinske račune in se želite pred vsakim kreiranjem računa odločiti ali bo račun lahko gotovinski ali ne.
 * **S potrjevanjem vseh računov:**
