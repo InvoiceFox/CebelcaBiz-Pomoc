@@ -32,7 +32,7 @@ Ne-gotovinski računi, kjer davčno potrjevanje ni potrebno, so računi v celoti
 * Paypal
 * VALU
 
-Če potrdite račun, ki ga ne bi bilo treba, ni nič narobe. Praksa pa je pokazala, da potrjevati večje število računov, ki jih nebi bilo treba, ni proporočljivo, saj lahko pride do zapletov, ki jih pri navadnih računih ne bi bilo.
+Če potrdite račun, ki ga ne bi bilo treba, ni nič narobe. Praksa pa je pokazala, da potrjevati večje število računov, ki jih ne bi bilo treba, ni proporočljivo, saj lahko pride do zapletov, ki jih pri navadnih računih ne bi bilo.
 
 ### Kaj storimo v primeru da imamo mešane, gotovinske in negotovinske račune?
 
