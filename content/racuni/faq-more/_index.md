@@ -54,6 +54,18 @@ Direktnim nakazilom stranke na TRR podjetja (e-banka ali UPN)
 Paypal
 Moneto
 
+### Kaj storimo v primeru da imamo mešane, gotovinske in negotovinske račune?
+
+Nič ni narobe, če potrdite tudi negotovinske račune, je pa narobe, če kakšnega gotovinskega računa ne potrdite. Čebelca BIZ omogoča 3 načine delovanja:
+
+* **Brez davčnega potrjevanja računov:**
+Imejte izbrano to opcijo, če oz. dokler boste izdajali le negotovinske račune. V tem primeru vam ni treba naložiti digitalnega potrdila in gesla zanj.
+* **Z opcijskim davčnim potrjevanjem:**
+Izberite, če imate občasno gotovinske račune in se želite pred vsakim kreiranjem računa odločiti, ali bo račun lahko gotovinski ali ne.
+* **S potrjevanjem vseh računov:**
+Izberite, če imate vse ali del gotovinskih računov in želite, da se vsi davčno potjujejo.
+
+
 #### Na vašem portalu smo ustvarili nov uporabniški račun, ki ga bomo uporabljali za izdajanje računov spletne trgovine, ki jo bomo odprli čez dva meseca. Po pregledu vaših paketov, smo se odločili za paket PLUS. Zanima me, katere korake moramo še urediti pred pričetkom, kako je s plačilom vaše storitve itd.?
 
 Če ste že ustvarili uporabniški račun, imate lahko, dokler ne začnete izdajati računov, izbran paket MINI, ki je brezplačen, da ne boste dobili računov, še preden bi začeli uporabljati program. Med paketi lahko sami kadarkoli preklapljate zg. desno v "Naročnina", glede na to, kaj potrebujete.
