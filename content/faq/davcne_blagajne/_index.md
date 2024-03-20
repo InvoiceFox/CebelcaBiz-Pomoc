@@ -36,7 +36,7 @@ Ne-gotovinski računi, kjer davčno potrjevanje ni potrebno, so računi v celoti
 
 ### Kaj je potrebno urediti, da lahko davčno potrjujemo račune?
 
-Potrebno je v programu:
+Potrebno je:
 * aktivirati davčno blagajno
 * namestiti namensko digitalno potrdilo
 * vnesti in potrditi poslovni prostor ter oznako blagajne in prostora
