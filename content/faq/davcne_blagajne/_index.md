@@ -57,5 +57,12 @@ Ostale podatke najdete npr. v pogodbi o najemu ali nakupu ali na spletni strani 
 
 Vzorce internega akta najdete v Fursovih pogostih vprašanjih in odgovorih in sicer v odg.št.215. Če vtipkate v Google npr. "Furs pogosta vprašanja in odgovori o davčnem potrjevanju računov", boste našli. Primeri so različni glede na to ali imate enega ali več poslovnih prostorov in naprav. Pozorni pa bodite prosim na to, da v internem aktu ne bo pisalo, da se številčenje vsako leto začne od 1, kajti v Čebelci se začne od 1 potem pa se skozi leta nadaljuje. Piše naj, da se začne od 1 (ne pa vsako leto).
 
+### Kaj urediti, da se računi v davčni blagajni številčijo od 1 naprej?
+
+Če imate davčno blagajno, potem se številčenje nadaljuje. V številki, ki je v tem primeru strogo predpisana, namreč ne more biti letnice, zato bi se v primeru številčenja vsako leto znova od 1 številke ponavljale. Več o tem smo napisali na:
+
+[Številčenje ob prehodu leta](http://cebelca-biz.blogspot.com/2022/01/stevilcenje-ob-prehodu-v-leto-2022.html)
+
+
 
 
