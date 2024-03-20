@@ -45,7 +45,7 @@ Potrebno je:
 
 ### Kje dobimo in kako namestimo namensko digitalno potrdilo v program?
 
-[Tukaj](https://github.com/InvoiceFox/CebelcaBiz-Pomoc/blob/main/content/faq/namensko_digitalno_potrdilo/_index.md)) je opisano, kako pridobite namensko digitalno potrdilo in kako ga namestite v spletni ali mobilni program.
+[Tukaj](https://github.com/InvoiceFox/CebelcaBiz-Pomoc/blob/main/content/faq/namensko_digitalno_potrdilo/_index.md) je opisano, kako pridobite namensko digitalno potrdilo in kako ga namestite v spletni ali mobilni program.
 
 ### Kje najdem podatke o prostoru, ki jih je potrebno vnesti za davčno blagajno (oznaka prostora in blagajne, št. katastr. občine, stavbe in dela stavbe)?
 
