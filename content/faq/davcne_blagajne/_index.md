@@ -34,17 +34,5 @@ Ne-gotovinski računi, kjer davčno potrjevanje ni potrebno, so računi v celoti
 
 Če potrdite račun, ki ga ne bi bilo treba, ni nič narobe. Praksa pa je pokazala, da potrjevati večje število računov, ki jih ne bi bilo treba, ni proporočljivo, saj lahko pride do zapletov, ki jih pri navadnih računih ne bi bilo.
 
-### Kaj storimo v primeru da imamo mešane, gotovinske in negotovinske račune?
 
-Nič ni narobe, če potrdite tudi negotovinske račune, je pa narobe, če kakšnega gotovinskega računa ne potrdite. Čebelca BIZ omogoča 3 načine delovanja:
 
-* **Brez davčnega potrjevanja računov:**
-Imejte izbrano to opcijo, če oz. dokler boste izdajali le negotovinske račune. V tem primeru vam ni treba naložiti digitalnega potrdila in gesla zanj.
-* **Z opcijskim davčnim potrjevanjem:**
-Izberite, če imate občasno gotovinske račune in se želite pred vsakim kreiranjem računa odločiti, ali bo račun lahko gotovinski ali ne.
-* **S potrjevanjem vseh računov:**
-Izberite, če imate vse ali del gotovinskih računov in želite, da se vsi davčno potjujejo.
-
-### Kaj storim, če potrjevanje računa ne uspe?
-
-Če potrjevanje ne uspe, ker trenutno nimate interneta ali FURS strežnik ne deluje, lahko račun izdate brez EOR kode. Račun še vedno vsebuje ZOI kodo in črtno QR kodo, polje za EOR kodo pa je prazno. Takšen račun lahko izdate stranki, račun pa morate potrditi v roku 48 ur.
