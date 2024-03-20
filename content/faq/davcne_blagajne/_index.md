@@ -6,9 +6,9 @@
 
 Davčna blagajna je program, ki omogoča davčno potrjevanje računov in upošteva ostale zahteve iz Zakona o davčnem potrjevanju računov. 
 
-Spletni program Čebelca BIZ ima možnost davčnega potrjevanja računov tako v modulu PLUS kot tudi v MINI. 
+**Spletni program Čebelca BIZ** ima možnost davčnega potrjevanja računov tako v modulu PLUS kot tudi v MINI. 
 
-Mobilni program Čebelca MOBI pa je že v osnovi blagajniški program in davčna blagajna.
+**Mobilni program Čebelca MOBI** pa je že v osnovi blagajniški program in davčna blagajna.
 
 [FURS - vprašanja in odgovori o davčnih blagajnah](https://www.fu.gov.si/fileadmin/Internet/Nadzor/Podrocja/Davcne_blagajne_in_VKR/Vprasanja_in_odgovori/Davcno_potrjevanje_racunov.doc)
 
