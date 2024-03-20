@@ -47,6 +47,14 @@ Potrebno je:
 
 [Tukaj](https://github.com/InvoiceFox/CebelcaBiz-Pomoc/blob/main/content/faq/namensko_digitalno_potrdilo/_index.md) je opisano, kako pridobite namensko digitalno potrdilo in kako ga namestite v spletni ali mobilni program.
 
+###  Kaj napišem pod zavihek Prostor, ali naj napisem naslov, kje točno dejavnost izvajam?
+
+Če izdajate račune v pisarni ali v katerem drugem stacionarnem prostoru, izberete vrsto prostora Nepremični prostor in vnesete št. katastr.občine in št. stavbe ter naslov. To vrsto prostora izberete tudi v primeru spletne trgovine.
+
+Če bi izdajali račune na terenu, bi izbrali vrrsto prostora elektronska naprava. V tem primeru vaša naprava predstavlja prostor, ker se drugega prostora ne da opredeliti.
+
+Premični poslovni prostor pa se, kot že ime pove, izbere, če izdajate račune v premičnem objektu (stojnica, avtomobil, kombi, kiosk, ipd.).
+
 ### Kje najdem podatke o prostoru, ki jih je potrebno vnesti za davčno blagajno (oznaka prostora in blagajne, št. katastr. občine, stavbe in dela stavbe)?
 
 Oznako prostora in blagajne določite sami in ti dve oznaki bosta potem del številke računa. Npr. če daste prostoru oznako P1 in blagajni B1, bo prvi račun imel št. P1-B1-1.
