@@ -47,7 +47,7 @@ Potrebno je:
 
 [Tukaj](https://github.com/InvoiceFox/CebelcaBiz-Pomoc/blob/main/content/faq/namensko_digitalno_potrdilo/_index.md) je opisano, kako pridobite namensko digitalno potrdilo in kako ga namestite v spletni ali mobilni program.
 
-###  Kaj napišem pod zavihek Prostor, ali naj napisem naslov, kje točno dejavnost izvajam?
+###  Kaj napišem pod zavihek Prostor, naj napišem naslov, kje točno dejavnost izvajam? Kako izberem vrsto prostora?
 
 Če izdajate račune v pisarni ali v katerem drugem stacionarnem prostoru, izberete vrsto prostora Nepremični prostor in vnesete št. katastr.občine in št. stavbe ter naslov. To vrsto prostora izberete tudi v primeru spletne trgovine.
 
