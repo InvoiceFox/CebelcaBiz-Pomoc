@@ -43,3 +43,8 @@ Potrebno je:
 * vnesti naziv osebe, ki bo izdajala račune ter njeno osebno davčno številko
 * napisati Interni akt
 
+### Kje dobimo in kako namestimo namensko digitalno potrdilo v program?
+
+Tukaj je opisano, kako pridobite namensko digitalno potrdilo in kako ga namestite v spletni ali mobilni program:
+[Namensko digitalno potrdilo](https://github.com/InvoiceFox/CebelcaBiz-Pomoc/tree/main/content/faq/namensko_digitalno_potrdilo)
+
