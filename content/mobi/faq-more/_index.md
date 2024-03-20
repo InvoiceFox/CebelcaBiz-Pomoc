@@ -84,7 +84,10 @@ Greste na: tri pikice (zg.desno) > Nastavitve programa > (zavihek) PROGRAM in ta
 ### Kako spremeniti, da ne bo na mobilnem telefonu valuta $?
 To je potrebno spremeniti v nastavitvah samega telefona (settings). Najboljše, da si kot jezik izberete Slovenščino.
 
-### Imam davčno blagajno MOBI ČEBELCA in pri prvem računu mi na račun ni pripisalo kode EOR. Kako bi zadevo uredili?
+### Kaj storim, če potrjevanje računa ne uspe?
+
+Če potrjevanje ne uspe, ker trenutno nimate interneta ali FURS strežnik ne deluje, lahko račun izdate brez EOR kode. Račun še vedno vsebuje ZOI kodo in črtno QR kodo, polje za EOR kodo pa je prazno. Takšen račun lahko izdate stranki, račun pa morate potrditi v roku 48 ur.
+### Imamo davčno blagajno MOBI ČEBELCA in pri prvem računu, ki smo ga naredili pred tremi dnevi, nam na računu ni pripisalo kode EOR. Kako bi zadevo uredili?
 
 Kontaktirajte FURS in verjetno vam bodo naročili, da račun zdaj čimprej potrdite, če ga takrat niste. 
 
