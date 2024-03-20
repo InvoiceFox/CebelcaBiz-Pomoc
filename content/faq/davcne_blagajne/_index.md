@@ -34,5 +34,12 @@ Ne-gotovinski računi, kjer davčno potrjevanje ni potrebno, so računi v celoti
 
 Če potrdite račun, ki ga ne bi bilo treba, ni nič narobe. Praksa pa je pokazala, da potrjevati večje število računov, ki jih ne bi bilo treba, ni proporočljivo, saj lahko pride do zapletov, ki jih pri navadnih računih ne bi bilo.
 
+### Kaj je potrebno urediti, da lahko davčno potrjujemo račune?
 
+Potrebno je v programu:
+* aktivirati davčno blagajno
+* namestiti namensko digitalno potrdilo
+* vnesti in potrditi poslovni prostor ter oznako blagajne in prostora
+* vnesti naziv osebe, ki bo izdajala račune ter njeno osebno davčno številko
+* napisati Interni akt
 
