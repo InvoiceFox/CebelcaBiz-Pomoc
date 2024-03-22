@@ -52,11 +52,11 @@ Potrdilo lahko prevzamete samo enkrat. Na računalnuiku lahko pobrskate v mapi "
 
 [Podrobnejša navodila FURS-a o prevzemu namenskega digitalnega potrdila](https://www.datoteke.fu.gov.si/eDavki/PrevzemNamenskegaDigitalnegaPotrdila.pdf)
 
-### Po nesreči smo zbrisali datoteko s potrdilom ali lahko dobimo novega?
+## Po nesreči smo zbrisali datoteko s potrdilom ali lahko dobimo novega?
 
 Ja, brez problema se lahko zaprosi za novega, tudi če staro še ni poteklo. Veljavno je sicer 5 let.
 
-### Potrdilo smo že uporabili v drugi blagajni. Ali lahko tukaj uporabimo istega?
+## Potrdilo smo že uporabili v drugi blagajni. Ali lahko tukaj uporabimo istega?
 
 Ja, potrdilo je vezano na podjetje - na vašo davčno številko. Vaše podjetje lahko v različnih blagajnah uporablja isto namensko digitalno potrdilo.
 
