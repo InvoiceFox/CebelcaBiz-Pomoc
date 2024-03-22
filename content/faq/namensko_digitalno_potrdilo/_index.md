@@ -72,6 +72,8 @@ Na računalniku z miško primete .p12 datoteko in jo spustite v okno desno na st
 
 V Čebelci MOBI kliknete 3 pike ter "Nastavitve programa". Potem greste na zavihek "program" in tam kliknete “Uvozi iz Čebelca BIZ”. Če ste geslo postavili v moder okvirček, vas bo vprašalo za geslo dig. potrdila. Vpišete geslo, ki ste ga poleg referenčne številke prejeli od e-davkov.
 
+# Posodobitev namenskega digitalnega potrdila
+
 ## Po 5 letih mi je namensko digitalno potrdilo poteklo. Kako ga posodobim?
 
 Če uporabljate davčno blagajno, ste morali pred pričetkom uporabe pridobiti namensko digitalno potrdilo. Za pridobitev ste lahko zaprosili vaše računovodstvo ali pa vlogo našli in oddali na vaših e-davkih.
