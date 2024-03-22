@@ -22,6 +22,10 @@ Na eDavkih je potrebno oddati obrazec DPR_PrevzemDP. V kratkem času prejmete od
 
 [Podrobnejša navodila FURS-a o pridobitvi namenskega digitalnega potrdila iz eDavkov](https://edavki.durs.si/EdavkiPortal/OpenPortal/CommonPages/Opdynp/PageD.aspx?category=zah_dig_potr_fod)
 
+## Koliko stane namensko digitalno potrdilo?
+
+Je brezplačno.
+
 ## Kaj storim, ko dobim referenčno številko in geslo od računovodje?
 
 Od računovodje lahko prejmete že samo .p12 datoteko. V tem primeru jo samo prenesite na svoj računalnik.
@@ -47,6 +51,14 @@ Potrdilo lahko prevzamete samo enkrat. Na računalnuiku lahko pobrskate v mapi "
 Če ga ne najdete, lahko zaprosite za novega.
 
 [Podrobnejša navodila FURS-a o prevzemu namenskega digitalnega potrdila](https://www.datoteke.fu.gov.si/eDavki/PrevzemNamenskegaDigitalnegaPotrdila.pdf)
+
+### Po nesreči smo zbrisali datoteko s potrdilom ali lahko dobimo novega?
+
+Ja, brez problema se lahko zaprosi za novega, tudi če staro še ni poteklo. Veljavno je sicer 5 let.
+
+### Potrdilo smo že uporabili v drugi blagajni. Ali lahko tukaj uporabimo istega?
+
+Ja, potrdilo je vezano na podjetje - na vašo davčno številko. Vaše podjetje lahko v različnih blagajnah uporablja isto namensko digitalno potrdilo.
 
 ## Kako uvozim potrdilo, če imam spletni program Čebelca BIZ
 
