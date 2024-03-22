@@ -26,7 +26,7 @@ V določenih primerih želite, da uporabnik dodatnega dostopa ne mora dostopati 
 * Le predračuni - uporabnik ima dostop le do predračunov (v kombinaciji s pravicami zgoraj).
 * Skrit modul skladišče - uporabnik nima dostopa do skladišča (v kombinaciji s pravicami zgoraj).
 * Skrit modul računi - uporabnik nima dostopa do modula računi (v kombinaciji s pravicami zgoraj).
-* 
+  
 Da dodanem dostopu dodelite te omejitve, nam javite in opišite kaj želite. Lahko so kombinacija zgoraj naštetega, če vidimo smisel, pa bomo omejitve še dodali.
 
 ### Skušam narediti dodatni dostop za svojo računovodjo, a mi program javlja, da je e-mail zaseden.
