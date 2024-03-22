@@ -72,7 +72,7 @@ Na računalniku z miško primete .p12 datoteko in jo spustite v okno desno na st
 
 V Čebelci MOBI kliknete 3 pike ter "Nastavitve programa". Potem greste na zavihek "program" in tam kliknete “Uvozi iz Čebelca BIZ”. Če ste geslo postavili v moder okvirček, vas bo vprašalo za geslo dig. potrdila. Vpišete geslo, ki ste ga poleg referenčne številke prejeli od e-davkov.
 
-# Po 5 letih mi je namensko digitalno potrdilo poteklo. Kako ga posodobim?
+## Po 5 letih mi je namensko digitalno potrdilo poteklo. Kako ga posodobim?
 
 Če uporabljate davčno blagajno, ste morali pred pričetkom uporabe pridobiti namensko digitalno potrdilo. Za pridobitev ste lahko zaprosili vaše računovodstvo ali pa vlogo našli in oddali na vaših e-davkih.
 
@@ -82,7 +82,7 @@ Govorimo o namenskem digitalnem potrdilu za davčno potrjevanje računov, kar ni
 
 Spodaj si lahko preberete, kako pridobite novo potrdilo in kako ga namestite, če imate spletni ali mobilni program.
 
-### Prevzem novega digitalnega potrdila
+### 1. Prevzem novega digitalnega potrdila
 
 Računovodki servis vam običajno pošlje PDF dokument s podatki in navodili za prevzem. PDF dokument odprete in v njem najdete referenčno številko, geslo za prevzem in namestitev potrdila ter povezavo do strani za prevzem.
 
@@ -98,7 +98,7 @@ Ime datoteke s potrdilom je enako vaši davčni številki, sledi pomišljaj, zap
 
 Torej prevzeli ste novo digitalno potrdilo. Postopek naprej je odvisen od tega ali uporabljate davčno blagajno na našem spletnem ali mobilnem programu.
 
-### Namestitev v primeru uporabe spletnega programa Čebelca BIZ 
+### 2.a Namestitev v primeru uporabe spletnega programa Čebelca BIZ 
 
 Če kot davčno blagajno uporabljate spletni program, se prijavite vanj in obiščete stran "Nastavitve" zgoraj desno. Na strani kliknete modro povezavo "Davčne blagajne".
 
@@ -106,7 +106,7 @@ Pri polju "Namensko digitalno potrdilo" kliknete "Odstrani digitalno potrdilo".
  
 Spet se pokažeta polji za vnos datoteke digitalnega potrdila in gesla. Pri prvem prebrskate za zgoraj omenjano datoteko iz vašega računalnika, v polje z geslom pa vpišete prav tako zgoraj omenjeno geslo za prevzem in namestitev.
 
-### Namestitev v primeru uporabe Čebelca MOBI
+### 2.b Namestitev v primeru uporabe Čebelca MOBI
 
 Če uporabljate Čebelco MOBI, potem se prav tako prijavite v spletni program na račualniku, na katerega ste iz omenjene povezave prenesli namensko digitalno potrdilo.
  
