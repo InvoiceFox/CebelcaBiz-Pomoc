@@ -57,7 +57,7 @@ Potem je potrebno v aplikaciji Čebelca MOBI, torej na vaši android napravi, po
 
 Nato greste v Čebelci MOBI na: tri pikice > "Nastavitve programa" > "PROGRAM" (najbolj desni zavihek). Tam kliknete: "UVOZI IZ ČEBELCA BIZ", da uvozi potrdilo, ki ste ga prej dali v moder okvirček.
 
-Več navodil najdete [tukaj](https://www.cebelca.biz/navodila/faq/namensko_digitalno_potrdilo/#uvoz-potrdila-v-mobilni-program-%C4%8Debelca-mobi)
+Več navodil najdete [tukaj](../../faq/namensko_digitalno_potrdilo/#uvoz-potrdila-v-mobilni-program-%C4%8Debelca-mobi)
 
 ### Ko želim klikniti "uvozi iz cebelica.biz" mi napiše napaka: odgovor strežnika ni certifikat?
 
