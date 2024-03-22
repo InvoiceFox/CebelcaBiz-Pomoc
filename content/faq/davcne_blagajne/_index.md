@@ -77,6 +77,11 @@ Najverjetneje vam je poteklo namensko digitalno potrdilo, če ga imate že 5 let
 
 Objavili smo blog, kjer je opisano, kako se namesti novo nam.dig.potrdilo v spletni ali mobilni program Čebelca : https://cebelca-biz.blogspot.com/2020/12/kako-nadgradite-svoje-namensko.html
 
+### Kako vem, če mi je poteklo namensko digitalno potrdilo?
+
+Namensko digitalno potrdilo je veljavno 5 let. V Čebelci MOBI se preveri tako, da greste na tri pikice (zg.desno ), potem na “Preizkus povezave s FURS” in nato na “preveri digitalno potrdilo”. Pri spletnem programu pa vam to lahko preverimo mi.
+
+
 
 
 
