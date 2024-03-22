@@ -71,6 +71,14 @@ Vzorce internega akta najdete v Fursovih pogostih vprašanjih in odgovorih in si
 
 [Številčenje ob prehodu leta](http://cebelca-biz.blogspot.com/2022/01/stevilcenje-ob-prehodu-v-leto-2022.html)
 
+### Program mi javlja: "Prišlo je do napake pri postopku davčnega potrjevanja. Javljena napaka je: Napaka pri pošiljanju podatkov na FURS strežnik. Račun ni bil izdan niti davčno potrjen." Do sedaj je delalo normalno.
+
+Najverjetneje vam je poteklo namensko digitalno potrdilo, če ga imate že 5 let.
+
+Objavili smo blog, kjer je opisano, kako se namesti novo nam.dig.potrdilo v spletni ali mobilni program Čebelca : https://cebelca-biz.blogspot.com/2020/12/kako-nadgradite-svoje-namensko.html
+
+
+
 
 
 
