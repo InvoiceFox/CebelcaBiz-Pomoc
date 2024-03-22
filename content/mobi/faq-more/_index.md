@@ -47,6 +47,8 @@ V redu bo (skoraj) katerikoli takšen tiskalnik, saj se Čebelca povezuje v glav
 
 ### Kako se v Čebelco MOBI namesti namensko digitalno potrdilo?
 
+Najprej na povezavi, ki ste jo prejeli, prevzemite certifikat, da ga boste imeli na svojem računalniku. Shranite ga nekam, kjer ga boste našli. Certifikat je datoteka s končnico .p12, v imenu datoteke pa je DŠ vašega podjetja.
+
 Če še niste registrirani preko naše spletne strani, se registrirajte: potrebno je vnesti le e-mail naslov in geslo.
 
 Namensko digitalno potrdilo, ki ste ga prejeli iz strani e-davki, je potrebno prenesti v moder okvirček, ki ga boste videli, ko boste šli prijavljeni na spletno stran [Čebelca MOBI](https://www.cebelca.biz/manage/mobi.html)
