@@ -99,7 +99,7 @@ Preverite prosim, da v oznaki blagajne ali prostora ni kakšnih znakov kot npr. 
 
 ### Ali Čebelca MOBI omogoča plačevanje s kartico?
 
-Kartično plačevanje je možno v povezavi s SumUp ali s POS terminalom od banke. Prosim preberite si [tukaj](https://cebelca-biz.blogspot.com/2019/12/cebelca-mobi-placilne-kartice-in-sumup.html)
+Ja, kartično plačevanje je možno v povezavi s SumUp ali s POS terminalom od banke. Prosim preberite si [tukaj](https://cebelca-biz.blogspot.com/2019/12/cebelca-mobi-placilne-kartice-in-sumup.html)
 
 ### Ali je možna povezava Čebelce MOBI s čitalcem črtnih kod?
 
