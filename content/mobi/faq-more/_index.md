@@ -15,7 +15,7 @@ Pri registraciji si določite e-mail in geslo, kot ga boste imeli za prijavo v �
 
 ### Želim uporabljati vašo mobilno blagajno. Kako naj začnem z uporabo?
 
-Registrirate se lahko torej na naši spletni strani: [Čebelca MOBI](https://www.cebelca.biz/mobi)
+Registrirate se lahko na naši spletni strani: [Čebelca MOBI](https://www.cebelca.biz/mobi)
 
 Samo aplikacijo Čebelca MOBI pa lahko naložite na svojo napravo preko Trgovina Play.
 
