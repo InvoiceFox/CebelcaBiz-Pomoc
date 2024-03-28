@@ -7,7 +7,7 @@ Modul Čebelca - Potni nalogi omogoča:
 * kreiranje potnih nalogov
 * določanje poti s pomočjo zemljevida
 * tisk / PDF potnih nalogov
-* možnost potnega naloga za več poti (dni)
+* možnost potnega naloga za več poti in dni
 * podpora za dnevnice v Sloveniji in Tujini
 
 ### Kako se uporablja modul Potni nalogi? Kako naredim potni nalog?
