@@ -45,6 +45,10 @@ V redu bo (skoraj) katerikoli takšen tiskalnik, saj se Čebelca povezuje v glav
 
 (Trenutno edini, ki ni podprt, je Optipos Light, tako da tega ne priporočamo, ker ne podpira QR kod na ustrezen način.)
 
+### Zanima me glede mobi verzije, če bi moj android sistem to podpiral? Imam telefon Samsung Galaxy A3 (2017), sistem Android 7.0.
+
+Ja, bi podpiral, res pa da, ker so novejši certifikati vedno bolj zahtevni, je potrjevanje na starejših telefonih postalo malo počasnejše. Če lahko, bolj priporočamo novejše Androide, a delamo na tem, da bo tudi na starejših malo hitreje delalo.
+
 ### Kako se v Čebelco MOBI namesti namensko digitalno potrdilo?
 
 Najprej na povezavi, ki ste jo prejeli, prevzemite certifikat, da ga boste imeli na svojem računalniku. Shranite ga nekam, kjer ga boste našli. Certifikat je datoteka s končnico .p12, v imenu datoteke pa je DŠ vašega podjetja.
