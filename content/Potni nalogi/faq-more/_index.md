@@ -22,6 +22,10 @@ Relacije, ki se ponavljajo lahko vnesete na zavihku Relacije. Potnemu nalogu dod
 
 Ja, to vam omogoča "Ročni vnos", kjer kliknete "omogoči vnos datumov". Potem lahko vnesete za cel mesec. To je mišljeno predvsem za ponavljajoče poti.
 
+### Kje lahko vidim, kako izgleda potni nalog izdan v Čebelci.
+
+[Tukaj](https://cebelca-biz.blogspot.com/2017/11/posodobitve-do-nov-2017.html) lahko vidite, kako izgleda.
+
 ### Ali se lahko izvozi podatke o izdanih potnih nalogih za cel mesec oz. leto?
 
 Ja, zg. desno v "Podatki" najdete izvoz potnih nalogov za obdobje po izbiri: Podatki > Potni nalogi - Oblikovano poročilo
