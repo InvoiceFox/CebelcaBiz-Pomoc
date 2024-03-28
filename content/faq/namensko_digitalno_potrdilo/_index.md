@@ -84,6 +84,10 @@ Na računalniku z miško primete .p12 datoteko in jo spustite v okno desno na st
 
 V Čebelci MOBI kliknete 3 pike ter "Nastavitve programa". Potem greste na zavihek "program" in tam kliknete “Uvozi iz Čebelca BIZ”. Če ste geslo postavili v moder okvirček, vas bo vprašalo za geslo dig. potrdila. Vpišete geslo, ki ste ga poleg referenčne številke prejeli od e-davkov.
 
+## Program javi: "Digitalno potrdilo ne vsebuje davčne številke".
+
+Sta dve opciji. Ali ste naložili splošno digitalno potrdilo (npr. Sigenca), morali pa bi namensko digitalno potrdilo, ki se ga dobi na e-davkih. Ali pa ste namensko digitalno potrdilo izvozili iz programa, ki ga ni izvozil v izvirni obliki, zato nima vseh podatkov, ki jih potrebuje za davčno blagajno. V tem primeru pridobite digitalno potrdilo v izvirni obliki ali pridobite novega na e-davkih. Poglejte ostala vprašanja kako ga pridobiti.
+
 # Posodobitev namenskega digitalnega potrdila
 
 ## Po 5 letih mi je namensko digitalno potrdilo poteklo. Kako ga posodobim?
