@@ -22,3 +22,7 @@ Relacije, ki se ponavljajo lahko vnesete na zavihku Relacije. Potnemu nalogu dod
 
 Ja, to vam omogoča "Ročni vnos", kjer kliknete "omogoči vnos datumov". Potem lahko vnesete za cel mesec. To je mišljeno predvsem za ponavljajoče poti.
 
+### Ali se lahko izvozi podatke o izdanih potnih nalogic za cel mesec ali leto?
+
+Ja, zg. desno v "Podatki" najdete izvoz potnih nalogov za obdobje po izbiri: Podatki > Potni nalogi - Oblikovano poročilo
+
