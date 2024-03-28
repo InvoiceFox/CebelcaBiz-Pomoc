@@ -10,9 +10,13 @@ Modul Čebelca - Potni nalogi omogoča:
 * možnost potnega naloga za več poti (dni)
 * podpora za dnevnice v Sloveniji in Tujini
 
-### Kako naredim potni nalog?
+### Kako se uporablja modul Potni nalogi? Kako naredim potni nalog?
 
 Uporabo modula Potni nalogi si lahko (če že niste) aktivirate zg.desno v "Naročnina". Potem boste imeli v zg. vrstici link oz. novo tipko "Potni nalogi". Ko boste kliknili nanjo in prišli v program za potne naloge, boste zgoraj desno videli sivo tipko "Dodaj potni nalog".
+
+Pot lahko vnesete preko točk (naslovov) na zemljevidu, kjer program samo pridobi razdaljo. Drugi način je ročni vnos. 
+
+Relacije, ki se ponavljajo lahko vnesete na zavihku Relacije. Potnemu nalogu dodate tudi podatke o stroških na poti in morebitnih dnevnicah, kjer program sam izračuna vrednosti iz osnovnih podatkov (država, pričete in konec, obroki).
 
 ### Potrebovali bi mesečni potni nalog. Ali je to možno?
 
