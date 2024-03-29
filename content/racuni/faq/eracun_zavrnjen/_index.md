@@ -1,8 +1,8 @@
-# Zavrnjeni e-Račun pri banki
+# Zavrnjen eRačun pri banki
 
 ## Preverite tipične stvari
 
-* BIC koda, če je proračunski uproabnik je UJP...
+* BIC koda, če je proračunski uporabnik je UJP...
 
 * IBAN kodo, če je proračunski uproabnik dobite na registru proračunskih uporabnikov, uporabite iskalnik in ko najdete porabnika na drnu strani poglejte podračun.
 
