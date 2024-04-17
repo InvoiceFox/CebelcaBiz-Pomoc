@@ -37,3 +37,11 @@ Na vnešeni naslov se pošlje HTTP POST zahtevek s podatki v obliki:
 ````
 [{ "result": "OK", "updated": 2 }]
 ````
+
+V "updated" zapišete koliko artiklom ste posodobili količino.
+
+````
+[{ "result": "Failed", "reason": "..." }]
+````
+
+Trenutno je za klic sinhronizacije namenjena tipka, kasneje bomo premislili, če lahko naredimo ta klic tudi brez pritiska na tipko. Tehnično imamo pripravljen tudi webhook, ki posodobi zalogo vsem artiklom.
