@@ -77,5 +77,5 @@ zalogo. V tem primeru bodite pozorni na naslednje stvari.
 
 To je potrebno zato, da Čebelca najde pravi artikel in ga odpiše.
 
-Skladiščni dokument (dobavnico) lahko ustvarite sami ročno s klikom na računu v Čebelca BIZ, potem pa uporabite tipko **V sklad. dok.**. Takšen dokument potem zmanjša zalogo v izbranem skladišču. 
+Skladiščni dokument (dobavnico) lahko ustvarite sami ročno s klikom na računu v Čebelca BIZ, potem pa uporabite tipko **V sklad. dok.** Takšen dokument potem zmanjša zalogo v izbranem skladišču. 
 Lahko pa tudi nastavite plugin tako, da se to zgodi avtomatsko ob spremembi statusa npr. na **Zaključeno**.
