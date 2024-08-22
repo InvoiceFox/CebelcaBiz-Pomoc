@@ -77,5 +77,4 @@ Mogoče ste registrirani le za spletni program, ne pa še za mobilnega. V tem pr
 
 V Čebelci MOBI kliknete zg. desno na tri pike > Nastavitve programa. Potem greste na zavihek PROGRAM in tam kliknete "Uvozi iz Čebelca BIZ". Če ste geslo postavili v moder okvirček, vas bo vprašalo za geslo dig. potrdila. Vpišete geslo, ki ste ga prejeli od e-davkov.
 
-* [Javi mi da geslo potrdila ni pravilno](./faq.md#Javi_mi_da_geslo_potrdila_ni_pravilno)
 
