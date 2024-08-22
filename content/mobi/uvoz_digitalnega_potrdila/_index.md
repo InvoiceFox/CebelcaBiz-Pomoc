@@ -69,7 +69,9 @@ Preko naše spletne strani se prijavite in pojdite na stran [Čebelca Mobi](http
 
 Na računalniku z miško primete .p12 datoteko in jo spustite v modro okno na desni na strani Mobi. Če vam to ne bo šlo, lahko v modro okno dvo-kliknete in odprlo se vam bo okno za izbiro datoteke iz vašega računalnika.
 
-* [Ne najdem sekcije Mobi v spletnem programu](./faq.md#Ne_najdem_sekcije_Mobi_v_spletnem_programu)
+#### Ne najdem sekcije Mobi v spletnem programu
+
+Mogoče ste registrirani le za spletni program, ne pa še za mobilnega. V tem primeru greste, ko ste prijavljeni preko naše spletne strani zg.desno na "Naročnina" in si aktivirate modul Čebelca MOBI (MINI ali PLUS).
 
 ### Uvozite potrdilo v mobilni program
 
