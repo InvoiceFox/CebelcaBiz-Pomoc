@@ -59,12 +59,15 @@ in geslo iz spletne strani Čebelca BIZ ter kliknete *Poveži dostop*.
 
 Dostop je potrebno povezati le enkrat. Ta povezava pa služi tudi drugim namenom, npr. izvozu / uvozu podatkov.
 
-* [Dostopa še nimam, kako ga ustvarim?](./faq.md#Dostopa_še_nimam,_kako_ga_ustvarim)
+#### Dostopa še nimam, kako ga ustvarim?
 
-### Naložite potrdilo v okno na spletni strani Mobi
+Pojdite na prijavno stran Čebelce MOBI. Oglejte si primerjavo med paketoma MINI in PLUS. V obrazec spodaj vpišite svoj e-mail naslov in 2x željeno geslo. Na e-mail naslov boste dobili sporočilo, kjer kliknete povezavo. S tem je vaš dostop odprt. Prijavite se lahko zgoraj desno na: Prijava za uporabnike.
 
-Na računalniku z miško primete .p12 datoteko in jo spustite v okno desno na strani Mobi. Če vam to ne gre lahko v modro okno dvo-kliknete in odprlo se
-vam bo okno za izbiro datoteke iz vašega računalnika.
+### Naložite potrdilo v okno na spletni strani Čebelca MOBI
+
+Preko naše spletne strani se prijavite in pojdite na stran [Čebelca Mobi](https://www.cebelca.biz/manage/mobi.html).
+
+Na računalniku z miško primete .p12 datoteko in jo spustite v modro okno na desni na strani Mobi. Če vam to ne bo šlo, lahko v modro okno dvo-kliknete in odprlo se vam bo okno za izbiro datoteke iz vašega računalnika.
 
 * [Ne najdem sekcije Mobi v spletnem programu](./faq.md#Ne_najdem_sekcije_Mobi_v_spletnem_programu)
 
