@@ -46,15 +46,8 @@ Na enak način urejate seznam prodajalcev in vse sezname, npr. tudi artikle, par
 
 ### Ne pozabite napisati internega akta
 
-Tega ne storite v programu. Interni akt je namreč običajen tekstovni dokument, ki ga pripravite npr. v Wordu. V njem naštejete lokacije in blagajne. Interni akt morate imeti že narejen, ko vas obišče inšpektor, drugače lahko sledi kazen:
+Tega ne storite v programu. Interni akt je namreč običajen tekstovni dokument, ki ga pripravite npr. v Wordu. V njem naštejete lokacije in blagajne. Interni akt morate imeti že narejen, ko vas obišče inšpektor, drugače lahko sledi kazen.
 
-Vzorce internih aktov najdete na strani FURS, pozorni bodite, da se pri naših programih številčenje skozi leta nadaljuje:
+Vzorce internih aktov najdete na strani FURS pod Pogosta vprašanja in odgovori o davčnem potrjevanju računov in sicer v odgovoru 215. Najdete ga tudi [na tem linku](https://www.racunovodja.com/clanki.asp?clanek=8962#_Toc433366090).
 
-    Vzorec internega akta - primer 1: En poslovni prostor, ena elektronska naprava za izdajo računov
-
-    Vzorec internega akta - primer 2: Več poslovnih prostorov, več elektronskih naprav za izdajo računov, zaporedne številke računov si sl\ edijo v zaporedju po posamezni elektronski napravi za izdajo računov v poslovnem prostoru
-
-    Vzorec internega akta - primer 3: Več poslovnih prostorov, več elektronskih naprav za izdajo računov, zaporedne številke računov si sl\ edijo v zaporedju po vsakem poslovnem prostoru
-
-    Vzorec internega akta - primer 4: Več poslovnih prostorov, zaporedne številke računov si sledijo v zaporedju po centralni elektronski \ napravi (strežniku) v poslovnem prostoru zavezanca
-
+Pozorni bodite na to, kaj bo pisalo v internem aktu o številčenju ob prehodu leta. Naši programi namreč nadaljujejo zaporedno številko skozi leta, zato imejte v aktu tako tudi napisano.
