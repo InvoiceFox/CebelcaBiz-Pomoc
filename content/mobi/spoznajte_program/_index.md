@@ -1,7 +1,8 @@
 
 ## Upravljanje
 
-Do vmesnika za upravljanje blagajne pridete s klikom na opcijsko zipko oz "menu" kjer kliknete Upravljanje. Vmesnik za uporavljanje vam nudi več zavihkov.
+Do vmesnika za upravljanje blagajne pridete s klikom na tipko "Upravljanje" na prvi strani Čebelce MOBI. Vmesnik za upravljanje vam nudi več zavihkov.
+
 Računi
 
 Tu vidite račune za aktualni dan. Datum lahko spremenite preko ukaza v menuju. Prav tako vidite neizdane račune, ki jih lahko nadaljujete.
