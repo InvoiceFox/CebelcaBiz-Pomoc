@@ -38,8 +38,17 @@ V PDF dokumentu torej prejmete referenčno številko, geslo in povezavo do stran
 
 Če se na zgoraj omenjeno povezavo, ki vam jo je poslal/a računovodja, ni dalo klikniti, pa v Google vpišite "taxca prevzem" in boste prišli do te iste strani.
 
-* [Brskalnik mi javi, da povezava ni varna](./faq.md#)
-* [Stran mi javi mi, da je potrdilo že prevzeto](./faq.md#)
+#### Brskalnik mi javi, da povezava ni varna
+
+Ko kliknete na povezavo na zgoraj omenjeni strani za prevzem potrdila, je velika verjetnost, da vas bo brskalnik opozoril, da stran ni varna. To javlja večina strani slovenske države, saj uporabljajo nacionalne certifikate, katerim brskalniki brez dodatnih nastavitev ne zaupajo.
+
+V brskalniku (odvisno od brskalnika) kliknete "dodatno", "več možnosti" ali "advanced" in potem na "nadaljuj na stran".
+
+#### Stran mi javi mi, da je potrdilo že prevzeto
+
+Potrdilo lahko prevzamete samo enkrat. Na računalnuiku lahko pobrskate v mapi "Prenosi" oz. "Downloads" ali vprašate računovodstvo, če so ga mogoče že oni prevzeli. Ko ga iščete, lahko vtipkate vašo davčno številko, ker je le-ta v imenu datoteke.
+
+Če ga ne najdete, lahko zaprosite za novega.
 
 ## Uvoz preko spletne strani Čebelca.biz
 
