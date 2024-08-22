@@ -29,13 +29,14 @@ Postopek za pridobitev in prevzem nameenskega digitalnega potrdila si lahko pogl
 
 ### Kaj storim, ko dobim referenčno številko in geslo od računovodje?
 
-Od računovoja lahko prejmete že samo p12 daoteko. V tem primeru jo samo prenesite na svoj računalnik.
+Od računovodje lahko prejmete že .p12 daoteko. V tem primeru jo samo prenesete na svoj računalnik.
 
-Če tega ne prejmete pa dobite PDF dokument s podatki za prevzem digitalnega potrdila. Prevzem nujno opravite na **klasičnem računalniku**, ne 
+Lahko pa dobite PDF dokument s podatki za prevzem digitalnega potrdila. Prevzem nujno opravite na **klasičnem računalniku**, ne 
 na Android tablici ali telefonu, saj potem do prenešene datoteke ne boste mogli.
 
-V PDF dokumentu prejmete referenčno št., geslo in povezavo do strani za prevzem.Kliknite povezavo in vpišite ostala
-dva podatka. S tem sprožite prenos .p12 datoteke na računalnik. Če se povezave ne da klikniti v google vpišite "taxca prevzem".
+V PDF dokumentu torej prejmete referenčno št., geslo in povezavo do strani za prevzem. Kliknite povezavo in vpišite oba podatka. S tem sprožite prenos .p12 datoteke na računalnik. 
+
+Če se na omenjeno povezavo ni dalo klikniti, pa v Google vpišite "taxca prevzem" in boste prišli do te iste strani.
 
 * [Brskalnik mi javi, da povezava ni varna](./faq.md#)
 * [Stran mi javi mi, da je potrdilo že prevzeto](./faq.md#)
