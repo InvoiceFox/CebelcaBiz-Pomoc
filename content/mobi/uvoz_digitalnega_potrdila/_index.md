@@ -36,7 +36,7 @@ na Android tablici ali telefonu, saj potem do prenešene datoteke ne boste mogli
 
 V PDF dokumentu torej prejmete referenčno številko, geslo in povezavo do strani za prevzem. Kliknite povezavo in vpišite oba podatka. S tem sprožite prenos .p12 datoteke na računalnik. 
 
-Če se na omenjeno povezavo ni dalo klikniti, pa v Google vpišite "taxca prevzem" in boste prišli do te iste strani.
+Če se na zgoraj omenjeno povezavo, ki vam jo je poslal/a računovodja, ni dalo klikniti, pa v Google vpišite "taxca prevzem" in boste prišli do te iste strani.
 
 * [Brskalnik mi javi, da povezava ni varna](./faq.md#)
 * [Stran mi javi mi, da je potrdilo že prevzeto](./faq.md#)
