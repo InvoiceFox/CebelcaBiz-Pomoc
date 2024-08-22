@@ -36,17 +36,17 @@ Program namestite tako da kliknete na prej omenjeno tipko. Ker gre za aplikacijo
 
 Ob prvem zagonu vas pozdravi vstopno okno, na katerem vidite primer naziva podjetja, poslovnega prostora in blagajne ter izbiro prodajalca.
 
-Tipka "Uredi" vas popelje v urejanje podatkov podjetja, nastavljanje poslovnih prostorov in prodajalcev. Pri podatkih podjetja spremenite podatke na svoje in pritisnete "Shrani nastavitve" na dnu.
+V program vnesete podatke vašega podjetja (oz. organizacije) tako, da greste na tri pikice zg.desno in potem na "Nastavitve programa". Pri podatkih podjetja spremenite podatke na svoje in pritisnete "Shrani nastavitve" na dnu. 
 
 ### Poslovni prostori in prodajalci
 
-Pri prostorih lahko spremenite ali izbrišete vzorčni prostor in dodate nove. Ko je prostor dodan, v obracu spodaj pritisnete tipko "Potrdi na FURS". Da pričnete urejati obstoječ vnos, kliknete nanj na seznamu. Izbrišete ga z dolgim pritiskom na vrstico v seznamu. Podvojite pa ga tako, da ga odprete, potem pa naredite dolgi pritisk na tipko "Shrani". Shrani vam obstoječ zapis ter pusti obrazec odprt in izpolnjen za dodajanje novega.
+Prav tako v nastavitvah programa uredite tudi podatke o poslovnih prostorih in prodajalcih. Pri prostorih lahko spremenite ali izbrišete vzorčni prostor in dodate nove. Ko je prostor dodan, v obracu spodaj pritisnete tipko "Potrdi na FURS". Da pričnete urejati obstoječ vnos, kliknete nanj na seznamu. Izbrišete ga z dolgim pritiskom na vrstico v seznamu. Podvojite pa ga tako, da ga odprete, potem pa naredite dolgi pritisk na tipko "Shrani". Shrani vam obstoječ zapis ter pusti obrazec odprt in izpolnjen za dodajanje novega.
 
-Na enak način urejate seznam prodajalcev in vse sezname. Npr. tudi artikle, partnerje, mize. Več o tem kasneje.
+Na enak način urejate seznam prodajalcev in vse sezname, npr. tudi artikle, partnerje, mize. Več o tem kasneje.
 
-Ne pozabite napisati internega akta
+### Ne pozabite napisati internega akta
 
-Tega ne storite v programu, a ne pozabite pripraviti internega akta, kjer naštejete lokacije in blagajne. Interni akt je običajen tekstovni dokument, ki ga pripravite npr. v Wordu. Interni akt morate imeti že narejen, ko vas obišče inšpektor, drugače lahko sledi kazen:
+Tega ne storite v programu. Interni akt je namreč običajen tekstovni dokument, ki ga pripravite npr. v Wordu. V njem naštejete lokacije in blagajne. Interni akt morate imeti že narejen, ko vas obišče inšpektor, drugače lahko sledi kazen:
 
 Vzorce internih aktov najdete na strani FURS, pozorni bodite, da se pri naših programih številčenje skozi leta nadaljuje:
 
