@@ -1,5 +1,6 @@
 ## Prvi poskusni račun
 
+Na prvi strani kliknete #Davčna blagajna#.
 ### Dodajte izdelke
 
 S pritiskom na izdelke jih dodate na račun. En kos je en pritisk. Če želite dodati decimalno količino (npr 1.5 kg) ali večjo količino uporabite dolgi pritisk. Ta vam odpre okence za številski vnos količine ter prav tako popusta.
