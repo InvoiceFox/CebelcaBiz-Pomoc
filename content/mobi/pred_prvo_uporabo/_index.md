@@ -4,7 +4,7 @@
 
 ### Ustvarite dostop na www.cebelca.biz
 
-Pojdite na prijavno stran Čebelce MOBI. Oglejte si primerjavo med paketoma. V obrazec spodaj vpišite svoj email naslov in 2x željeno geslo. Na email naslov boste dobili sporočilo, kjer kliknete povezavo. S tem je vaš dostop odprt. Prijavite se lahko zgoraj desno na Prijava za uporabnike.
+Pojdite na prijavno stran Čebelce MOBI. Oglejte si primerjavo med paketoma. V obrazec spodaj vpišite svoj email naslov in 2x željeno geslo. Na email naslov boste dobili sporočilo, kjer kliknete povezavo. S tem je vaš dostop odprt. Prijavite se lahko zgoraj desno na: Prijava za uporabnike.
 Če že uporabljate Čebelca BIZ
 
 Če že imate dostop na Čebelci vam bo program javil, da je email že zaseden. V tem primeru se prijavite v Čebelco in zgoraj desno kliknite Naročnina. Na tej strani si lahko aktivirate še željeni MOBI paket. Na strani vidite tudi preračun cen glede na izbrano. Po aktivaciji boste zgoraj levo v svojem programu videli novo povezavo Mobi. Kliknete jo in pripelje vas na osnovno stran Mobi paketa.
