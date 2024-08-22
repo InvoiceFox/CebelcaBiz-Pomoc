@@ -1,4 +1,4 @@
-# Čebelca MOBI :: Uvoz digitalnega potrdila
+# Čebelca MOBI: Uvoz digitalnega potrdila
 
 ## Namensko digitalno potrdilo
 
@@ -9,18 +9,16 @@ za celo podjetje, tudi v primeru več prostorov ali blagajn, lahko pa jih imate 
 
 ### Kaj sploh je digitalno potrdilo?
 
-Digitalno potrdilo je **datoteka s .p12 končnico**. Če datoteko kliknete in imate nameščem primeren program vas bo vprašalo za geslo, saj je 
-datoteka v osnovi zaklenjena.
+Digitalno potrdilo je **datoteka s .p12 končnico**. Če datoteko kliknete in imate nameščem primeren program, vas bo vprašalo za geslo, saj je datoteka v osnovi zaklenjena.
 
 ### Že imamo sigenco, ali je to to?
 
-Sigenca je vaše splošno digitalno potrdilo. Pri davčnih blagajnah pa potrebujete specifično, namensko digitalno potrdilo, ki je namenjeno le 
-potrjevanju računov (in prostorov) na FURS.
+Sigenca je vaše splošno digitalno potrdilo. Pri davčnih blagajnah pa potrebujete specifično, namensko digitalno potrdilo, ki je namenjeno le potrjevanju računov (in prostorov) na FURS.
 
-### Kje dobim namensko digitalno potrdilo
+### Kje dobim namensko digitalno potrdilo?
 
-Digitalno potrdilo dobite brezplačno in v 15 minutah na strani eDavki. Če sami nimate dostopa do edavkov, ima dostop in vaše pooblastilo 
-vaš(a) računovodja, saj preko eDavkov oddaja poročila za vaše podjetje.
+Digitalno potrdilo dobite brezplačno, v 15 minutah, na strani e-davki. Če sami nimate dostopa do edavkov, ima dostop in vaše pooblastilo 
+vaš(a) računovodja, saj preko e-davkov oddaja poročila za vaše podjetje.
 
 Na e-davkih je potrebno oddati obrazec DPR_PrevzemDP. V kratkem času prejmete odgovor s povezavo, referenčno številko in geslom za prevzem.
 
