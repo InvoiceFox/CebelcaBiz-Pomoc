@@ -6,7 +6,7 @@
 
 Pojdite na prijavno stran Čebelce MOBI. Oglejte si primerjavo med paketoma. V obrazec spodaj vpišite svoj email naslov in 2x željeno geslo. Na email naslov boste dobili sporočilo, kjer kliknete povezavo. S tem je vaš dostop odprt. Prijavite se lahko zgoraj desno na: Prijava za uporabnike.
 
-#### Če že uporabljate Čebelca BIZ ####
+#### Če že uporabljate Čebelca BIZ 
 
 Če že imate dostop na Čebelci, vam bo program javil, da je e-mail že zaseden. V tem primeru se prijavite v Čebelco in zgoraj desno kliknite "Naročnina". Na tej strani si lahko aktivirate še željeni MOBI paket. Na strani vidite tudi preračun cen glede na izbrano. Po aktivaciji boste zgoraj levo v svojem programu videli novo povezavo Mobi. Kliknete jo in pripelje vas na osnovno stran Mobi paketa.
 
@@ -14,17 +14,17 @@ Pojdite na prijavno stran Čebelce MOBI. Oglejte si primerjavo med paketoma. V o
 
 Prejšnje korake lahko opravite na telefonu, tablici ali klasičnem računalniku. Za namestitev, pa je najbolje da se v Čebelco prijavite kar s telefonom ali tablico, na katerega želite namestiti program. Ko boste prijavljeni, boste na osnovni strani MOBI paketa videli dve tipki. Prva omogoča prenos testne verzije programa, druga pa prave verzije.
 
-## Testni način delovanja ##
+## Testni način delovanja 
 
-### Čemu je namenjen testni način
+### Čemu je namenjen testni način?
 
-Prava verzija sedaj vključuje testni način delovanja. Testni način vam omogoča, da se seznanite z uporabo, preizkusite tiskalnik ob pravih artiklih in podatkih o podjetju. Oz. tudi kasneje koga naučite uporabe programa ali rešite tehnično težavo (npr. nov tiskalnik) še preden ste pred stranko in morate izdati pravi račun.
+Prava verzija sedaj vključuje testni način delovanja. Testni način vam omogoča, da se seznanite z uporabo, preizkusite tiskalnik ob pravih artiklih in podatkih o podjetju oz. tudi kasneje koga naučite uporabe programa ali rešite tehnično težavo (npr. nov tiskalnik) še preden ste pred stranko in morate izdati pravi račun.
 
 ## Kako aktiviram in deaktiviram testni način
 
-### Kako deluje testni način
+### Kako deluje testni način?
 
-Vsi podatki ostanejo kot so. Le računi se označijo kot testni, se ne upoštevajo med pravimi računi in nanje se 2x na veliko izpiše da račun ni pravi. Poleg tega se računi v tesnem načinu s testnim potrdilom pošljejo na tesni FURS-ov strežnik. Prav tako poslovni porstori. Ko preklopite iz testnega načina testnih računov ne bo, poslovne prostore pa je treba potrditi potem v netestnem načinu, pred pravo uporabo.
+Vsi podatki ostanejo kot so. Le računi se označijo kot testni, se ne upoštevajo med pravimi računi in nanje se 2x na veliko izpiše, da račun ni pravi. Poleg tega se računi v tesnem načinu s testnim potrdilom pošljejo na testni FURS-ov strežnik in prav tako poslovni prostori. Ko preklopite iz testnega načina, testnih računov ne bo, poslovne prostore pa je treba potrditi potem v netestnem načinu, pred pravo uporabo.
 
 Program namestite tako da kliknete na prej omenjeno tipko. Ker gre za aplikacijo vas bo android opozoril, da je datoteka lahko nevarna. Po prenosu se vam ponudi v namestitev. Možno je da morate izrecno dovoliti namestitev iz tretjih virov.
 
