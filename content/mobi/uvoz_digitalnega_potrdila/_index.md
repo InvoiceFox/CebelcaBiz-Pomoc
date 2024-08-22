@@ -61,7 +61,7 @@ Dostop je potrebno povezati le enkrat. Ta povezava pa služi tudi drugim namenom
 
 #### Dostopa še nimam, kako ga ustvarim?
 
-Pojdite na prijavno stran Čebelce MOBI. Oglejte si primerjavo med paketoma MINI in PLUS. V obrazec spodaj vpišite svoj e-mail naslov in 2x željeno geslo. Na e-mail naslov boste dobili sporočilo, kjer kliknete povezavo. S tem je vaš dostop odprt. Prijavite se lahko zgoraj desno na: Prijava za uporabnike.
+Pojdite na [registracijsko stran Čebelce MOBI](https://www.cebelca.biz/sign-up-si.html?mobi). Oglejte si primerjavo med paketoma MINI in PLUS. V obrazec spodaj vpišite svoj e-mail naslov in 2x željeno geslo. Na e-mail naslov boste dobili sporočilo, kjer kliknete povezavo. S tem je vaš dostop odprt. Prijavite se lahko zgoraj desno na: Prijava za uporabnike.
 
 ### Naložite potrdilo v okno na spletni strani Čebelca MOBI
 
