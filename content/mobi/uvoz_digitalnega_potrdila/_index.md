@@ -71,12 +71,11 @@ Na računalniku z miško primete .p12 datoteko in jo spustite v modro okno na de
 
 #### Ne najdem sekcije Mobi v spletnem programu
 
-Mogoče ste registrirani le za spletni program, ne pa še za mobilnega. V tem primeru greste, ko ste prijavljeni preko naše spletne strani zg.desno na "Naročnina" in si aktivirate modul Čebelca MOBI (MINI ali PLUS).
+Mogoče ste registrirani le za spletni program, ne pa še za mobilnega. V tem primeru greste, ko ste prijavljeni preko naše spletne strani, zg.desno na "Naročnina" in si aktivirate modul Čebelca MOBI (MINI ali PLUS).
 
 ### Uvozite potrdilo v mobilni program
 
-V Mobilnem programu kliknete 3 pike ter Nastavitve programa. Potem greste na zavihek program in tam kliknete "Uvozi iz Čebelca BIZ". Če ste geslo
-postavili v moder okvirček, vas bo vprašalo za geslo dig. potrdila. Vpišete geslo, ki ste ga poleg referenčne številke prejeli od e-davkov.
+V Čebelci MOBI kliknete zg. desno na tri pike > Nastavitve programa. Potem greste na zavihek PROGRAM in tam kliknete "Uvozi iz Čebelca BIZ". Če ste geslo postavili v moder okvirček, vas bo vprašalo za geslo dig. potrdila. Vpišete geslo, ki ste ga prejeli od e-davkov.
 
 * [Javi mi da geslo potrdila ni pravilno](./faq.md#Javi_mi_da_geslo_potrdila_ni_pravilno)
 
