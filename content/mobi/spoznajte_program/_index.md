@@ -1,21 +1,23 @@
 
-## Upravljanje
+# Upravljanje
 
 Do vmesnika za upravljanje blagajne pridete s klikom na tipko "Upravljanje" na prvi strani Čebelce MOBI. Vmesnik za upravljanje vam nudi več zavihkov.
 
-Računi
+## Računi
 
-Tu vidite račune za aktualni dan. Datum lahko spremenite preko ukaza v menuju. Prav tako vidite neizdane račune, ki jih lahko nadaljujete.
-Artikli, Načini plačila, Stranke, Mize
+Tu vidite račune za aktualni dan. Datum lahko spremenite preko ukaza v menuju. Prav tako vidite neizdane račune, ki jih lahko dokončate.
 
-Na naštetih zavihkih urejate podatke. Te lahko dodate, spremenite ali izbrišete. Pritisk odpre podatek za urejanje. Dolgi pritisk ponudi izbris podatka. Dolgi pritisk na tipko Shrani pa vam omogoča hitrejši vnos podobnih podatkov preko podvojitev.
+## Artikli, Načini plačila, Stranke, Mize
 
-Če imate nekoliko večje število artiklov jih lahko uvozite preko CSV datoteke. Navodila za to najdete tukaj.
-Nastavitve
+Na naštetih zavihkih urejate podatke. Te lahko dodate, spremenite ali izbrišete. Pritisk odpre podatek za urejanje. Dolgi pritisk ponudi izbris podatka. Dolgi pritisk na tipko "Shrani" pa vam omogoča hitrejši vnos podobnih podatkov preko podvojitev.
 
-Pri nastavitvah si lahko nastavite besedilo v nogi računov. Prikaz kategorij ploščato ali gnezdeno (gnezdeno je primerno pri večjem številu artiklov) ter ali želite račune voditi po Mizah, kar je seveda primerno predvsem za lokale ali restavracije.
+Če imate nekoliko večje število artiklov, jih lahko uvozite preko CSV datoteke. Navodila za to najdete [tukaj](https://www.cebelca.biz/pomoc-davcne-blagajne-mobi-backup.html).
 
-## Poročila / izvozi podatkov
+## Možnosti
+
+V možnostih si lahko nastavite: besedilo v nogi računov, prikaz kategorij ploščato ali gnezdeno (gnezdeno je primerno pri večjem številu artiklov) ter ali želite račune voditi po Mizah, kar je seveda primerno predvsem za lokale ali restavracije.
+
+## Poročila (izvozi podatkov) *** Janko preveriti celotno spodnje navodilo glede poročil ***
 
 ### Mesečno poročilo
 
