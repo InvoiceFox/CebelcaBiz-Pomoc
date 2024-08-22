@@ -34,7 +34,7 @@ Od računovodje lahko prejmete že .p12 daoteko. V tem primeru jo samo prenesete
 Lahko pa dobite PDF dokument s podatki za prevzem digitalnega potrdila. Prevzem nujno opravite na **klasičnem računalniku**, ne 
 na Android tablici ali telefonu, saj potem do prenešene datoteke ne boste mogli.
 
-V PDF dokumentu torej prejmete referenčno št., geslo in povezavo do strani za prevzem. Kliknite povezavo in vpišite oba podatka. S tem sprožite prenos .p12 datoteke na računalnik. 
+V PDF dokumentu torej prejmete referenčno številko, geslo in povezavo do strani za prevzem. Kliknite povezavo in vpišite oba podatka. S tem sprožite prenos .p12 datoteke na računalnik. 
 
 Če se na omenjeno povezavo ni dalo klikniti, pa v Google vpišite "taxca prevzem" in boste prišli do te iste strani.
 
