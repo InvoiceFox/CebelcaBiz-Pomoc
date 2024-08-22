@@ -34,14 +34,16 @@ Program namestite tako da kliknete na prej omenjeno tipko. Ker gre za aplikacijo
 
 ### Podatki podjetja
 
-Ob prvem zagonu vas pozdravi vstopno okno. Na njem vidite naziv podjetja, poslovnega prostora in blagajne ter izbiro prodajalca.
+Ob prvem zagonu vas pozdravi vstopno okno, na katerem vidite primer naziva podjetja, poslovnega prostora in blagajne ter izbiro prodajalca.
 
-Tipka Uredi vas popelje v urejanje podatkov podjetja, nastavljanje poslovnih prostorov in prodajalcev. Pri podatkih podjetja spremenite podatke na svoje in pritisnete Shrani nastavitve na dnu.
-Poslovni prostori in prodajalci
+Tipka "Uredi" vas popelje v urejanje podatkov podjetja, nastavljanje poslovnih prostorov in prodajalcev. Pri podatkih podjetja spremenite podatke na svoje in pritisnete "Shrani nastavitve" na dnu.
 
-Pri prostorih lahko spremenite ali izbrišete vzorčni prostor in dodate nove. Ko je prostor dodan v obracu spodaj pritisnete tipko Potrdi na FURS. Da pričnete urejati obstoječ vnos kliknete nanj na seznamu. Izbrišete ga z dolgim pritiskom na vrstico v seznamu. Podvojite pa ga tako, da ga odprete v obrazcu, potem pa naredite dolgi pritisk na tipko shrani. Shrani vam obstoječ zapis ter pusti obrazec odprt in izpolnjen za dodajanje novega.
+### Poslovni prostori in prodajalci
+
+Pri prostorih lahko spremenite ali izbrišete vzorčni prostor in dodate nove. Ko je prostor dodan, v obracu spodaj pritisnete tipko "Potrdi na FURS". Da pričnete urejati obstoječ vnos, kliknete nanj na seznamu. Izbrišete ga z dolgim pritiskom na vrstico v seznamu. Podvojite pa ga tako, da ga odprete, potem pa naredite dolgi pritisk na tipko "Shrani". Shrani vam obstoječ zapis ter pusti obrazec odprt in izpolnjen za dodajanje novega.
 
 Na enak način urejate seznam prodajalcev in vse sezname. Npr. tudi artikle, partnerje, mize. Več o tem kasneje.
+
 Ne pozabite napisati internega akta
 
 Tega ne storite v programu, a ne pozabite pripraviti internega akta, kjer naštejete lokacije in blagajne. Interni akt je običajen tekstovni dokument, ki ga pripravite npr. v Wordu. Interni akt morate imeti že narejen, ko vas obišče inšpektor, drugače lahko sledi kazen:
