@@ -8,12 +8,13 @@ Pojdite na prijavno stran Čebelce MOBI. Oglejte si primerjavo med paketoma. V o
 
 #### Če že uporabljate Čebelca BIZ ####
 
-Če že imate dostop na Čebelci vam bo program javil, da je email že zaseden. V tem primeru se prijavite v Čebelco in zgoraj desno kliknite Naročnina. Na tej strani si lahko aktivirate še željeni MOBI paket. Na strani vidite tudi preračun cen glede na izbrano. Po aktivaciji boste zgoraj levo v svojem programu videli novo povezavo Mobi. Kliknete jo in pripelje vas na osnovno stran Mobi paketa.
+Če že imate dostop na Čebelci, vam bo program javil, da je e-mail že zaseden. V tem primeru se prijavite v Čebelco in zgoraj desno kliknite "Naročnina". Na tej strani si lahko aktivirate še željeni MOBI paket. Na strani vidite tudi preračun cen glede na izbrano. Po aktivaciji boste zgoraj levo v svojem programu videli novo povezavo Mobi. Kliknete jo in pripelje vas na osnovno stran Mobi paketa.
 
 ### Namestite program na telefon ali tablico
 
 Prejšnje korake lahko opravite na telefonu, tablici ali klasičnem računalniku. Za namestitev, pa je najbolje da se v Čebelco prijavite kar s telefonom ali tablico, na katerega želite namestiti program. Ko boste prijavljeni, boste na osnovni strani MOBI paketa videli dve tipki. Prva omogoča prenos testne verzije programa, druga pa prave verzije.
-Testni način delovanja
+
+## Testni način delovanja ##
 
 ### Čemu je namenjen testni način
 
