@@ -12,19 +12,21 @@ Pojdite na prijavno stran Čebelce MOBI. Oglejte si primerjavo med paketoma. V o
 
 ### Namestite program na telefon ali tablico
 
-Prejšnje korake lahko opravite na telefonu, tablici ali klasičnem računalniku. Za namestitev, pa je najbolje da se v Čebelco prijavite kar s telefonom ali tablico, na katerega želite namestiti program. Ko boste prijavljeni, boste na osnovni strani MOBI paketa videli dve tipki. Prva omogoča prenos testne verzije programa, druga pa prave verzije.
+Na Trgovina Play poiščete "Čebelca MOBI" in aplikacijo namestite na svojo Android napravo.
 
 ## Testni način delovanja 
 
 ### Čemu je namenjen testni način?
 
-Prava verzija sedaj vključuje testni način delovanja. Testni način vam omogoča, da se seznanite z uporabo, preizkusite tiskalnik ob pravih artiklih in podatkih o podjetju oz. tudi kasneje koga naučite uporabe programa ali rešite tehnično težavo (npr. nov tiskalnik) še preden ste pred stranko in morate izdati pravi račun.
+Testni način vam omogoča, da se seznanite z uporabo, preizkusite tiskalnik ob pravih artiklih in podatkih o podjetju oz. tudi kasneje koga naučite uporabe programa ali rešite tehnično težavo (npr. nov tiskalnik) še preden ste pred stranko in morate izdati pravi račun.
 
-## Kako aktiviram in deaktiviram testni način
+### Kako aktiviram in deaktiviram testni način?
+
+Ko si namestite Čebelco MOBI, ste najprej v testnem načinu in lahko preizkusite izdajanje računov. Testni način izklopite in pravega vklopite tako, da greste na: tri pikice > "Nastavitve programa" > desni zavihek "PROGRAM" ... Po tem se bodo računi ob izdaji davčno potrjevali t.j. pošiljali na FURS, seveda če bodo izpolnjeni vsi pogoji za davčne blagajne (namensko dig.potrdilo, potrjen prostor, internetna povezava).
 
 ### Kako deluje testni način?
 
-Vsi podatki ostanejo kot so. Le računi se označijo kot testni, se ne upoštevajo med pravimi računi in nanje se 2x na veliko izpiše, da račun ni pravi. Poleg tega se računi v tesnem načinu s testnim potrdilom pošljejo na testni FURS-ov strežnik in prav tako poslovni prostori. Ko preklopite iz testnega načina, testnih računov ne bo, poslovne prostore pa je treba potrditi potem v netestnem načinu, pred pravo uporabo.
+Vsi podatki ostanejo kot so. Le računi se označijo kot testni, se ne upoštevajo med pravimi računi in nanje se 2x na veliko izpiše, da račun ni pravi. Poleg tega se računi v testnem načinu s testnim potrdilom pošljejo na testni FURS-ov strežnik in prav tako poslovni prostori. Ko preklopite iz testnega načina, testnih računov ne bo, poslovne prostore pa je treba potrditi potem v netestnem načinu, pred pravo uporabo.
 
 Program namestite tako da kliknete na prej omenjeno tipko. Ker gre za aplikacijo vas bo android opozoril, da je datoteka lahko nevarna. Po prenosu se vam ponudi v namestitev. Možno je da morate izrecno dovoliti namestitev iz tretjih virov.
 
