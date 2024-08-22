@@ -17,7 +17,8 @@ Na naštetih zavihkih urejate podatke. Te lahko dodate, spremenite ali izbrišet
 
 V možnostih si lahko nastavite: besedilo v nogi računov, prikaz kategorij ploščato ali gnezdeno (gnezdeno je primerno pri večjem številu artiklov) ter ali želite račune voditi po Mizah, kar je seveda primerno predvsem za lokale ali restavracije.
 
-## Poročila (izvozi podatkov) *** Janko preveriti celotno spodnje navodilo glede poročil ***
+## Poročila (izvozi podatkov) 
+*** Janko preveriti celotno spodnje navodilo glede poročil ***
 
 ### Mesečno poročilo
 
