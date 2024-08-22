@@ -24,9 +24,8 @@ vaš(a) računovodja, saj preko e-davkov oddaja poročila za vaše podjetje.
 
 Na e-davkih je potrebno oddati obrazec DPR_PrevzemDP.
 
-Postopek za pridobitev in prevzem nameenskega digitalnega potrdila si lahko pogledate v naslednjih dveh videih.
-pridobitev https://www.youtube.com/watch?v=DEZQXCSOGDQ
-prevzem https://www.youtube.com/watch?v=M-8EfQluDvI
+Postopek za pridobitev in prevzem nameenskega digitalnega potrdila si lahko pogledate v naslednjih dveh videih: [pridobitev](https://www.youtube.com/watch?v=DEZQXCSOGDQ) in [prevzem](https://www.youtube.com/watch?v=M-8EfQluDvI).
+
 
 ### Kaj storim, ko dobim referenčno številko in geslo od računovodje?
 
