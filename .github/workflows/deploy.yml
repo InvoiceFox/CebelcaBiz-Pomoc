@@ -23,20 +23,20 @@ jobs:
       - name: Build the Hugo site
         run: hugo
 
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy@v1
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          branch: gh-pages
-          folder: public
-
- #     - name: Deploy to your server
- #       uses: actions/ssh@v1
+ #     - name: Deploy to GitHub Pages
+ #       uses: actions/deploy@v1
  #       with:
- #         host: your_server_hostname
- #         port: your_server_port
- #         username: your_server_username
- #         key: ${{ secrets.YOUR_SERVER_SSH_KEY }}
- #         script: |
- #           scp -r public/* your_server_username@your_server_hostname:/path/to/your/site
+ #         github-token: ${{ secrets.GITHUB_TOKEN }}
+ #         branch: gh-pages
+ #         folder: public
+
+      - name: Deploy to your server
+        uses: actions/ssh@v1
+        with:
+          host: your_server_hostname
+          port: your_server_port
+          username: your_server_username
+          key: ${{ secrets.YOUR_SERVER_SSH_KEY }}
+          script: |
+            scp -r public/* imploder@172.232.209.49:/myhome/.
  
