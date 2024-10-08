@@ -9,10 +9,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    steps:
-    - name: Checkout repository
+    steps:    
+    - name: Checkout repository with submodules
       uses: actions/checkout@v3
-      
+      with:
+        submodules: true  # Fetch submodules
+        fetch-depth: 0    # Ensure all history is fetched for building submodules
+
     - name: Set up Hugo
       uses: peaceiris/actions-hugo@v2
       with:
