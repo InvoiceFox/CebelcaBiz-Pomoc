@@ -1,0 +1,42 @@
+name: Hugo Deployment
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Hugo
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16.x'
+          cache: 'npm'
+
+      - name: Install Hugo
+        run: npm install -g hugo
+
+      - name: Build the Hugo site
+        run: hugo
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          branch: gh-pages
+          folder: public
+
+ #     - name: Deploy to your server
+ #       uses: actions/ssh@v1
+ #       with:
+ #         host: your_server_hostname
+ #         port: your_server_port
+ #         username: your_server_username
+ #         key: ${{ secrets.YOUR_SERVER_SSH_KEY }}
+ #         script: |
+ #           scp -r public/* your_server_username@your_server_hostname:/path/to/your/site
+ 
