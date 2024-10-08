@@ -1,42 +1,34 @@
-name: Hugo Deployment
+name: Deploy Hugo site
 
 on:
   push:
-    branches: [main]
+    branches:
+      - main   # Trigger on push to the main branch
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Set up Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: 'latest'
 
-      - name: Set up Hugo
-        uses: actions/setup-node@v3
-        with:
-          node-version: '16.x'
-          cache: 'npm'
+    - name: Build Hugo site
+      run: hugo --minify
 
-      - name: Install Hugo
-        run: npm install -g hugo
+    - name: Install SSH client
+      run: sudo apt-get install -y openssh-client
 
-      - name: Build the Hugo site
-        run: hugo
+    - name: Transfer files via SCP
+      env:
+        SERVER: ${{ secrets.SERVER }}           # Your server's IP or domain
+        USERNAME: ${{ secrets.USERNAME }}       # Your SSH username
+        PASSWORD: ${{ secrets.PASSWORD }}       # Your SSH password or use private key for better security
+      run: |
+        scp -o StrictHostKeyChecking=no -r ./public/* $USERNAME@$SERVER:myhome/.
 
- #     - name: Deploy to GitHub Pages
- #       uses: actions/deploy@v1
- #       with:
- #         github-token: ${{ secrets.GITHUB_TOKEN }}
- #         branch: gh-pages
- #         folder: public
-
-      - name: Deploy to your server
-        uses: actions/ssh@v1
-        with:
-          host: your_server_hostname
-          port: your_server_port
-          username: your_server_username
-          key: ${{ secrets.YOUR_SERVER_SSH_KEY }}
-          script: |
-            scp -r public/* imploder@172.232.209.49:/myhome/.
- 
