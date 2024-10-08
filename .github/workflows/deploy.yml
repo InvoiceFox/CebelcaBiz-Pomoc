@@ -23,7 +23,7 @@ jobs:
         extended: true     # Use this for scss transpiler
 
     - name: Build Hugo site
-      run: hugo --minify
+      run: hugo
 
     - name: Install SSH client
       run: sudo apt-get install -y openssh-client
