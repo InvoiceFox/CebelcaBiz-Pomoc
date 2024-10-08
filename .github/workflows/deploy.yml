@@ -24,11 +24,14 @@ jobs:
     - name: Install SSH client
       run: sudo apt-get install -y openssh-client
 
+    - name: Install sshpass
+      run: sudo apt-get install -y sshpass
+
     - name: Transfer files via SCP
       env:
         SERVER: ${{ secrets.SERVER }}           # Your server's IP or domain
         USERNAME: ${{ secrets.USERNAME }}       # Your SSH username
         PASSWORD: ${{ secrets.PASSWORD }}       # Your SSH password or use private key for better security
       run: |
-        scp -o StrictHostKeyChecking=no -r ./public/* $USERNAME@$SERVER:myhome/.
+        sshpass -p "$PASSWORD" scp -o StrictHostKeyChecking=no -r ./public/* $USERNAME@$SERVER:myhome/.
 
