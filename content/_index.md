@@ -15,7 +15,7 @@ tiskalnike na termični trak.
 
 ## Navodila
 
-### Spletni program Računi
+### Spletni program: Čebelca Računi
 
 * **[Pred prvo uporabo](racuni/pred_prvo_uporabo/)** *
 * **[Izdelajte prvi račun](racuni/izdelava_racuna/)** *
@@ -28,7 +28,7 @@ tiskalnike na termični trak.
 * [Povezava s spletno trgovino](https://github.com/InvoiceFox/CebelcaBIZ-WooCommerce#readme) *
 * [Napredne nastavitve](racuni/napredne_nastavitve/) *
 
-### Mobilna davčna blagajna Čebelca MOBI
+### Mobilna davčna blagajna: Čebelca MOBI
 
 * **[Pred prvo uporabo](mobi/pred_prvo_uporabo/)** *
 * **[Izdelajte prvi testni račun](mobi/prvi_testni_racun/)** *
@@ -37,43 +37,43 @@ tiskalnike na termični trak.
 * **[Prodaja s programom](mobi/prodaja_z_mobi/)** *
 * [Izvoz podatkov za računovodstvo](mobi/izvoz_podatkov_za_racunovodstvo/) *
 
-### Spletni program Skladišče
+### Spletni program: Skladišče
 
 * **[Pred prvo uporabo](skladisce/pred_prvo_uporabo/)** *
 * **[Splošna navodila](skladisce/splosna_navodila/)** *
 * [Poročila in inventura](skladisce/porocila_in_inventura/) *
 * [Konsignacijska prodaja](skladisce/konsignacija/) *
 
-### Spletni program Potni nalogi
+### Spletni program: Potni nalogi
 
 * **[Splošna navodila](potni_nalogi/splosno/)** *
 
 ## Vprašanja in odgovori
 
-### Davčne blagajne Mobi in BIZ
+### Davčne blagajne splošno
 
 * [Davčne blagajne](faq/davcne_blagajne/) **
 * [Namensko digitalno potrdilo](faq/namensko_digitalno_potrdilo/) **
 * [Interni akt](faq/interni_akt/) **
-
-### Spletni program 
-
-* [Dodatni dostopi](faq/dodatni_dostopi/) **
   
-### Spletni program Računi
+### Spletni program: Čebelca Računi
 
 * [Izdajanje e-računov proračunskim uporabnikom](faq/eracuni/) **
 * [e-Računi je bil zavrnjen na banki ali pri UJP](racuni/faq/eracun_zavrnjen/) *
 * [Kreiranje XML za direktne obremenitve oz. trajnike](racuni/faq/direktne_bremenitve_trajniki/) *
 * [Pogosta vprašanja](racuni/faq-more/) *
 
-### Mobilna davčna blagajna
+### Mobilna davčna blagajna: Čebelca MOBI
 
 * [Pogosta vprašanja](mobi/faq-more/) *
 
-### Spletni program Skladišče
+### Spletni program: Skladišče
 
 * [Pogosta vprašanja](skladisce/faq-more/) *
+
+### Razno
+
+* [Dodatni dostopi](faq/dodatni_dostopi/) **
 
 ## Integracije
 
