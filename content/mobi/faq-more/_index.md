@@ -107,7 +107,7 @@ Ja, kartično plačevanje je možno v povezavi s SumUp ali s POS terminalom od b
 
 ### Ali je možna povezava Čebelce MOBI s čitalcem črtnih kod?
 
-Ja, Čebelca se lahko poveže s čitalcem črtnih kod: [video](https://www.youtube.com/watch?v=sTKBaQF8p_Q)
+Ja in sicer se v Čebelci MOBI aktivira čitalec črtne kode tako, da greste na: Upravljanje > MOŽNOSTI > Omogoči čitalec črtnih kod. In potem greste na DAVČNA BLAGAJNA (na prvi strani) > zavihek PREGLEJ; ter samo skenirate artikle. Poglejte si [video](https://www.youtube.com/watch?v=sTKBaQF8p_Q)
 
 ### Ali imamo lahko eno tablico za dve podjetji za izdajanje računov preko Čebelce MOBI?
 
