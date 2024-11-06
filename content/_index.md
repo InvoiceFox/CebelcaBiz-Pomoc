@@ -11,7 +11,7 @@ s spletno trgovino ali za drugo avtomatizacijo preko API-ja. Program ustvari PDF
 Za izdajanje računov končnim kupcem v živo je bolj primeren Čebelca MOBI. Gre za mobilni program za Android telefone in tablice. Račune tiska na bluetooth 
 tiskalnike na termični trak.
 
-***~To so nova navodila, ki so trenutno še v delu, obstoječa najdete na [povezavi](/pomoc.html)~***
+***~To so nova navodila, ki so trenutno še v delu, obstoječa najdete na [povezavi](https://www.cebelca.biz/pomoc.html)~***
 
 ## Navodila
 
