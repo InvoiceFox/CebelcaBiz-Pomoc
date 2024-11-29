@@ -181,6 +181,12 @@ Za drug s.p. se lahko kar registrirate preko naše spletne strani in boste dobil
 
 Če boste imeli Čebelco MOBI na isti napravi kot prej, je možno, da le spremenite podatke podjetja v isti Čebelci MOBI, pri tem pa je potem najbolj pomembno, da ustvarite nov prostor, starega pa lahko tudi izbrišete, da se ne bi kdaj zmotili. Tako, da bodo šli računi spet od 1. 
 
+### Na določenih Mobi računih želim prikazati dodatno klavzulo.
+
+Pojdite na Upravljanje > Možnosti. Tam obkljukajte *Omogoči zbirko besedil*. Izstopite iz Upravljanja in se vrnite in opazili boste nov zavihek "Besedila". Pritisnete *Nov vnos* in vnesete klavzulo. Dodelite ji ime.
+
+Potem ko delate račun, preden ga zaključite pritisnete "..." in *Dodeli besedilo*, ter obkljukate željeno besedilo. Izpisalo se bo spodaj na računu.
+
 Za vzpostavitev davčne blagajne pa boste morali še pridobiti novo namensko digitalno potrdilo.
 
 
