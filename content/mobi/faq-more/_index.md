@@ -183,10 +183,8 @@ Za drug s.p. se lahko kar registrirate preko naše spletne strani in boste dobil
 
 ### Na določenih Mobi računih želim prikazati dodatno klavzulo.
 
-Pojdite na Upravljanje > Možnosti. Tam obkljukajte *Omogoči zbirko besedil*. Izstopite iz Upravljanja in se vrnite in opazili boste nov zavihek "Besedila". Pritisnete *Nov vnos* in vnesete klavzulo. Dodelite ji ime.
+Pojdite na Upravljanje > Možnosti. Tam obkljukajte **Omogoči zbirko besedil**. Shranite nastavitve spodaj in izstopite iz Upravljanja ter se vrnite nazaj in zgoraj boste opazili nov zavihek **Besedila**. Pritisnete **Nov vnos** in vnesete klavzulo. Dodelite ji ime.
 
-Potem ko delate račun, preden ga zaključite pritisnete "..." in *Dodeli besedilo*, ter obkljukate željeno besedilo. Izpisalo se bo spodaj na računu.
+Potem ko delate račun, preden ga zaključite pritisnete "..." in **Dodeli besedilo**, ter obkljukate željeno besedilo. Izpisalo se bo spodaj na računu.
 
 Za vzpostavitev davčne blagajne pa boste morali še pridobiti novo namensko digitalno potrdilo.
-
-
