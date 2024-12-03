@@ -188,3 +188,8 @@ Pojdite na Upravljanje > Možnosti. Tam obkljukajte **Omogoči zbirko besedil**.
 Potem ko delate račun, preden ga zaključite pritisnete "..." in **Dodeli besedilo**, ter obkljukate željeno besedilo. Izpisalo se bo spodaj na računu.
 
 Za vzpostavitev davčne blagajne pa boste morali še pridobiti novo namensko digitalno potrdilo.
+
+### Zanima me ali je mogoče na Čebelica Mobi spremeniti način plačila pred izdajo računa? Če recimo stranka reče, da bi plačala z gotovino in se potem premisli in bi s kartico. 
+
+Naredite dolgi pritisk na GOTOVINA oz. na način plačila, ki ste ga že izbrali in izbrišite znesek, potem lahko izberete drug način plačila.
+
