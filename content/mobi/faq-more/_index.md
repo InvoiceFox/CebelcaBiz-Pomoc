@@ -193,3 +193,7 @@ Za vzpostavitev davčne blagajne pa boste morali še pridobiti novo namensko dig
 
 Naredite dolgi pritisk na GOTOVINA oz. na način plačila, ki ste ga že izbrali in izbrišite znesek, potem lahko izberete drug način plačila.
 
+### Včasih na terenu ni interneta in tudi mobilni podatki ne delujejo povsod. Ali vseeno lahko izdamo račun s Čebelco MOBI?
+
+Sam program za delovanje ne potrebuje interneta. Da pa pošlje podatke na FURS, pa ga potrebuje. Če intereneta ni, se lahko račun izda brez EOR in ga naknadno potrdite v 48 urah, a to je mišljeno bolj za izjeme, ne čisto redno. Če tam ni mobilnega prenosa podatkov, potem najbolje, da preverite na FURS, kaj priporočajo, če je naknadno potrjevanje v redu, potem čebelca to omogoča.
+
