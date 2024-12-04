@@ -364,7 +364,17 @@ Lahko nam pošljete sporočilo iz e-mail naslova prvega računa in nam sporočit
 #### Kaj označimo pri DDV, če smo nezavezanci?
 
 Če imate v nastavitvah označeno, da niste zavezanec, bo program sam ustrezno izpustil DDV, 
-sploh ne bo te postavke na računu.
+sploh ne bo te postavke na računu. Vseeno pa bodite tudi sami pozorni na to, da bo pravilno na računu.
+
+#### Kaj je potrebno urediti v programu, ko postanemo zavezanci za DDV?
+
+Če ste postali DDV zavezanci, to označite v nastavitvah, pri podatkih o podjetju in sicer spremenite pri "DDV zavezanec" na DA in pred davčno številko vpišete še SI. Potem vam bo program sam predlagal DDV, ko boste pisali račun. Vendar bodite vseeno tudi sami pozorni, da se bo pravilno vneslo.
+
+DDV stopnjo se lahko vnese tudi ročno, ko pišete račun ali pri storitvah pod zavihkom "Storitve".
+
+Nekateri tudi prilagodijo cene, da ni preveč neugodna sprememba za stranke.
+
+Nastavitev glede vnašanja cene lahko spremenite v: Nastavitve > Dostop > Dodatne nastavitve dostopa pri: Vnos cene pri računu.
 
 #### Zanima me, če v je v programu možno izdati tudi opomin?
 
