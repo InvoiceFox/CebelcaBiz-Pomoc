@@ -83,6 +83,12 @@ Vklopite tiskalnik in v programu spodaj pritisnete Išči tiskalnike. V nekaj se
 
 Če kateri tiskalnik namesto šumnikov tiska kitajske črke, je možno tudi, da je v chinese namesto v international / ascii načinu (mode). Običajno se med načini preklaplja s posebno kombinacijo tipk ob zagonu, kar piše v navodilih tiskalnika. Ponavadi gre tako, da ga ugasnete. Potem držite obe tipki (Power in Feed) in ko se barva lučke zamenja, spustite najprej levo (Feed).
 
+### Tiskalnik printa zelo na majhno. Kako lahko to spremenimo, da bo normalno velik tisk?
+
+Naša aplikacija ne spreminja velikosti pisave, ampak printa kakor je printer nastavljen. Program je namreč tak, da lahko dela z veliko možnimi printerji (vsemi, ki jih imajo uporabniki). 
+
+Zasledili smo že tako težavo pri Rongti. Poleg tiskalnika imate verjetno navodila in CD, s pomočjo česar lahko na svoj računalnik inštalirate programček od Rongte in potem s usb povežete tiskalnik in spremenite nastavitve. Upam, da uspete rešiti, drugače prosim sporočite.
+
 ### Kje v Čebelci MOBI vklopim pravi način, da ne bodo več testni računi?
 
 Greste na: tri pikice (zg.desno) > Nastavitve programa > (zavihek) PROGRAM in tam izklopite testni način.
