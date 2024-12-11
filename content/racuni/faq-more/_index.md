@@ -384,12 +384,15 @@ Lahko pa tudi račun natisnete kot opomin: PDF > več opcij > Naziv dokumenta: O
 
 #### Kako natisnemo več računov hkrati?
 
-TODO: le plus
 To možnost najdete v "Podatki > Izpis celotnih računv v PDF-ju". Po pritisku tipke vam pokaže neko tehnično sporočilo, link do PDF-ja pa dobite po emailu v nekaj minutah, ko se zgenerira.
 
 #### Pri poskusu prenosa računov v PDFju (Podatki > Izpis celotnih računov v PDF-ju) se po kliku na povezavo v emailu pokaže le napis Forbidden. Kaj naj storimo?
 
 Pomembno je, da ste znotraj iste prijave, ko v Čebelci kliknete za izvoz PDF-jev ter potem ko kliknete link  - vmes ne sme miniti preveč časa in biti morate v istem browser-ju.
+
+#### ali je mogoče hkrati kreirati več računov?
+
+Za generiranje računov iz podatkov greste lahko na: Podatki (zg.desno) > Uvoz podatkov (spodaj) > Izberi skripto > Uvoz naročil v račune. Poleg tega pa še kliknete "prikaži primer", da boste videli, kako mora biti pripravljeno.
 
 #### Pri pošiljanju eRačuna imamo težavo, ker program zahteva, da imamo vnešeno matično številko. Mi kot kmetija pa nimamo matične številke. Kaj naj storimo?
 
