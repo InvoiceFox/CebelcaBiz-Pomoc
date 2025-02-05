@@ -461,3 +461,7 @@ To sta dodatna modula, ki sta novejša in ju bomo še izboljševali.
 Modul Dopisi omogoča izdelavo različnih dopisov, kjer lahko izberete partnerja, vnesete vsebino in imate narejen dopis, z glavo, nogo, žigom. Poleg tega modul nudi še evidenco Prejete in poslane pošte.
 
 Modul Projekti pa omogoča, da različne druge podatke v Čebelci vodite po pripadajočih projektih. Modul ni uporaben za vsa podjetja, takšna ki jim to koristi, pa bodo lahko npr. račune, prejete račune (stroške), potne naloge, ... vodili po projektu ter imeli pregled nad tem. Trenutno je narejena prva verzija in sproti ugotavljamo, kaj se rabi.
+
+#### Pri nazivu postavke pri računih imajo nadaljne vrstice manjši font, kako to izklopim?
+
+Javite nam na e-pošto in lahko nastavimo, da bodo na vašem dostopu vse vrstice iste velikosti.
