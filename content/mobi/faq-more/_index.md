@@ -203,3 +203,11 @@ Naredite dolgi pritisk na GOTOVINA oz. na način plačila, ki ste ga že izbrali
 
 Sam program za delovanje ne potrebuje interneta. Da pa pošlje podatke na FURS, pa ga potrebuje. Če intereneta ni, se lahko račun izda brez EOR in ga naknadno potrdite v 48 urah, a to je mišljeno bolj za izjeme, ne čisto redno. Če tam ni mobilnega prenosa podatkov, potem najbolje, da preverite na FURS, kaj priporočajo, če je naknadno potrjevanje v redu, potem čebelca to omogoča.
 
+### Ali lahko uporabljam MOBI če grem prodajati v tujino, npr. na nek dogodek?
+
+Za aplikacijo samo ni pomembno kje ste, če jo imate nameščeno na Android napravi bo delovala enako v Sloveniji ali tujini. Težava pa je, da mogoče aplikacija ne bo mogla poslati podatkov o računih na FURS, saj je FURS strežnik načeloma zaklenjen na IP-je izven Slovenije. Sam IP je lahko odvisen od načina gostovanja in vašega ponudnika. Lahko pred tem povprašate pri ponudniku in na FURS.
+
+Če vaš IP naslov iz tujine ne more doseči FURS strežnika, potem lahko v Čebelci MOBI namesto pritiska tipke **Zaključi in natisni** nanjo naredite dolgi pritisk. Program vas bo vprašal, ali ste prepričani
+da želite izdati račun brez EOR (brez potrjevanja na FURS). Če kliknete da, se bo račun izdal a bo ostal nepotrjen in imate 48 ur, da ga naknadno potrdite na FURS, npr. ko pridete v Slovenijo.
+
+Program vas opozarja o številu nepotrjenih računov, v rdečem pasu, ko ste na davčni blagajni in ti računi so na Upravljanju rdeče obarvani. Da jih naknadno potrdite na upravljanju držite dolgi pritisk na račun, pokaže se okno kjer izberete "Naknadno potrdi na FURS". Račun na seznamu ne bo več rdeče barve in št. nepotrjenih računov v opozorilu se bo zmanjšalo za 1. 
