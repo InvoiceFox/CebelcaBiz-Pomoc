@@ -37,5 +37,5 @@ jobs:
         USERNAME: ${{ secrets.USERNAME }}       # Your SSH username
         PASSWORD: ${{ secrets.PASSWORD }}       # Your SSH password or use private key for better security
       run: |
-        sshpass -p "$PASSWORD" scp -P 1023 -o StrictHostKeyChecking=no -r ./public/* $USERNAME@$SERVER:myhome/navodila/.
+        sshpass -p "$PASSWORD" scp -v -P 1023 -o StrictHostKeyChecking=no -r ./public/* $USERNAME@$SERVER:myhome/navodila/.
 
