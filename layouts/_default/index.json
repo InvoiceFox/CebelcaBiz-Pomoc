@@ -1,0 +1,14 @@
+{
+  "pages": [
+  {{- $pages := where .Site.Pages "Kind" "in" (slice "page" "section") -}}
+  {{- $len := len $pages -}}
+  {{- range $index, $page := $pages -}}
+    {
+      "url": {{ $page.Permalink | jsonify }},
+      "title": {{ $page.Title | jsonify }},
+      "section": {{ $page.Section | jsonify }},
+      "content": {{ (printf "%s %s" $page.Title ($page.Content | plainify)) | jsonify }}
+    }{{ if ne (add $index 1) $len }},{{ end }}
+  {{- end -}}
+  ]
+}

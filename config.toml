@@ -2,3 +2,15 @@ baseURL = 'https://www.cebelca.biz/navodila/'
 languageCode = 'sl-SI'
 title = 'Navodila Čebelca BIZ'
 theme = 'hugo-book'
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+page = ["HTML"]
+section = ["HTML"]
+taxonomy = ["HTML"]
+term = ["HTML"]
+
+[outputFormats.JSON]
+mediaType = "application/json"
+baseName = "index"
+isPlainText = true

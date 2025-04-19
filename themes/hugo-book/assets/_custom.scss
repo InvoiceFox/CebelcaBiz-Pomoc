@@ -1,3 +1,271 @@
 /* You can add custom styles here. */
 
 // @import "plugins/numbered";
+
+// Custom header styling to improve visual distinction between h1, h2, h3
+.markdown {
+  h1 {
+    font-size: 2.2em;
+    font-weight: 700;
+    color: var(--color-link);
+    border-bottom: 2px solid var(--gray-200);
+    padding-bottom: 0.3em;
+  }
+  
+  h2 {
+    font-size: 1.8em;
+    font-weight: 600;
+    color: #444;
+    border-bottom: 1px solid var(--gray-200);
+    padding-bottom: 0.2em;
+  }
+  
+  h3 {
+    font-size: 1.5em;
+    font-weight: 500;
+    color: #666;
+  }
+  
+  // Ensure dark mode compatibility
+  @media (prefers-color-scheme: dark) {
+    h1 {
+      color: var(--color-link);
+    }
+    
+    h2 {
+      color: #bbb;
+    }
+    
+    h3 {
+      color: #999;
+    }
+  }
+}
+
+// Enhanced Table of Contents styling
+.book-toc {
+  .book-toc-content {
+    font-size: 0.9rem; // Slightly larger font
+    background-color: #f8f9fa; // Light background
+    border-radius: 5px;
+    border-left: 3px solid #e9e9e9; // Accent border
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05); // Subtle shadow
+    
+    // Style the TOC title
+    nav > h2 {
+      font-weight: 600;
+      color: var(--color-link);
+      margin-top: 0;
+      font-size: 1.1rem;
+    }
+    
+    // Style the TOC links
+    nav ul li {
+      margin: 0.7em 0;
+      
+      a {
+        display: block;
+        padding: 0.2em 0;
+        transition: all 0.2s ease;
+        
+        &:hover {
+          color: var(--color-link);
+          transform: translateX(3px);
+          text-decoration: none;
+        }
+      }
+      
+      // Active link
+      a.active {
+        font-weight: 600;
+        color: var(--color-link);
+      }
+    }
+  }
+  
+  // Dark mode compatibility
+  @media (prefers-color-scheme: dark) {
+    .book-toc-content {
+      background-color: #2a2d2f; // Darker background for dark mode
+      border-left: 3px solid var(--color-link);
+      box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    }
+  }
+}
+
+// Enhanced Search Input styling
+.book-search {
+  position: relative;
+  
+  // Add search icon
+  &::before {
+    content: "🔍";
+    position: absolute;
+    left: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 14px;
+    z-index: 1;
+    opacity: 0.7;
+  }
+  
+  input {
+    height: 2.5rem;
+    padding: 0.5rem 0.5rem 0.5rem 2.5rem; // Extra padding on left for icon
+    border: 1px solid var(--gray-200);
+    border-radius: 4px;
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+    font-size: 0.95rem;
+    transition: all 0.2s ease;
+    
+    &::placeholder {
+      color: #999;
+      font-style: italic;
+    }
+    
+    &:focus {
+      border-color: var(--color-link);
+      box-shadow: 0 0 0 3px rgba(0, 85, 187, 0.1);
+      outline: none;
+    }
+  }
+  
+  // Enhanced search results styling
+  #book-search-results {
+    margin-top: 0.5rem;
+    padding: 0.5rem;
+    border-radius: 4px;
+    background-color: white;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    max-height: 70vh;
+    overflow-y: auto;
+    z-index: 100;
+    position: absolute;
+    width: 100%;
+    
+    li {
+      padding: 0.5rem;
+      border-bottom: 1px solid var(--gray-200);
+      transition: background-color 0.2s;
+      
+      &:last-child {
+        border-bottom: none;
+      }
+      
+      &:hover {
+        background-color: #f5f7fa;
+      }
+      
+      a {
+        display: block;
+        color: var(--color-link);
+        font-weight: 500;
+        margin-bottom: 0.2rem;
+        text-decoration: none;
+        
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+      
+      small {
+        display: block;
+        color: #666;
+        font-size: 0.8rem;
+      }
+      
+      .search-result-context {
+        margin-top: 0.4rem;
+        font-size: 0.85rem;
+        color: #555;
+        line-height: 1.4;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        background-color: #f9f9f9;
+        padding: 0.5rem;
+        border-radius: 3px;
+        border-left: 2px solid #ddd;
+      }
+    }
+  }
+  
+  // Spinner styling
+  .book-search-spinner {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 18px;
+    height: 18px;
+    border: 2px solid rgba(0, 0, 0, 0.1);
+    border-top-color: var(--color-link);
+    border-radius: 50%;
+    animation: spinner 0.6s linear infinite;
+    
+    &.hidden {
+      display: none;
+    }
+  }
+  
+  @keyframes spinner {
+    to {transform: translateY(-50%) rotate(360deg);}
+  }
+  
+  // Dark mode compatibility
+  @media (prefers-color-scheme: dark) {
+    &::before {
+      opacity: 0.9;
+    }
+    
+    input {
+      background-color: #2a2d2f;
+      border-color: #444;
+      color: #eee;
+      
+      &::placeholder {
+        color: #777;
+      }
+      
+      &:focus {
+        border-color: var(--color-link);
+        box-shadow: 0 0 0 3px rgba(132, 178, 255, 0.2);
+      }
+    }
+    
+    #book-search-results {
+      background-color: #2a2d2f;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+      
+      li {
+        border-bottom-color: #444;
+        
+        &:hover {
+          background-color: #333;
+        }
+        
+        a {
+          color: var(--color-link);
+        }
+        
+        small {
+          color: #999;
+        }
+        
+        .search-result-context {
+          background-color: #333;
+          color: #bbb;
+          border-left-color: #555;
+        }
+      }
+    }
+    
+    .book-search-spinner {
+      border-color: rgba(255, 255, 255, 0.1);
+      border-top-color: var(--color-link);
+    }
+  }
+}
