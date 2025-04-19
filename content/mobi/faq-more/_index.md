@@ -83,6 +83,12 @@ Vklopite tiskalnik in v programu spodaj pritisnete Išči tiskalnike. V nekaj se
 
 Če kateri tiskalnik namesto šumnikov tiska kitajske črke, je možno tudi, da je v chinese namesto v international / ascii načinu (mode). Običajno se med načini preklaplja s posebno kombinacijo tipk ob zagonu, kar piše v navodilih tiskalnika. Ponavadi gre tako, da ga ugasnete. Potem držite obe tipki (Power in Feed) in ko se barva lučke zamenja, spustite najprej levo (Feed).
 
+### Tiskalnik printa zelo na majhno. Kako lahko to spremenimo, da bo normalno velik tisk?
+
+Naša aplikacija ne spreminja velikosti pisave, ampak printa kakor je printer nastavljen. Program je namreč tak, da lahko dela z veliko možnimi printerji (vsemi, ki jih imajo uporabniki). 
+
+Zasledili smo že tako težavo pri Rongti. Poleg tiskalnika imate verjetno navodila in CD, s pomočjo česar lahko na svoj računalnik inštalirate programček od Rongte in potem s usb povežete tiskalnik in spremenite nastavitve. Upam, da uspete rešiti, drugače prosim sporočite.
+
 ### Kje v Čebelci MOBI vklopim pravi način, da ne bodo več testni računi?
 
 Greste na: tri pikice (zg.desno) > Nastavitve programa > (zavihek) PROGRAM in tam izklopite testni način.
@@ -181,6 +187,27 @@ Za drug s.p. se lahko kar registrirate preko naše spletne strani in boste dobil
 
 Če boste imeli Čebelco MOBI na isti napravi kot prej, je možno, da le spremenite podatke podjetja v isti Čebelci MOBI, pri tem pa je potem najbolj pomembno, da ustvarite nov prostor, starega pa lahko tudi izbrišete, da se ne bi kdaj zmotili. Tako, da bodo šli računi spet od 1. 
 
+### Na določenih Mobi računih želim prikazati dodatno klavzulo.
+
+Pojdite na Upravljanje > Možnosti. Tam obkljukajte **Omogoči zbirko besedil**. Shranite nastavitve spodaj in izstopite iz Upravljanja ter se vrnite nazaj in zgoraj boste opazili nov zavihek **Besedila**. Pritisnete **Nov vnos** in vnesete klavzulo. Dodelite ji ime.
+
+Potem ko delate račun, preden ga zaključite pritisnete "..." in **Dodeli besedilo**, ter obkljukate željeno besedilo. Izpisalo se bo spodaj na računu.
+
 Za vzpostavitev davčne blagajne pa boste morali še pridobiti novo namensko digitalno potrdilo.
 
+### Zanima me ali je mogoče na Čebelica Mobi spremeniti način plačila pred izdajo računa? Če recimo stranka reče, da bi plačala z gotovino in se potem premisli in bi s kartico. 
 
+Naredite dolgi pritisk na GOTOVINA oz. na način plačila, ki ste ga že izbrali in izbrišite znesek, potem lahko izberete drug način plačila.
+
+### Včasih na terenu ni interneta in tudi mobilni podatki ne delujejo povsod. Ali vseeno lahko izdamo račun s Čebelco MOBI?
+
+Sam program za delovanje ne potrebuje interneta. Da pa pošlje podatke na FURS, pa ga potrebuje. Če intereneta ni, se lahko račun izda brez EOR in ga naknadno potrdite v 48 urah, a to je mišljeno bolj za izjeme, ne čisto redno. Če tam ni mobilnega prenosa podatkov, potem najbolje, da preverite na FURS, kaj priporočajo, če je naknadno potrjevanje v redu, potem čebelca to omogoča.
+
+### Ali lahko uporabljam MOBI če grem prodajati v tujino, npr. na nek dogodek?
+
+Za aplikacijo samo ni pomembno kje ste, če jo imate nameščeno na Android napravi bo delovala enako v Sloveniji ali tujini. Težava pa je, da mogoče aplikacija ne bo mogla poslati podatkov o računih na FURS, saj je FURS strežnik načeloma zaklenjen na IP-je izven Slovenije. Sam IP je lahko odvisen od načina gostovanja in vašega ponudnika. Lahko pred tem povprašate pri ponudniku in na FURS.
+
+Če vaš IP naslov iz tujine ne more doseči FURS strežnika, potem lahko v Čebelci MOBI namesto pritiska tipke **Zaključi in natisni** nanjo naredite dolgi pritisk. Program vas bo vprašal, ali ste prepričani
+da želite izdati račun brez EOR (brez potrjevanja na FURS). Če kliknete da, se bo račun izdal a bo ostal nepotrjen in imate 48 ur, da ga naknadno potrdite na FURS, npr. ko pridete v Slovenijo.
+
+Program vas opozarja o številu nepotrjenih računov, v rdečem pasu, ko ste na davčni blagajni in ti računi so na Upravljanju rdeče obarvani. Da jih naknadno potrdite na upravljanju držite dolgi pritisk na račun, pokaže se okno kjer izberete "Naknadno potrdi na FURS". Račun na seznamu ne bo več rdeče barve in št. nepotrjenih računov v opozorilu se bo zmanjšalo za 1. 
