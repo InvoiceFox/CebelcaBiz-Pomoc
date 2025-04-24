@@ -23,11 +23,25 @@ Za vzpostavitev davčne blagajne boste morali pridobiti Namensko digitalno potrd
 
 V program vnesete vaše podatke (greste na tipko "Uredi"), artikle (tipka "Davčna blagajna" > tri navpične pikice - zg.desno > Upravljanje > ARTIKLI) ter namestite namensko digitalno potrdilo. Namestitev poteka preko modrega okenca na naši spletni strani, kot je opisano v [navodilih](https://www.cebelca.biz/pomoc-davcne-blagajne-mobi-potrdilo.html)
 
-Ko si namestite Čebelco MOBI, ste najprej v testnem načinu in lahko preizkusite izdajanje računov. Ko boste izklopili testni način (tipka "Uredi" > potem desno "NASTAVITVE"...), se bodo računi ob izdaji davčno potrjevali t.j. pošiljali na Furs, seveda če bodo izpolnjeni vsi pogoji za davčne blagajne (namensko dig.potrdilo, potrjen prostor, internetna povezava). Določeno pa je tudi, da morate imeti interni akt, za katerega vzorce najdete tudi na spletni strani FURS-a pod Pogosta vprašanja in odgovori o davčnem potrjevanje računov in sicer v odg. Št.215. Če vtipkate v iskalnik “furs vprašanja in odgovori davčno potrjevanje računov”, so ta vprašanja in odgovori prvi zadetek.
+Ko si namestite Čebelco MOBI, ste najprej v testnem načinu in lahko preizkusite izdajanje računov. Ko boste izklopili testni način (tipka "Uredi" > potem desno "NASTAVITVE"...), se bodo računi ob izdaji davčno potrjevali t.j. pošiljali na Furs, seveda če bodo izpolnjeni vsi pogoji za davčne blagajne (namensko dig.potrdilo, potrjen prostor, internetna povezava). Določeno pa je tudi, da morate imeti interni akt, za katerega vzorce najdete tudi na spletni strani FURS-a pod Pogosta vprašanja in odgovori o davčnem potrjevanje računov in sicer v odg. Št.215. Če vtipkate v iskalnik "furs vprašanja in odgovori davčno potrjevanje računov", so ta vprašanja in odgovori prvi zadetek.
 
 V testnem načinu tudi povežete in preizkusite svoj tiskalnik: Davčna blagajna > tri navpične pikice > Poveži tiskalnik.
 
 Več navodil najdete [tukaj](https://www.cebelca.biz/pomoc-davcne-blagajne-mobi.html)
+
+### Ali lahko uporabljam Čebelco MOBI brez davčnega potrjevanja?
+
+Da, v določenih primerih. Če opravljate Osebno Dopolnilno Delo (ODD) morate izdati račun, ni pa potrebno, da je davčno potrjen. Natančen odgovor FURS-a najdete pri vprašanju 32, na dokumentu [Vprašanja in odgovori: Davčno potrjevanje računov](http://www.fu.gov.si/fileadmin/Internet/Nadzor/Podrocja/Davcne_blagajne_in_VKR/Vprasanja_in_odgovori/Vprasanja_in_odgovori_1_izdaja_Davcno_potrjevanje_racunov.pdf).
+
+Tudi društvom, **ki izpolnjujejo specifične pogoje**, z dopolnitvijo zakona ni potrebno davčno potrjevati računov. Temeljito premislite ali pogoje izpolnjujete. Konkretne informacije najdete na strani [Odgovori na dodatna vprašanja glede izjeme po 143. člena PZDDV](http://www.fu.gov.si/fileadmin/Internet/Davki_in_druge_dajatve/Podrocja/Davek_na_dodano_vrednost/Novice/2016/Odgovori_na_dodatna_vprasanja_glede_izjeme_po_143__clena_PZDDV.pdf).
+
+### Kako nastavim Čebelco MOBI za uporabo brez davčnega potrjevanja?
+
+Odprite program in kliknite tipko **Uredi**, potem pojdite na dno strani **Nastavitve**, kjer najdete kljukico **Način BREZ davčnega potrjevanja**. To obkljukajte le, če ste prepričani, da zadostujete pogojem oz. spadate v izjemo glede na pravila in obliko ter prihodke vaše organizacije.
+
+Če računov davčno ne potrjujete, potem program za delovanje NE potrebuje internetne povezave. Dobro je le, da vsake toliko časa greste na kak Wifi, da se programi po potrebi nadgradijo.
+
+Če račun ni davčno potrjen, potem ne vsebuje EOR in ZOI kode, ter QR (črtne) kode.
 
 ### Koliko stane Čebelca MOBI - PLUS?
 
@@ -45,9 +59,9 @@ V redu bo (skoraj) katerikoli takšen tiskalnik, saj se Čebelca povezuje v glav
 
 (Trenutno edini, ki ni podprt, je Optipos Light, tako da tega ne priporočamo, ker ne podpira QR kod na ustrezen način.)
 
-### Zanima me glede mobi verzije, če bi moj android sistem to podpiral? Imam telefon Samsung Galaxy A3 (2017), sistem Android 7.0.
+### Katere Android naprave podpirajo Čebelco MOBI?
 
-Ja, bi podpiral, res pa da, ker so novejši certifikati vedno bolj zahtevni, je potrjevanje na starejših telefonih postalo malo počasnejše. Če lahko, bolj priporočamo novejše Androide, a delamo na tem, da bo tudi na starejših malo hitreje delalo.
+Čebelca MOBI deluje na večini Android naprav. Na starejših napravah (Android 7.0 in starejši) je lahko potrjevanje računov nekoliko počasnejše, saj so novejši certifikati vedno bolj zahtevni. Priporočamo uporabo novejših Android naprav za optimalno delovanje, vendar delamo na tem, da bo aplikacija delovala čim bolje tudi na starejših napravah.
 
 ### Kako se v Čebelco MOBI namesti namensko digitalno potrdilo?
 
@@ -63,11 +77,11 @@ Nato greste v Čebelci MOBI na: tri pikice > "Nastavitve programa" > "PROGRAM" (
 
 Več navodil najdete [tukaj](../../faq/namensko_digitalno_potrdilo/#uvoz-potrdila-v-mobilni-program-%C4%8Debelca-mobi)
 
-### Ko želim klikniti "uvozi iz cebelica.biz" mi napiše napaka: odgovor strežnika ni certifikat?
+### Kaj storiti, če se pri uvozu digitalnega potrdila pojavi napaka?
 
-Datoteko je potrebno dati v modro okno (na desni), ko ste prijavljeni na naši spletni strani od Čebelce MOBI, kot je opisano v zgornjem odgovoru.
+Najpogostejša napaka pri uvozu digitalnega potrdila je, da datoteka ni bila pravilno naložena v modro okno na spletni strani Čebelca MOBI. Preverite, da ste pravilno naložili .p12 datoteko v modro okno, ko ste prijavljeni na spletni strani. Če težava vztraja, poskusite ponovno naložiti datoteko ali pa se obrnite na podporo.
 
-### Ko kliknem “Poveži tiskalnik” se nič ne zgodi?
+### Ko kliknem "Poveži tiskalnik" se nič ne zgodi?
 
 Če se pri "Poveži tiskalnik" ne zgodi nič, pojdite na Nastavitve (Setting) v Androidu, potem Aplikacije in poiščite Čebelca MOBI. Tam pojdite pod Dovoljenja in omogočite dovoljenja ki so onemogočene, običajno se imenuje "naprave v bližini", včasih pa je še enka (odvisno od verzije Androida).
  
@@ -77,17 +91,17 @@ Do težave, ki jo imate, pride zato, ker program, ko greste v Davčno blagajno m
 
 Ali ste naredili preizkus tiskalnikov? Pri Upravljanje > Možnosti lahko izberete vrsto tiskalnika. Tam imate tipko "preizkusi", ki vam, če je izbran pravi tiskalnik, natisne šumnike in QR kodo.
 
-Potem pa pritisnite opcijsko tipko - 3 pike desno zgoraj, lahko pa je to tudi prava tipka na telefonu ali tablici, odvisno od naprave. Pokaže se vam “menu” kjer pritisnete: Poveži tiskalnik.
+Potem pa pritisnite opcijsko tipko - 3 pike desno zgoraj, lahko pa je to tudi prava tipka na telefonu ali tablici, odvisno od naprave. Pokaže se vam "menu" kjer pritisnete: Poveži tiskalnik.
 
 Vklopite tiskalnik in v programu spodaj pritisnete Išči tiskalnike. V nekaj sekundah bi se vam moralo pokazati okno za povezavo z novim tiskalnikom. Pri tem vnesete kodo 1234.
 
 Če kateri tiskalnik namesto šumnikov tiska kitajske črke, je možno tudi, da je v chinese namesto v international / ascii načinu (mode). Običajno se med načini preklaplja s posebno kombinacijo tipk ob zagonu, kar piše v navodilih tiskalnika. Ponavadi gre tako, da ga ugasnete. Potem držite obe tipki (Power in Feed) in ko se barva lučke zamenja, spustite najprej levo (Feed).
 
-### Tiskalnik printa zelo na majhno. Kako lahko to spremenimo, da bo normalno velik tisk?
+### Kako prilagodim velikost tiska na tiskalniku?
 
-Naša aplikacija ne spreminja velikosti pisave, ampak printa kakor je printer nastavljen. Program je namreč tak, da lahko dela z veliko možnimi printerji (vsemi, ki jih imajo uporabniki). 
+Čebelca MOBI ne spreminja velikosti pisave, ampak tiska tako, kot je nastavljen tiskalnik. Program je zasnovan tako, da deluje z različnimi modeli tiskalnikov.
 
-Zasledili smo že tako težavo pri Rongti. Poleg tiskalnika imate verjetno navodila in CD, s pomočjo česar lahko na svoj računalnik inštalirate programček od Rongte in potem s usb povežete tiskalnik in spremenite nastavitve. Upam, da uspete rešiti, drugače prosim sporočite.
+Za prilagoditev velikosti tiska je potrebno spremeniti nastavitve samega tiskalnika. Večina tiskalnikov ima priložena navodila in programsko opremo (na CD-ju ali na spletu), s katero lahko preko USB povezave spremenite nastavitve tiskalnika. Povežite tiskalnik z računalnikom in uporabite proizvajalčevo programsko opremo za spremembo nastavitev.
 
 ### Kje v Čebelci MOBI vklopim pravi način, da ne bodo več testni računi?
 
@@ -99,13 +113,22 @@ To je potrebno spremeniti v nastavitvah samega telefona (settings). Najboljše, 
 ### Kaj storim, če potrjevanje računa ne uspe?
 
 Če potrjevanje ne uspe, ker trenutno nimate interneta ali FURS strežnik ne deluje, lahko račun izdate brez EOR kode. Račun še vedno vsebuje ZOI kodo in črtno QR kodo, polje za EOR kodo pa je prazno. Takšen račun lahko izdate stranki, račun pa morate potrditi v roku 48 ur.
-### Imamo davčno blagajno MOBI ČEBELCA in pri prvem računu, ki smo ga naredili pred tremi dnevi, nam na računu ni pripisalo kode EOR. Kako bi zadevo uredili?
 
-Kontaktirajte FURS in verjetno vam bodo naročili, da račun zdaj čimprej potrdite, če ga takrat niste. 
+### Kaj storiti, če na računu ni EOR kode?
 
-### Na Čebelci MOBI ne morem davčno potrditi računov, napiše mi: “Napaka! sporočilo ni v skladu s shemo JSON.” 
+Če na izdanem računu ni EOR kode, to pomeni, da račun ni bil uspešno davčno potrjen. V takem primeru morate račun naknadno potrditi na FURS v roku 48 ur. Kontaktirajte FURS za navodila in čimprej potrdite račun. V Čebelci MOBI lahko to storite z dolgim pritiskom na račun v seznamu računov in izbiro opcije "Naknadno potrdi na FURS".
 
-Preverite prosim, da v oznaki blagajne ali prostora ni kakšnih znakov kot npr. pomišljajev, ali šumnikov. Lahko so le male ali velike črke. Kot drugo preverite, če imate pravilno vnešeno davčno številko, da ima osem cifer in enako še za osebno davčno številko prodajalca.
+### Kaj storiti pri napakah pri davčnem potrjevanju računov?
+
+Pri davčnem potrjevanju računov se lahko pojavijo različne napake. Najpogostejši vzroki so:
+
+1. Nepravilni znaki v oznaki blagajne ali prostora (dovoljene so le male in velike črke, ne pa pomišljaji, šumniki ali drugi posebni znaki)
+2. Nepravilno vnesena davčna številka (mora imeti osem cifer)
+3. Nepravilno vnesena osebna davčna številka prodajalca
+4. Poteklo namensko digitalno potrdilo
+5. Težave z internetno povezavo
+
+Preverite vse navedene možnosti in po potrebi popravite podatke v nastavitvah.
 
 ### Ali Čebelca MOBI omogoča plačevanje s kartico?
 
@@ -161,7 +184,7 @@ V Čebelci MOBI kliknete Upravljanje > POROČILA > MESECI (spodaj) > dolgi priti
 
 ### Kako izvoziti podatke iz Čebelce MOBI? (daljša verzija)
 
-Čebelca MOBI omogoča več opcij glede poročanja računovodstvu. Nekateri se odločijo za “papirni način” s tem, da vsak dan na koncu dneva natisnejo dnevni zaključek, potem pa te občasno fizično dostavijo svojemu računovodstvu. Bolj priporočljiv je elektronski način, kjer 1x na mesec izvozite datoteke na svoj Dropbox dostop, ter te delite z računovodjem.
+Čebelca MOBI omogoča več opcij glede poročanja računovodstvu. Nekateri se odločijo za "papirni način" s tem, da vsak dan na koncu dneva natisnejo dnevni zaključek, potem pa te občasno fizično dostavijo svojemu računovodstvu. Bolj priporočljiv je elektronski način, kjer 1x na mesec izvozite datoteke na svoj Dropbox dostop, ter te delite z računovodjem.
 
 * Tisk dnevnih zaključkov
 
@@ -175,17 +198,17 @@ Zaključek lahko naredite tudi za prejšnji dan ozirom še dlje nazaj. Če progr
 
 V Čebelci MOBI kliknete Upravljanje > POROČILA > MESECI (spodaj) > dolgi pritisk na izbrani mesec > izvoz poročil na Dropbox.
 
-(Dropbox se uporabi kot shramba za svoje datotek “v oblaku”. Datoteke lahko naložite na dropbox, potem da do njih dostopate iz različnih računalnikov, telefonov in podobno. Dropbox lahko namestite na svoj računalnik, a za lahkotno uporabo to ni nujno, saj lahko vedno obiščete njihovo spletno stran in tako pridete do datotek. Čebelca uporablja Dropbox, ker je do 2GB popolnoma brezplačen.)
+(Dropbox se uporabi kot shramba za svoje datotek "v oblaku". Datoteke lahko naložite na dropbox, potem da do njih dostopate iz različnih računalnikov, telefonov in podobno. Dropbox lahko namestite na svoj računalnik, a za lahkotno uporabo to ni nujno, saj lahko vedno obiščete njihovo spletno stran in tako pridete do datotek. Čebelca uporablja Dropbox, ker je do 2GB popolnoma brezplačen.)
 
 ### Sem v menjavi mobitela. Kako prenesem program na novo napravo?
 
 Postopek je opisan [tu](https://www.cebelca.biz/pomoc-davcne-blagajne-mobi-backup.html#backup1).
 
-### Odločila sem se, da zaprem s.p. in sedaj imamo drug s.p., pisan na očeta, preko katerega bova sedaj poslovala. Pa se sedaj obračam na vas, kako naj to izvedem, glede na obstoječ račun, ki je naložen na mojem telefonu?
+### Kako prenesti Čebelco MOBI na drugo podjetje ali s.p.?
 
-Za drug s.p. se lahko kar registrirate preko naše spletne strani in boste dobili potrditveni e-mail. Za vsak dostop potrebujete unikaten e-mail. Če bi mogoče želeli za novi s.p. uporabljati e-mail, ki ste ga uporabljali pri obstoječem dostopu, lahko pri tem dostopu zamenjate uporabniški e-mail, da bo tisti zopet na voljo za registracijo.
+Če želite uporabljati Čebelco MOBI za drugo podjetje ali s.p., se najprej registrirajte za nov dostop na naši spletni strani. Za vsak dostop potrebujete unikaten e-mail naslov. Če želite uporabiti isti e-mail, ki ga uporabljate pri obstoječem dostopu, lahko pri obstoječem dostopu najprej zamenjate uporabniški e-mail, da bo prvotni e-mail na voljo za registracijo novega dostopa.
 
-Če boste imeli Čebelco MOBI na isti napravi kot prej, je možno, da le spremenite podatke podjetja v isti Čebelci MOBI, pri tem pa je potem najbolj pomembno, da ustvarite nov prostor, starega pa lahko tudi izbrišete, da se ne bi kdaj zmotili. Tako, da bodo šli računi spet od 1. 
+Če boste uporabljali Čebelco MOBI na isti napravi kot prej, lahko spremenite podatke podjetja v obstoječi aplikaciji. Pri tem je pomembno, da ustvarite nov prostor, starega pa lahko tudi izbrišete, da ne bi prišlo do napak. Tako bodo računi za novo podjetje začeli s številko 1.
 
 ### Na določenih Mobi računih želim prikazati dodatno klavzulo.
 
@@ -210,4 +233,4 @@ Za aplikacijo samo ni pomembno kje ste, če jo imate nameščeno na Android napr
 Če vaš IP naslov iz tujine ne more doseči FURS strežnika, potem lahko v Čebelci MOBI namesto pritiska tipke **Zaključi in natisni** nanjo naredite dolgi pritisk. Program vas bo vprašal, ali ste prepričani
 da želite izdati račun brez EOR (brez potrjevanja na FURS). Če kliknete da, se bo račun izdal a bo ostal nepotrjen in imate 48 ur, da ga naknadno potrdite na FURS, npr. ko pridete v Slovenijo.
 
-Program vas opozarja o številu nepotrjenih računov, v rdečem pasu, ko ste na davčni blagajni in ti računi so na Upravljanju rdeče obarvani. Da jih naknadno potrdite na upravljanju držite dolgi pritisk na račun, pokaže se okno kjer izberete "Naknadno potrdi na FURS". Račun na seznamu ne bo več rdeče barve in št. nepotrjenih računov v opozorilu se bo zmanjšalo za 1. 
+Program vas opozarja o številu nepotrjenih računov, v rdečem pasu, ko ste na davčni blagajni in ti računi so na Upravljanju rdeče obarvani. Da jih naknadno potrdite na upravljanju držite dolgi pritisk na račun, pokaže se okno kjer izberete "Naknadno potrdi na FURS". Račun na seznamu ne bo več rdeče barve in št. nepotrjenih računov v opozorilu se bo zmanjšalo za 1.
