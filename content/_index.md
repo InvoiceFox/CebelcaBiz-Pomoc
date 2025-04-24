@@ -17,6 +17,7 @@ tiskalnike na termični trak.
 
 ### Spletni program: Čebelca Računi
 
+* **[Hitri vodnik za nove uporabnike](racuni/hitri_vodnik/)** *
 * **[Pred prvo uporabo](racuni/pred_prvo_uporabo/)** *
 * **[Izdelajte prvi račun](racuni/izdelava_racuna/)** *
 * **[Davčne blagajne](racuni/davcne_blagajne/)** *
@@ -30,6 +31,7 @@ tiskalnike na termični trak.
 
 ### Mobilna davčna blagajna: Čebelca MOBI
 
+* **[Hitri vodnik za nove uporabnike](mobi/hitri_vodnik/)** *
 * **[Pred prvo uporabo](mobi/pred_prvo_uporabo/)** *
 * **[Izdelajte prvi testni račun](mobi/prvi_testni_racun/)** *
 * **[Spoznajte program](mobi/spoznajte_program/)** *
