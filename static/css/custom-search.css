@@ -1,0 +1,52 @@
+/* Custom search result styling */
+
+/* Search result container */
+#book-search-results li {
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #eee;
+}
+
+/* Search result title */
+#book-search-results a {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 0.25rem;
+  color: #1a73e8;
+  text-decoration: none;
+}
+
+#book-search-results a:hover {
+  text-decoration: underline;
+}
+
+/* Section and type information */
+#book-search-results small {
+  display: block;
+  color: #666;
+  font-size: 0.85rem;
+  margin-bottom: 0.25rem;
+}
+
+/* Content type label */
+.search-result-type {
+  display: inline-block;
+  padding: 0.1rem 0.3rem;
+  border-radius: 3px;
+  background-color: #f0f0f0;
+  font-size: 0.75rem;
+  color: #555;
+}
+
+/* Parent heading/section */
+.search-result-parent {
+  font-style: italic;
+}
+
+/* Search result context */
+.search-result-context {
+  font-size: 0.9rem;
+  color: #333;
+  margin-top: 0.25rem;
+  line-height: 1.4;
+}

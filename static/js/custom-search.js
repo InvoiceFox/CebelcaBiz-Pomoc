@@ -12,8 +12,10 @@
     useExtendedSearch: true,  // Enable extended search for more powerful queries
     keys: [
       { name: "title", weight: 1.0 },    // Increased weight for title matches
-      { name: "content", weight: 0.6 },  // Slightly increased content weight
-      { name: "section", weight: 0.4 }   // Slightly increased section weight
+      { name: "content", weight: 0.8 },  // Higher weight for content matches
+      { name: "section", weight: 0.4 },  // Section weight
+      { name: "type", weight: 0.3 },     // Type of content (heading, paragraph, question, answer)
+      { name: "parent", weight: 0.2 }    // Parent heading/section
     ]
   };
 
@@ -45,25 +47,27 @@
       })
       .then(data => {
         console.log('Search data loaded:', data);
-        if (!data || !data.pages || !Array.isArray(data.pages)) {
+        if (!data || !data.items || !Array.isArray(data.items)) {
           console.error('Invalid search data format:', data);
           throw new Error('Invalid search data format');
         }
-        searchData = data.pages;
-        console.log('Creating Fuse index with', searchData.length, 'pages');
+        searchData = data.items;
+        console.log('Creating Fuse index with', searchData.length, 'items');
         
-        // Log content of each page for debugging
+        // Log content of each item for debugging
         console.log('Checking for specific content in search data:');
         const searchTerm = 'poskenirate';
-        searchData.forEach((page, index) => {
-          if (page.content && page.content.includes(searchTerm)) {
-            console.log(`Found "${searchTerm}" in page ${index}:`, {
-              title: page.title,
-              url: page.url,
-              section: page.section,
-              contentPreview: page.content.substring(
-                Math.max(0, page.content.indexOf(searchTerm) - 50),
-                Math.min(page.content.length, page.content.indexOf(searchTerm) + 50)
+        searchData.forEach((item, index) => {
+          if (item.content && item.content.includes(searchTerm)) {
+            console.log(`Found "${searchTerm}" in item ${index}:`, {
+              title: item.title,
+              url: item.url,
+              section: item.section,
+              type: item.type,
+              parent: item.parent,
+              contentPreview: item.content.substring(
+                Math.max(0, item.content.indexOf(searchTerm) - 50),
+                Math.min(item.content.length, item.content.indexOf(searchTerm) + 50)
               )
             });
           }
@@ -148,10 +152,27 @@
       const a = document.createElement('a');
       const small = document.createElement('small');
       const context = document.createElement('div');
+      const typeLabel = document.createElement('span');
       
       a.href = item.url;
       a.textContent = item.title;
+      
+      // Show section and content type
       small.textContent = item.section;
+      if (item.type) {
+        typeLabel.textContent = ` [${item.type}]`;
+        typeLabel.className = 'search-result-type';
+        small.appendChild(typeLabel);
+      }
+      
+      // If it's a question/answer, show the parent
+      if (item.type === 'answer' && item.parent) {
+        const parentLabel = document.createElement('span');
+        parentLabel.textContent = ` - ${item.parent}`;
+        parentLabel.className = 'search-result-parent';
+        small.appendChild(parentLabel);
+      }
+      
       context.className = 'search-result-context';
       
       // Extract context from matches
