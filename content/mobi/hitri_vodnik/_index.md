@@ -1,8 +1,8 @@
-# Hitri vodnik za nove uporabnike - Čebelca MOBI
+# <span class="icon icon-smartphone icon-mobi"></span> Hitri vodnik za nove uporabnike - Čebelca MOBI
 
 Ta hitri vodnik vam bo pomagal začeti z uporabo mobilne aplikacije Čebelca MOBI v najkrajšem možnem času.
 
-## 1. Registracija in namestitev
+## <span class="icon icon-user"></span> 1. Registracija in namestitev
 
 ### Registracija dostopa
 
@@ -18,14 +18,14 @@ Ta hitri vodnik vam bo pomagal začeti z uporabo mobilne aplikacije Čebelca MOB
 3. Kliknite na **Namesti**
 4. Po namestitvi odprite aplikacijo
 
-## 2. Povezava dostopa
+## <span class="icon icon-upload"></span> 2. Povezava dostopa
 
 1. V aplikaciji Čebelca MOBI kliknite na tri pike v zgornjem desnem kotu
 2. Izberite **Poveži dostop**
 3. Vnesite e-poštni naslov in geslo, ki ste ju uporabili pri registraciji
 4. Kliknite na **POVEŽI Z DOSTOPOM**
 
-## 3. Osnovne nastavitve
+## <span class="icon icon-settings"></span> 3. Osnovne nastavitve
 
 ### Vnos podatkov o podjetju
 
@@ -46,7 +46,7 @@ Ta hitri vodnik vam bo pomagal začeti z uporabo mobilne aplikacije Čebelca MOB
    - **Način BREZ davčnega potrjevanja** - za uporabnike, ki so izvzeti iz davčnega potrjevanja
    - **Način Z davčnim potrjevanjem** - za standardno uporabo z davčnim potrjevanjem
 
-## 4. Uvoz namenskega digitalnega potrdila
+## <span class="icon icon-upload"></span> 4. Uvoz namenskega digitalnega potrdila
 
 1. Na računalniku prevzemite namensko digitalno potrdilo iz e-davkov
 2. Prijavite se na [spletno stran Čebelca MOBI](https://www.cebelca.biz/manage/mobi.html)
@@ -54,7 +54,7 @@ Ta hitri vodnik vam bo pomagal začeti z uporabo mobilne aplikacije Čebelca MOB
 4. V aplikaciji Čebelca MOBI kliknite na tri pike > **Nastavitve programa** > zavihek **PROGRAM**
 5. Kliknite na **UVOZI IZ ČEBELCA BIZ** za uvoz potrdila
 
-## 5. Vnos artiklov
+## <span class="icon icon-package"></span> 5. Vnos artiklov
 
 1. Na začetnem zaslonu kliknite na tipko **Davčna blagajna**
 2. Kliknite na tri pike v zgornjem desnem kotu
@@ -67,7 +67,7 @@ Ta hitri vodnik vam bo pomagal začeti z uporabo mobilne aplikacije Čebelca MOB
    - DDV stopnja
 7. Kliknite **Shrani**
 
-## 6. Povezava s tiskalnikom
+## <span class="icon icon-printer"></span> 6. Povezava s tiskalnikom
 
 1. Na začetnem zaslonu kliknite na tipko **Davčna blagajna**
 2. Kliknite na tri pike v zgornjem desnem kotu
@@ -78,7 +78,7 @@ Ta hitri vodnik vam bo pomagal začeti z uporabo mobilne aplikacije Čebelca MOB
 7. Vnesite kodo za povezavo (običajno 1234)
 8. Za preizkus tiskanja pojdite na **Upravljanje** > **MOŽNOSTI** > kliknite na **preizkusi**
 
-## 7. Izdaja prvega računa
+## <span class="icon icon-file-text"></span> 7. Izdaja prvega računa
 
 1. Na začetnem zaslonu kliknite na tipko **Davčna blagajna**
 2. Izberite artikle, ki jih želite dodati na račun:
@@ -87,7 +87,7 @@ Ta hitri vodnik vam bo pomagal začeti z uporabo mobilne aplikacije Čebelca MOB
 3. Izberite način plačila (npr. **GOTOVINA**)
 4. Kliknite na **Zaključi in natisni** za izdajo računa
 
-## 8. Pregled izdanih računov
+## <span class="icon icon-search"></span> 8. Pregled izdanih računov
 
 1. Na začetnem zaslonu kliknite na tipko **Davčna blagajna**
 2. Kliknite na tri pike v zgornjem desnem kotu
@@ -95,7 +95,7 @@ Ta hitri vodnik vam bo pomagal začeti z uporabo mobilne aplikacije Čebelca MOB
 4. Vsi izdani računi so prikazani na seznamu
 5. Za podrobnosti kliknite na posamezen račun
 
-## 9. Dnevni zaključek
+## <span class="icon icon-calendar"></span> 9. Dnevni zaključek
 
 1. Na začetnem zaslonu kliknite na tipko **Davčna blagajna**
 2. Kliknite na tri pike v zgornjem desnem kotu
@@ -104,7 +104,7 @@ Ta hitri vodnik vam bo pomagal začeti z uporabo mobilne aplikacije Čebelca MOB
 5. Izberite **Dnevno poročilo**
 6. Kliknite na **Zaključi dan in natisni**
 
-## 10. Izvoz podatkov za računovodstvo
+## <span class="icon icon-download"></span> 10. Izvoz podatkov za računovodstvo
 
 1. Na začetnem zaslonu kliknite na tipko **Davčna blagajna**
 2. Kliknite na tri pike v zgornjem desnem kotu
@@ -114,8 +114,9 @@ Ta hitri vodnik vam bo pomagal začeti z uporabo mobilne aplikacije Čebelca MOB
 6. Naredite dolgi pritisk na izbrani mesec
 7. Izberite **izvoz poročil na Dropbox**
 
-## Dodatna pomoč
+## <span class="icon icon-help-circle"></span> Dodatna pomoč
 
 Za podrobnejša navodila in odgovore na pogosta vprašanja obiščite:
 - [Pogosta vprašanja](../faq-more/)
 - [Podrobna navodila za uporabo](../pred_prvo_uporabo/)
+- [Dodatne funkcionalnosti](../dodatne_funkcionalnosti/)

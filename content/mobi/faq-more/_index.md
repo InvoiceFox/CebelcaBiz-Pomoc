@@ -234,3 +234,35 @@ Za aplikacijo samo ni pomembno kje ste, če jo imate nameščeno na Android napr
 da želite izdati račun brez EOR (brez potrjevanja na FURS). Če kliknete da, se bo račun izdal a bo ostal nepotrjen in imate 48 ur, da ga naknadno potrdite na FURS, npr. ko pridete v Slovenijo.
 
 Program vas opozarja o številu nepotrjenih računov, v rdečem pasu, ko ste na davčni blagajni in ti računi so na Upravljanju rdeče obarvani. Da jih naknadno potrdite na upravljanju držite dolgi pritisk na račun, pokaže se okno kjer izberete "Naknadno potrdi na FURS". Račun na seznamu ne bo več rdeče barve in št. nepotrjenih računov v opozorilu se bo zmanjšalo za 1.
+
+### Kako omogočim funkcijo "Zbirka besedil" v Čebelca MOBI?
+
+Pojdite na Upravljanje > Možnosti in obkljukajte "Omogoči zbirko besedil". Po shranjevanju se bo v Upravljanju pojavil nov zavihek "Besedila", kjer lahko dodajate in urejate pogosto uporabljena besedila.
+
+### Kako uporabim shranjeno besedilo iz zbirke v Čebelca MOBI?
+
+Ko ustvarjate račun, preden ga zaključite, pritisnite ikono "..." (tri pike) v zgornjem desnem kotu in izberite "Dodeli besedilo". Nato obkljukajte želeno besedilo s seznama, ki se bo dodalo na račun.
+
+### V kakšni obliki moram pripraviti datoteko za uvoz artiklov v Čebelca MOBI?
+
+Pripraviti morate CSV datoteko s stolpci: `name,tax,price,category,barcode`. Cene naj bodo neto (brez DDV) na vsaj 4 decimalke. Primer in podrobnejša navodila najdete na strani [Dodatne funkcionalnosti](../dodatne_funkcionalnosti/).
+
+### Kako prenesem artikle med dvema napravama s Čebelca MOBI?
+
+Na prvi napravi izvozite artikle preko Upravljanje > ... > Uvoz/Izvoz podatkov > Izvozi artikle na pomnilnik. Datoteko `artikli.csv` prenesite na drugo napravo (npr. preko Dropboxa ali e-pošte) in jo tam uvozite preko Upravljanje > ... > Uvoz/Izvoz podatkov > Uvozi artikle iz pomnilnika.
+
+### Kako pogosto naj delam varnostno kopijo podatkov (backup) v Čebelca MOBI?
+
+Priporočljivo je, da varnostno kopijo na Dropbox naredite vsaj enkrat dnevno, še posebej po zaključku prodajnega dne ali po vnosu večje količine podatkov, da zmanjšate možnost izgube podatkov v primeru težav z napravo.
+
+### Ali lahko Čebelco MOBI uporabljam za več podjetij na istem telefonu?
+
+Uporaba za več podjetij na isti napravi je običajno mogoča na Android tablicah, ki podpirajo več uporabniških računov (običajno od Androida 4.2 naprej). Na telefonih ta možnost pogosto ni na voljo. Preverite nastavitve svoje naprave pod "Uporabniki" ali "Multiple users".
+
+### Kako Čebelca MOBI obravnava prodajo sestavljenih artiklov pri odpisu zaloge v povezavi s Čebelca Skladiščem?
+
+Pri uporabi funkcije "Dnevna prodaja v skladišče" se ne odpiše sestavljeni artikel (izdelek), temveč se iz zaloge odpišejo njegovi sestavni deli (material) glede na definirano sestavo (kosovnico) v Čebelca Skladišču.
+
+### Katere datoteke se izvozijo na Dropbox pri izvozu podatkov za računovodstvo?
+
+Pri izvozu mesečnih poročil na Dropbox se ustvari 6 CSV datotek: prodaja po dnevih, seznam vseh računov, seznam vseh postavk na računih, prodaja po artiklih, prodaja po skupinah artiklov in prodaja po prodajalcih.

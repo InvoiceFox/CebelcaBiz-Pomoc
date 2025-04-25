@@ -76,6 +76,7 @@ tiskalnike na termični trak.
 ### Razno
 
 * [Dodatni dostopi](faq/dodatni_dostopi/) **
+* [Primer uporabe ikon](faq/ikone-primer/) *
 
 ## Integracije
 

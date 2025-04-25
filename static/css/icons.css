@@ -1,0 +1,147 @@
+/* Icons CSS for CebelcaBiz Documentation */
+
+/* Base icon styles */
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.125em;
+  margin-right: 0.25em;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+/* Icon sizes */
+.icon-sm {
+  width: 0.875em;
+  height: 0.875em;
+}
+
+.icon-lg {
+  width: 1.33em;
+  height: 1.33em;
+}
+
+.icon-xl {
+  width: 1.5em;
+  height: 1.5em;
+}
+
+/* Icon definitions */
+.icon-home {
+  background-image: url('/navodila/icons/home.svg');
+}
+
+.icon-file-text {
+  background-image: url('/navodila/icons/file-text.svg');
+}
+
+.icon-smartphone {
+  background-image: url('/navodila/icons/smartphone.svg');
+}
+
+.icon-package {
+  background-image: url('/navodila/icons/package.svg');
+}
+
+.icon-truck {
+  background-image: url('/navodila/icons/truck.svg');
+}
+
+.icon-help-circle {
+  background-image: url('/navodila/icons/help-circle.svg');
+}
+
+.icon-info {
+  background-image: url('/navodila/icons/info.svg');
+}
+
+.icon-alert-triangle {
+  background-image: url('/navodila/icons/alert-triangle.svg');
+}
+
+.icon-settings {
+  background-image: url('/navodila/icons/settings.svg');
+}
+
+.icon-user {
+  background-image: url('/navodila/icons/user.svg');
+}
+
+.icon-credit-card {
+  background-image: url('/navodila/icons/credit-card.svg');
+}
+
+.icon-calendar {
+  background-image: url('/navodila/icons/calendar.svg');
+}
+
+.icon-printer {
+  background-image: url('/navodila/icons/printer.svg');
+}
+
+.icon-download {
+  background-image: url('/navodila/icons/download.svg');
+}
+
+.icon-upload {
+  background-image: url('/navodila/icons/upload.svg');
+}
+
+.icon-search {
+  background-image: url('/navodila/icons/search.svg');
+}
+
+/* Module-specific colors */
+.icon-racuni {
+  color: #4285f4; /* Blue */
+}
+
+.icon-mobi {
+  color: #34a853; /* Green */
+}
+
+.icon-skladisce {
+  color: #fbbc05; /* Yellow */
+}
+
+.icon-potni-nalogi {
+  color: #ea4335; /* Red */
+}
+
+/* Status colors */
+.icon-success {
+  color: #28a745;
+}
+
+.icon-warning {
+  color: #ffc107;
+}
+
+.icon-danger {
+  color: #dc3545;
+}
+
+.icon-info-color {
+  color: #17a2b8;
+}
+
+/* Icon with text wrapper */
+.icon-with-text {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+/* Special styles for menu items */
+.menu-item .icon {
+  margin-right: 0.5rem;
+}
+
+/* Special styles for section headers */
+.section-header .icon {
+  margin-right: 0.75rem;
+  width: 1.5em;
+  height: 1.5em;
+}

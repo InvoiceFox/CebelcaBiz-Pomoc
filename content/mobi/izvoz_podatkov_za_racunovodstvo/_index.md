@@ -28,3 +28,14 @@ ste na seznamu računov za tisti dan storite isto kot normalno. Torej *...*, *Dn
 
 ### Izvoz poročil na Dropbox
 
+V Čebelci MOBI kliknete Upravljanje > POROČILA > MESECI (spodaj) > dolgi pritisk na izbrani mesec > izvoz poročil na Dropbox.
+
+Ukaz **izvozi mesečne račune** vam nudi bolj podroben pregled nad prodajo. Najdete ga pri **Upravljanje > ... > Uvoz / izvoz podatkov**. In sicer se v vašo Dropbox mapo (Apps/CebelcaMOBI/) izvozi 6 **.csv** datotek. Ena datoteka prikazuje prodajo po dnevih, druga vse račune, tretja vse vsebine računov, prodajo po artiklih, skupinah artiklov in prodajalcih.
+
+CSV datoteke so preproste excel datoteke. Za odpiranje močno priporočamo brezplačen Open Office (ali Libre Office) Calc. Kar je brezplačna odprtokodna alternativa Excel-u in ima izvrstna orodja za odpiranje teh datotek. Tudi Excel odpira .csv datoteke, vendar so včasih težave s šumniki, ali pretvarjanjem določenih števil v datume (npr. 9.5 v 9.maj), odvisno od verzije, jezikovnih nastavitev in načina odpiranja.
+
+### Poročila in izvoz za prejšnje mesece
+
+Ukazi **Dnevno poročilo**, **Mesečno poročilo** in **Izvozi mesečne račune** so vezani na izbrani datum na dnu strani **Računi**. Če izberete katerikoli datum v prejšnjem mesecu, vam bo program ustvaril poročila za tisti mesec.
+
+Datum spremenite tako, da na dnu strani **Računi** kliknete na **izberi dan**. Prikazalo vam bo dneve v tem mesecu, ko ste imeli prodaje. Spet spodaj kliknete **Izberi mesec** in izberite željeni mesec. Prikazalo vam bo seznam datumov prodaje v tistem mesecu in takrat izberete katerikoli datum. Ta datum bo potem napisan spodaj na strani Računi in za ta dan ali mesec se bodo generirala poročila in izvozi.
