@@ -19,7 +19,7 @@ jobs:
     - name: Set up Hugo
       uses: peaceiris/actions-hugo@v2
       with:
-        hugo-version: '0.127.0'
+        hugo-version: '0.146.5'
         extended: true     # Use this for scss transpiler
 
     - name: Build Hugo site
@@ -37,5 +37,5 @@ jobs:
         USERNAME: ${{ secrets.USERNAME }}       # Your SSH username
         PASSWORD: ${{ secrets.PASSWORD }}       # Your SSH password or use private key for better security
       run: |
-        sshpass -p "$PASSWORD" scp -P 1023 -o StrictHostKeyChecking=no -r ./public/* $USERNAME@$SERVER:myhome/navodila/.
+        sshpass -p "$PASSWORD" scp -v -P 1023 -o StrictHostKeyChecking=no -r ./public/* $USERNAME@$SERVER:myhome/navodila/.
 
