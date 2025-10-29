@@ -104,11 +104,15 @@ Spodaj si lahko preberete, kako pridobite novo potrdilo in kako ga namestite, č
 
 Računovodki servis vam običajno pošlje PDF dokument s podatki in navodili za prevzem. PDF dokument odprete in v njem najdete referenčno številko, geslo za prevzem in namestitev potrdila ter povezavo do strani za prevzem.
 
+![dokument_DPR_prevzem](./scr_taxca_gov_prevzem0.png)
+
 V primeru, da povezave niste prejeli ali se je ne da klikniti, na google vpišite "taxca prevzem" in sledite prvemu zadetku.
 
 Ko kliknete na povezavo, je velika verjetnost, da vas bo brskalnik opozoril, da stran ni varna. To javlja večina strani slovenske države, saj uporabljajo nacionalne certifikate, katerim brskalniki brez dodatnih nastavitev ne zaupajo.
 
 V brskalniku (odvisno od brskalnika) kliknete "dodatno", "več možnosti" ali "advanced" in potem na "nadaljuj na stran".
+
+![obrazec za prenos potrdila](./scr_taxca_prevzem_obrazec.png)
 
 Odpre vam obrazec, kjer vpišete referenčno številko in geslo iz PDF dokumenta ter sledite postopku. Ko se vam ponudi opcija za prenos (download), potrdilo shranite na svoj računalnik. Datoteke ne odpirajte. Če jo boste, se bo odprl čarovnik za uvoz potrdila v vas operacijski sistem, čemur to potrdilo ni namenjeno.
 
@@ -121,6 +125,8 @@ Torej prevzeli ste novo digitalno potrdilo. Postopek naprej je odvisen od tega a
 Če kot davčno blagajno uporabljate spletni program, se prijavite vanj in obiščete stran "Nastavitve" zgoraj desno. Na strani kliknete modro povezavo "Davčne blagajne".
 
 Pri polju "Namensko digitalno potrdilo" kliknete "Odstrani digitalno potrdilo".
+
+![Nastavitve Davčne blagajne spletna Čebelca](./scr_cebiz_davblag_settings.png)
  
 Spet se pokažeta polji za vnos datoteke digitalnega potrdila in gesla. Pri prvem prebrskate za zgoraj omenjano datoteko iz vašega računalnika, v polje z geslom pa vpišete prav tako zgoraj omenjeno geslo za prevzem in namestitev.
 
@@ -133,8 +139,12 @@ Potrdila ne prevzemajte na Android napravi, saj ga le-ta uvozi v sistem in do sa
 Na računalniku se prijavite v spletni dostop Čebelca BIZ. Če imate izbranih več modulov po prijavi zgoraj levo kliknite "Mobi", da pridete na stran mobi modula.
 
 Tu boste opazili moder okvirček, kamor z miško prenesete datoteko digitalnega potrdila iz vašega računalnika. 
+
+![Animacija, prenos potrdila v okence](./ani-mobi-upload-cert-online.gif)
  
 Ko to storite, greste na Android napravo, kjer odprete Čebelco MOBI. Zgoraj desno kliknete 3 pike (menujska tipka) in izberete "Nastavitve programa" ter na strani, ki se odpre, zavihek "PROGRAM".
+
+![Nastavitve > PROGRAM v Čebelca Mobi](./scr_mobi_nastavitve_program.png)
 
 Tu pri sekciji "Namensko digitalno potrdilo" kliknete "Odstrani digitalno potrdilo" in potem "Uvozi iz čebelca BIZ". Če je vse v redu, vas bo vprašalo za geslo potrdila. Vnesete geslo, ki ste ga prejeli poleg referenčne številke.
 

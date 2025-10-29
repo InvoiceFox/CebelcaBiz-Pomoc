@@ -28,6 +28,7 @@ tiskalnike na termični trak.
 * [Izvoz podatkov za računovodstvo](racuni/izvoz_podatkov_za_racunovodstvo/) **
 * [Povezava s spletno trgovino](https://github.com/InvoiceFox/CebelcaBIZ-WooCommerce#readme) *
 * [Napredne nastavitve](racuni/napredne_nastavitve/) *
+* [Nove DDV Evidence](racuni/ddv_evidence_kirkpr/) *
 
 ### Mobilna davčna blagajna: Čebelca MOBI
 
